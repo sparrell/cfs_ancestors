@@ -1,8 +1,9 @@
 = Introduction
 
+dedication to cfs
+
 * Vol 1
 ** Introduction
-** charles, James, Ann
 ** ancestors
 ** chart
 ** duplicates
@@ -10,6 +11,7 @@
 ** ships
 ** wo ships
 ** brickwalls
+** charles, James, Ann
 * Vol 2 - Ancestral ships
 ** Chapter 1 - Mayflower
 *** Elder Brewster
