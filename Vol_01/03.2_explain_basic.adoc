@@ -1,0 +1,4 @@
+= Ancestry
+explain basic graph ie ancestors in general
+
+issues like duplication, brickwalls, ships, immigrants wo ships
