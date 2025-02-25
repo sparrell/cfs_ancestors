@@ -1,7 +1,16 @@
 = Introduction
+
 explain what here
 
 == Vol 1 Intro
+
+This is volume 1
+which is just text I'm typing so you understand.
+And I'll make a list:
+* first item in list
+* second item in list
+
+See that was a list
 
 == Vol 2 Ships
 
