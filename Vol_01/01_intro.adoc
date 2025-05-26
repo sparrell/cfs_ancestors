@@ -13,18 +13,25 @@ And I'll make a list:
 
 See that was a list
 
+sub-vol on paternal, maternal, and autosomal DNA
+
 == Vol 2 Ships
 
 This is a super exciting change that will bring about world peace. =) 
 
 == Vol 3 Anesctral Anectdotes
 
-== Vol 4 Ancestors
+== Vol 4 Military
 
-== Vol 5 Fun Fact Cousins
+== Vol 5 Town Founders
 
-== Vol 6 Index
+== Vol 6 Heriditary Societies
 
-== Vol 7 Software
+== Vol 7 Fun Fact Cousins
 
-== Vol 8 DB of everything
+== Vol x Index or Indicies (make last?)
+
+== Vol y Software
+
+== Vol z DB of everything
+

@@ -1,0 +1,69 @@
+digraph GRAMPS_graph {
+	graph [bgcolor=white, center=true, charset=utf8, concentrate=false, dpi=75, fontsize=14, margin="0.250000,0.555556", mclimit=99, nodesep="0.20", outputorder=edgesfirst, page="20.000000,20.000000", pagedir=BL, rankdir=TB, ranksep="0.20", ratio=fill, searchsize=100, size="17.99,17.99", splines=true];
+	node [label="\N", style=filled, fontsize=14];
+	edge [len="0.5", style=solid, arrowhead=none, arrowtail=normal, fontsize=14];
+	graph [margin="1.00,1.00",
+		page="20.00,20.00",
+		bb="0 0 1295 1295"];
+	subgraph cluster_fam1 {
+		graph [margin="0.250000,0.555556",
+			page="20.000000,20.000000",
+			style=dotted,
+			bb=""];
+		I776 [label="Barrell, Desire \n(1798-10-06 - 1872-01-06)", style="rounded,filled", shape=box, fillcolor=lightpink];
+		I765 [label="Sparrell, James Newton \n(1798-05-08 - 1859-03-01)", style="solid,filled", shape=box, fillcolor=lightblue];
+	}
+	I611 [label="Stetson, Robert \n(1613 - 1703-02-01)", style="solid,filled", shape=box, fillcolor=lightblue];
+	I608 [label="Stetson, Joseph \n(1639-06-00 - before 1734)", style="solid,filled", shape=box, fillcolor=lightblue];
+	I583 [label="Stetson, Robert \n(1670-12-09 - 1760)", style="solid,filled", shape=box, fillcolor=lightblue];
+	I745 [label="Stetson, Anthony \n(1693-09-12 - 1747)", style="solid,filled", shape=box, fillcolor=lightblue];
+	I567 [label="Stetson, Jemimah \n(1695-03-13 - )", style="rounded,filled", shape=box, fillcolor=lightpink];
+	I557 [label="Damon, Jemimah \n(1724-03-09 - )", style="rounded,filled", shape=box, fillcolor=lightpink];
+	I799 [label="Farrow, Martha \n(before 1754-05-19 - )", style="rounded,filled", shape=box, fillcolor=lightpink];
+	F205 [shape=point, fillcolor=lightyellow];
+	I721 [label="Sparrell, James Newton \n(1825-02-19 - 1877)", style="solid,filled", shape=box, fillcolor=lightblue];
+	I665 [label="Sparrell, Herbert Kirkwood \n(1847-05-16 - 1923-10-20)", style="solid,filled", shape=box, fillcolor=lightblue];
+	I1340 [label="Sparrell, Charles Herbert \n(1873-07-04 - 1961-11-14)", style="solid,filled", shape=box, fillcolor=lightblue];
+	I898 [label="Sparrell, Herbert Kirkwood \n(1899-02-26 - 1978-06-16)", style="solid,filled", shape=box, fillcolor=lightblue];
+	I190 [label="Sparrell, Charles Fisher \n(1928-10-26 - 2007-09-25)", style="solid,filled", shape=box, fillcolor=lightblue];
+	I676 [label="Sparrell, Duncan Kirkwood \n(1955-11-26 - )", style="solid,filled", shape=box, fillcolor=lightblue];
+	I575 [label="Sparrell, Hilary Anne \n(1986-06-06 - )", style="rounded,filled", shape=box, fillcolor=lightpink];
+	I576 [label="Sparrell, Stephanie Marie \n(1988-08-23 - )", style="rounded,filled", shape=box, fillcolor=lightpink];
+	I578 [label="Sparrell, Courtney Lynne \n(1990-10-09 - )", style="rounded,filled", shape=box, fillcolor=lightpink];
+	I600 [label="Stetson, Mary \n(1717-12-09 - about 1800)", style="rounded,filled", shape=box, fillcolor=lightpink];
+	I598 [label="Vinal, Ruth \n(1746-04-23 - after 1810)", style="rounded,filled", shape=box, fillcolor=lightpink];
+	I943 [label="Sparrell, James Newton \n(1770-04-07 - 1826-11-03)", style="solid,filled", shape=box, fillcolor=lightblue];
+	I611 -> I608 [arrowhead=normal, arrowtail=none, color=red];
+	I611 -> I608 [arrowhead=normal, arrowtail=none, color=blue];
+	I608 -> I583 [arrowhead=normal, arrowtail=none, color=red];
+	I608 -> I583 [arrowhead=normal, arrowtail=none, color=blue];
+	I583 -> I745 [arrowhead=normal, arrowtail=none, color=blue];
+	I583 -> I567 [arrowhead=normal, arrowtail=none, color=red];
+	I567 -> I557 [arrowhead=normal, arrowtail=none, color=red];
+	I557 -> I799 [arrowhead=normal, arrowtail=none, color=red];
+	I799 -> I776 [arrowhead=normal, arrowtail=none, color=red];
+	I776 -> F205 [arrowhead=normal, arrowtail=none, color=red];
+	F205 -> I721 [arrowhead=normal, arrowtail=none, color=blue];
+	F205 -> I721 [arrowhead=normal, arrowtail=none, color=red];
+	I721 -> I665 [arrowhead=normal, arrowtail=none, color=blue];
+	I721 -> I665 [arrowhead=normal, arrowtail=none, color=red];
+	I665 -> I1340 [arrowhead=normal, arrowtail=none, color=blue];
+	I665 -> I1340 [arrowhead=normal, arrowtail=none, color=red];
+	I1340 -> I898 [arrowhead=normal, arrowtail=none, color=blue];
+	I1340 -> I898 [arrowhead=normal, arrowtail=none, color=red];
+	I898 -> I190 [arrowhead=normal, arrowtail=none, color=blue];
+	I898 -> I190 [arrowhead=normal, arrowtail=none, color=red];
+	I190 -> I676 [arrowhead=normal, arrowtail=none, color=blue];
+	I190 -> I676 [arrowhead=normal, arrowtail=none, color=red];
+	I676 -> I575 [arrowhead=normal, arrowtail=none, color=blue];
+	I676 -> I575 [arrowhead=normal, arrowtail=none, color=red];
+	I676 -> I576 [arrowhead=normal, arrowtail=none, color=blue];
+	I676 -> I576 [arrowhead=normal, arrowtail=none, color=red];
+	I676 -> I578 [arrowhead=normal, arrowtail=none, color=blue];
+	I676 -> I578 [arrowhead=normal, arrowtail=none, color=red];
+	I745 -> I600 [arrowhead=normal, arrowtail=none, color=blue];
+	I600 -> I598 [arrowhead=normal, arrowtail=none, color=blue];
+	I598 -> I943 [arrowhead=normal, arrowtail=none, color=blue];
+	I943 -> I765 [arrowhead=normal, arrowtail=none, color=blue];
+	I765 -> F205 [arrowhead=normal, arrowtail=none, color=blue];
+}
