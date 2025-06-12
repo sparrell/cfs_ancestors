@@ -10,10 +10,13 @@ this represents
 
 https://github.com/sparrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C2_Ships[Chapter 2] 
 has the ships 59 of the ancestors came in on.
+
 https://github.com/sparrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C3_No_Ships[Chapter 3] 
 has 320 additional ancestors who were immigrants but we do not know the ship.
+
 https://github.com/sparrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C4_Brick_Walls[Chapter 4] 
 has 124 brickwalls.
+
 All 503 of those people are included in this chapter,
 along with the 412 ancestors between the prinipals and the line terminations.
 
