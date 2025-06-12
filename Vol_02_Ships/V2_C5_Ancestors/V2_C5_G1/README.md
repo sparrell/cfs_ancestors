@@ -1,9 +1,3 @@
 = Intro Generation 1
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.P.adoc[Herbert Kirkwood Sparrell (1899 - 1978)]
-* https://github.com/sparrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.M.adoc[Marion F Fisher (1904 - 2002)]
-
-== Menu
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
-
-* https://github.com/sparrell/cfs_ancestors/tree/blob/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/[Generation 2]
+see [Intro](./01_intro.adoc)
 
