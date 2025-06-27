@@ -1,0 +1,11 @@
+= Grapsh
+
+start with old python colored circle
+
+redo making elixir 'basid'
+
+evolve to 'hybrid'
+
+society/town/etc relationship graphs
+
+fun cousin graphs

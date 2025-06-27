@@ -1,4 +1,10 @@
 = DNA
 == Paternal Line DNA
+
+image:./2sparrellYgeneNoLiving.png[Sparrell Y chromosome]
+
 == Nana mitochondrial DNA
+
+image:./NanaMrDNA_familylines_graph.png[Nana MtDNA]
+
 == Autosomal DNA

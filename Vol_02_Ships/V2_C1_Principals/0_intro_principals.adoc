@@ -1,4 +1,8 @@
 = Principals
 
 This book is about the ancestors of:
-* 
+
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C1_Principals/1_Charles_Fisher_Sparrell.adoc[Charles Fisher Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C1_Principals/2_James_Kirkwood_Sparrell.adoc[James Kirkwood Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C1_Principals/3_Ann_Sparrell.adoc[Ann Sparrell]
+

@@ -1,0 +1,107 @@
+digraph GRAMPS_graph
+{
+  bgcolor=white;
+  center="true"; 
+  charset="utf8";
+  concentrate="false";
+  dpi="75";
+  graph [fontsize=14];
+  margin="1.00,1.00"; 
+  mclimit="99";
+  nodesep="0.20";
+  outputorder="edgesfirst";
+#  page="100.00,100.00";
+  pagedir="BL";
+  rankdir="TB";
+  ranksep="0.20";
+  ratio="fill";
+  searchsize="100";
+  size="17.99,17.99"; 
+  splines="true";
+
+  edge [len=0.5 style=solid fontsize=14];
+  node [style=filled fontsize=14];
+
+# Number of people in database:    215
+# Number of people of interest:    215
+# Number of families in database:  72
+# Number of families of interest:  72
+# Additional people removed:       0
+# Additional families removed:     0
+# Initial list of people of interest:
+# -> I953, James Newton Sparrell
+
+  I975 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Sparrell, William \n(1800-06-27 - )" ];
+  I1135 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Sparrell, Charles Warren \n(1835-12-30 - 1906)" ];
+  I953 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Sparrell, James Newton \n(about 1740 - 1773)" ];
+  I1976 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Sparrell, Roy \n(1892-11-00 - )" ];
+  I764 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Sparrell, James Newton \n(1798-05-08 - 1859-03-01)" ];
+  I282 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Sparrell, Lester Strong (Duke) \n(1904-02-12 - 1985-02-15)" ];
+  I2061 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Sparrell, Marvin Eugene \n(1914-02-05 - 2008-09-24)" ];
+  I1339 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Sparrell, Charles Herbert \n(1873-07-04 - 1961-11-14)" ];
+  I1985 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Sparrell, Kenneth A \n(1918-05-26 - 1984-06-15)" ];
+  I1144 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Sparrell, John Turner \n(1803-01-09 - )" ];
+  I1974 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Sparrell, Albert \n(1880-03-00 - )" ];
+  I1393 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Sparrell, Ernest Hamilton \n(1871-12-30 - 1946)" ];
+  I1140 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Sparrell, George Henry \n(1831-05-10 - after 1899-08-29)" ];
+  I1971 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Sparrell, George Turner \n(1855-04-21 - 1923)" ];
+  I897 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Sparrell, Herbert Kirkwood \n(1899-02-26 - 1978-06-16)" ];
+  I720 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Sparrell, James Newton \n(1825-02-19 - 1877)" ];
+  I1391 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Sparrell, Albert Laureston \n(1864-09-03 - 1947-06-16)" ];
+  I664 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Sparrell, Herbert Kirkwood \n(1847-05-16 - 1923-10-20)" ];
+  I1392 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Sparrell, Charles Walter \n(1866 - )" ];
+  I1990 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Sparrell, George Partridge \n(1812-06-07 - )" ];
+  I687 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Sparrell, Frank Joseph \n(1875-05-27 - 1947-04-07)" ];
+  I190 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Sparrell, Charles Fisher \n(1928-10-26 - 2007-09-25)" ];
+  I942 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Sparrell, James Newton \n(1770-04-07 - 1826-11-03)" ];
+  I1394 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Sparrell, John Henry" ];
+  I742 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Sparrell, James Newton \n(1849 - )" ];
+  I2059 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Sparrell, Herbert Warren \n(1890-04-26 - 1926-09-25)" ];
+  I1969 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Sparrell, Edward Howland \n(1858-09-00 - )" ];
+
+  I942 -> I764; // child:  James Newton Sparrell
+  I942 -> I975; // child:  William Sparrell
+  I942 -> I1144; // child:  John Turner Sparrell
+  I942 -> I1990; // child:  George Partridge Sparrell
+
+  I897 -> I1985; // child:  Kenneth A Sparrell
+
+
+  I1140 -> I1969; // child:  Edward Howland Sparrell
+  I1140 -> I1971; // child:  George Turner Sparrell
+
+  I1339 -> I897; // child:  Herbert Kirkwood Sparrell
+  I1339 -> I282; // child:  Lester Strong (Duke) Sparrell
+
+  I953 -> I942; // child:  James Newton Sparrell
+
+
+  I1971 -> I1974; // child:  Albert Sparrell
+  I1971 -> I1976; // child:  Roy Sparrell
+
+
+  I1135 -> I1391; // child:  Albert Laureston Sparrell
+  I1135 -> I1392; // child:  Charles Walter Sparrell
+  I1135 -> I1393; // child:  Ernest Hamilton Sparrell
+  I1135 -> I1394; // child:  John Henry Sparrell
+
+  I720 -> I664; // child:  Herbert Kirkwood Sparrell
+  I720 -> I742; // child:  James Newton Sparrell
+
+
+  I897 -> I190; // child:  Charles Fisher Sparrell
+
+  I2059 -> I2061; // child:  Marvin Eugene Sparrell
+
+  I764 -> I720; // child:  James Newton Sparrell
+  I764 -> I1140; // child:  George Henry Sparrell
+  I764 -> I1135; // child:  Charles Warren Sparrell
+
+  I1391 -> I2059; // child:  Herbert Warren Sparrell
+
+  I664 -> I1339; // child:  Charles Herbert Sparrell
+  I664 -> I687; // child:  Frank Joseph Sparrell
+
+
+}
+
