@@ -2,6 +2,8 @@
 
 == Vol_01
 
+show images or just links
+
 .image:ancestors.svg[basic]
 
 .image:04_hybrid_graph.svg[Hybrid Graph wo dups] 
@@ -13,6 +15,7 @@
 == Vol_02 Ships
 
 Mayflower
+* link:
 
 Anne
 
