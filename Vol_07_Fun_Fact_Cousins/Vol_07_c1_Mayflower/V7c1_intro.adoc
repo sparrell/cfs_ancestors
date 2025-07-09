@@ -2,3 +2,69 @@
 
 Famous people also descended from our Mayflower ancestors
 
+== Alden
+ Our famous cousins descended from John anbd Pricilla Alden:
+
+ * Dick Van Dyke, actor - tenth cousin once removed
+ * Henry Wadsworth Longfellow, poet - 4th cousin six times removed
+ * John Adams, 2nd US President - third cousin seven times removed
+ * John Quincy Adams, 6th US President - fourth cousin six times removed
+ * Marilyn Monroe, actress - eighth cousin three times removed
+ * Orson Wells, actor - eighth cousin three times removed
+ * William Cullen Bryant, poet - fifth cousin six times removed
+
+see link:./aldenDesc.gv.png[Alden Descendants] for relations 
+
+== Bradford
+Our famous cousins descended from Govenor William Bradford:
+
+* Christopher Reeves, actor - nineth cousin
+* Clint Eastwood, actor - ninth cousin
+* Deborah Sampson, woman revolutionary soldier - third cousin six times removed
+* George McClellan, Civil War general - sixth cousin three times removed
+* George Eastman, Kodak camera - fifth cousin four times removed
+* Hugh Hefner, playboy - eighth cousin once removed
+* Noah Webster, dictionary - third cousin six times removed
+
+see link:./bradfordDesc.gv.png[Bradford Descendants] for relations 
+
+== Brewster
+Our famous cousins descended from Elder and Mary Brewster:
+
+* Bing Crosby, musician - tenth cousin
+* Zachary Taylor, 12th US Presiden - fifth cousin five times removed
+
+see link:./brewsterDesc.gv.png[Bradford Descendants] for relations 
+
+== Chilton
+Our famous cousins descended from James and Susana Chilton:
+
+* Amy Schumer, Comedian - 13th cousin once removed
+* Burl Ives, Musician - 10th cousin three times removed
+* Christopher Lloyd, Actor - 10th cousin three times removed
+* Colin Jost, Comedian - 13th cousin
+* Dan Quayle, 44th US VP - 13th cousin once removed
+* Henry Fonda, Actor - 10th cousin three times removed
+* Jane Fonda, Actress - 11th cousin two times removed
+* Pete Seeger, Musician - 10th cousin three times removed
+* Vincent Price, actor - 10th cousin three times removed
+
+see link:./chiltonDesc.gv.png[Chilton Descendants] for relations
+
+== Rogers
+
+Our famous cousins descended from Thomas Rogers:
+
+* Alex Baldwin, actor - 
+* Julia Child, chef - 8th cousin
+* Kate Hudson, actress - 
+* Kurt Cobain, musician - 8th cousin twice removed
+* Noah Webster, dictionary - 
+* Rutherford B. Hayes, 19th US President - 
+* Sarah Palin, politician -
+* William Cullen Bryant, poet -
+* Wallis Simpson, King Edward VIII abdication - 
+* Zac Efron, actor - eighth cousin once removed
+
+
+see 

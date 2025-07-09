@@ -5,22 +5,22 @@ digraph GRAMPS_graph
   charset="utf8";
   concentrate="false";
   dpi="300";
-  graph [fontsize=28];
+  graph [fontsize=12];
   margin="1.00,1.00";
   mclimit="99";
   nodesep="0.20";
   outputorder="edgesfirst";
-  page="36.00 40.00";
+  page="24.00 24.00";
   pagedir="BL";
   rankdir="BT";
   ranksep="0.20";
   ratio="fill";
   searchsize="100";
-  size="36.00 40.00";
+  size="24.00 24.00";
   splines="true";
 
-  edge [len=0.5 style=solid arrowhead=none arrowtail=normal fontsize=28];
-  node [style=filled fontsize=28];
+  edge [len=0.2 style=solid arrowhead=none arrowtail=normal fontsize=12];
+  node [style=filled fontsize=12];
 
 
   I0000 [ shape="plaintext" fillcolor="#ffffff"  label="Famous Chilton Descendants" fontsize=48];
@@ -31,9 +31,21 @@ digraph GRAMPS_graph
   I371 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Marion Fisher" ];
   I1065 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Martha Avery Edgecomb" ];
   I191 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Lavinia Elizabeth Strong" ];
-  Icfs [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Charles Fisher Sparrell" ];
-  Ijks [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="James Kirkwood Sparrell" ];
-  I190 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Ann Sparrell" ];
+
+	Icfs [style="solid,filled", shape=record, fillcolor=white, label=<
+		<TABLE>
+		  <TR>
+		      <TD COLSPAN="3"><IMG SRC="Images/CharlesAnnJimHats.jpg" /></TD>
+		  </TR>
+		  <TR>
+		      <TD BGCOLOR="#ffe0e0">Ann</TD>
+		      <TD BGCOLOR="#e0e0ff">Jim</TD>
+		      <TD BGCOLOR="#e0e0ff">Charles</TD>
+		  </TR>
+		</TABLE>>
+	     ];
+
+
   I402 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Alice Virginia Edgecomb" ];
   I349 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Ida A Hurlburt" ];
   I898 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Herbert Kirkwood Sparrell" ];
@@ -87,7 +99,7 @@ digraph GRAMPS_graph
   { rank = same; IKennethHaydenJones; IDanielAJost; IMariePaulineCline; I371; I898; } // Marion, HK Sparrell
 
   // Generation 0
-  { rank = same; ISandraJaneJones; IColinJost; IJamesClineQuale; Icfs; Ijks; I190} // principals
+  { rank = same; ISandraJaneJones; IColinJost; IJamesClineQuale; Icfs; } // principals
 
   I898 -> I191 [color=purple style=bold]; // mother: Lavinia Elizabeth Strong
   I371 -> I349 [color=purple style=bold]; // child:  Marion Fisher to mother: Ida A Hurlburt
@@ -99,9 +111,7 @@ digraph GRAMPS_graph
   F259 -> I898 [color=purple style=bold]; // father: Herbert Kirkwood Sparrell
   F259 -> I371 [color=purple style=bold]; // mother: Marion Fisher
   }
-  Icfs -> F259 [color=purple style=bold]; // child:  Charles Fisher Sparrell
-  Ijks -> F259 [color=purple style=bold]; // child:  Charles Fisher Sparrell
-  I190 -> F259 [color=purple style=bold]; // child:  Charles Fisher Sparrell
+  Icfs -> F259 [color=purple style=bold]; // child:  Charles, James, Ann Sparrell
 
 
   subgraph cluster_F382
@@ -353,10 +363,9 @@ digraph GRAMPS_graph
   ILeviFranklinIves -> ICharlotteJosephineOrdway [ color=pink style=bold ];
   ILeviFranklinIves [ shape=box fillcolor="#e0e0ff" style="solid,filled" label="Levi Franklin Ives" ];
   IBurlIves -> ILeviFranklinIves [ color=pink style=bold ];
-  IBurlIves [ shape=box fillcolor="#e0e0ff" style="solid,filled" label="Burl Ives" ];
   IBurlIves [ style="solid,filled", shape=box, fillcolor="#e0e0ff", label=<<TABLE border="0" cellborder="0">
 		<TR><TD><IMG SRC="Images/BurlIves.jpeg" /></TD></TR>
-		<TR><TD> Bur lIves, Musician, Actor</TD></TR>
+		<TR><TD> Burl Ives, Musician, Actor</TD></TR>
     <TR><TD>10th cousin, 3 times removed</TD></TR>
 		</TABLE>> ];
 
