@@ -1,0 +1,35 @@
+# Tycoons
+
+Below are some of the famous tycoons that are our cousins. 
+Note they are listed by closest relationship order.
+Clicking on relationship will bring you to relationship graph.
+Clicking on name will bring you to wikipedia page for that person.
+
+* JP Morgan
+** 6th cousin five times removed
+* P. T. Barnum 
+** 7th cousin four times removed.
+* Hugh Hefner
+** Eighth Cousin once removed - Bradford Descendant
+* Aaron Montgomery Ward 
+** 13th cousin 7 times removed
+* Bill Gates
+** Nineth Cousin
+* John D. Rockefeller Sr
+** 10th cousin thrice removed
+* Howard Hughes 
+** 11th cousin once removed
+* Cornelius Vanderbilt
+** 12th cousin five times removed
+* J. Paul Getty 
+* 13th cousin 6 times removed.
+* John D. Rockefeller
+** 15th cousin once removed
+* Steve Jobs
+* 29th cousin four times removed
+
+No relation to:
+* John Jacob Astor
+* Michael Bloomberg
+* Andrew Carnegie
+* Henry Ford

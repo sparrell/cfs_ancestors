@@ -1,0 +1,54 @@
+# Famous Cousins
+
+It' interesting to find famous people we are related to.
+
+## 1. Mayflower Cousins
+Because the various Mayflower societies list famous descendants,
+it's easy to find our cousins on these sites.
+See link:./Vol_07_c1_Mayflower/01_V7_intro.adoc[Mayflower Descendants] for famous Alden, Bradford, Brewster, Chilton, and Rogers descendants. 
+
+## 2. Actors
+Listed are x actors and actress that are our cousins.
+There are probably more.
+See link:./Vol_07_c02_Actors/01_intro.adoc[Actors] 
+
+## 3. Authors
+See link:./Vol_07_c03_Authors/01_intro.adoc[Authors] 
+
+## 4. Cowboys
+See link:./Vol_07_c04_Cowboys/01_intro.adoc[Authors] 
+
+## 5. Military 
+See link:./Vol_07_c05_Military/01_intro.adoc[Military] 
+
+## 6. Misc
+See link:./Vol_07_c06_Misc/01_intro.adoc[Misc] 
+
+## 7. Musicians
+See link:./Vol_07_c07_Musicians/01_intro.adoc[Musicians]
+
+## 8. Royalty
+See link:./Vol_07_c08_Royalty/01_intro.adoc[Royalty]
+
+## 9. Salem Witches
+See link:./Vol_07_c09_Witches/01_intro.adoc[Witches]
+
+## 10. Signers
+See link:./Vol_07_c10_Signers/01_intro.adoc[Witches]
+
+## 11. Sports
+See link:./Vol_07_c11_Sports/01_intro.adoc[Sports]
+
+## 12. STEM
+See link:./Vol_07_c12_STEM/01_intro.adoc[STEM]
+
+## 13. Tycoons
+See link:./Vol_07_c13_Tycoons/01_intro.adoc[Tycoons]
+
+## 14. US Presidents
+See link:./Vol_07_c14_Presidents/01_intro.adoc[Presidents]
+
+
+
+
+## Not Related

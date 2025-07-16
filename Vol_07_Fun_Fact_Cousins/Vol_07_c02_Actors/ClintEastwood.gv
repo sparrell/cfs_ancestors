@@ -1,0 +1,137 @@
+digraph GRAMPS_graph {
+	graph [bgcolor=white, center=true, charset=utf8, concentrate=false, dpi=75, fontsize=14, margin="0.250000,0.555556", mclimit=99, nodesep="0.20", outputorder=edgesfirst, page="20.000000,20.000000", pagedir=BL, rankdir=TB, ranksep="0.20", ratio=fill, searchsize=100, size="17.99,17.99", splines=true];
+	node [label="\N", style=filled, fontsize=14];
+	edge [len="0.5", style=solid, arrowhead=none, arrowtail=normal, fontsize=14];
+	graph [margin="1.00,1.00",
+		page="20.00,20.00",
+		bb="0 0 1295 1295"];
+
+	t0 [shape="plaintext" fillcolor="#ffffff"  label="Clint Eastwood" fontsize=40];
+
+  g0 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Bradford, William Jr.\n(1624 - 1702)" ];
+  g1a [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Bradford, Samuel\n(1667 - 1714)" ];
+  g2a [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Bradford, Elizabeth\n(1696 - 1777)" ];
+  g3a [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Whiting, John\n(1719 - 1770)" ];
+  g4a [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Whiting, Philena\n(before 1743 - 1781)" ];
+  g5a [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Haughton, Philena\n(1776 - ?)" ];
+  g6a [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Whaley, Elizabeth Shaw\n(1813 - >1870)" ];
+  g7a [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Strong, Albert Randolph\n(1845 - 1920)" ];
+  g8a [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Strong, Lavinia Elizabeth\n(1875 - 1941)" ];
+  g9a [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Sparrell, Herbert Kirkwood\n(1899 - 1978)" ];
+
+  g10a [group=g1, style="solid,filled", shape=none, fillcolor=white, label=<
+		<TABLE>
+		  <TR>
+		      <TD COLSPAN="3"><IMG SRC="Images/CharlesAnnJimHats.jpg" /></TD>
+		  </TR>
+		  <TR>
+		      <TD BGCOLOR="#ffe0e0">Ann</TD>
+		      <TD BGCOLOR="#e0e0ff">Jim</TD>
+		      <TD BGCOLOR="#e0e0ff">Charles</TD>
+		  </TR>
+		</TABLE>>
+	     ];
+
+	c0 [label="Brothers", style="dotted", shape=ellipse, fillcolor=none, color=darkgreen, fontcolor=darkgreen ];
+	c1 [label="First Cousins", style="dotted", shape=ellipse, fillcolor=none, color=darkgreen, fontcolor=darkgreen ];
+	c2 [label="Second Cousins", style="dotted", shape=ellipse, fillcolor=none, color=darkgreen, fontcolor=darkgreen ];
+	c3 [label="Third Cousins", style="dotted", shape=ellipse, fillcolor=none, color=darkgreen, fontcolor=darkgreen ];
+	c4 [label="Fourth Cousins", style="dotted", shape=ellipse, fillcolor=none, color=darkgreen, fontcolor=darkgreen ];
+	c5 [label="Fifth Cousins", style="dotted", shape=ellipse, fillcolor=none, color=darkgreen, fontcolor=darkgreen ];
+	c6 [label="Sixth Cousins", style="dotted", shape=ellipse, fillcolor=none, color=darkgreen, fontcolor=darkgreen ];
+	c7 [label="Seventh Cousins", style="dotted", shape=ellipse, fillcolor=none, color=darkgreen, fontcolor=darkgreen ];
+	c8 [label="Eighth Cousins", style="dotted", shape=ellipse, fillcolor=none, color=darkgreen, fontcolor=darkgreen ];
+	c9 [label="Nineth Cousins", style="dotted", shape=ellipse, fillcolor=none, color=darkgreen, fontcolor=darkgreen ];
+
+	g1b [label="Mary Bradford", style="rounded,filled", shape=box, fillcolor="#ffe0e0"];
+	g2b [label="Thomas Steele", style="solid,filled", shape=box, fillcolor="#e0e0ff"];
+	g3b [label="Susanna Steele", style="rounded,filled", shape=box, fillcolor="#ffe0e0"];
+	g4b [label="Ruth Hosmer", style="rounded,filled", shape=box, fillcolor="#ffe0e0"];
+	g5b [label="Ephraim Kellog", style="solid,filled", shape=box, fillcolor="#e0e0ff"];
+	g6b [label="Cordelia Kellog", style="rounded,filled", shape=box, fillcolor="#ffe0e0"];
+	g7b [label="Sophia Bartholmew", style="rounded,filled", shape=box, fillcolor="#ffe0e0"];
+	g8b [label="Waldo Runners", style="solid,filled", shape=box, fillcolor="#e0e0ff"];
+	g9b [label="Margaret Runners", style="rounded,filled", shape=box, fillcolor="#ffe0e0"];
+	g10b [ label=<<TABLE border="0" cellborder="0">
+		<TR><TD><IMG SRC="Images/CLintEastwood.jpg" /></TD></TR>
+		<TR><TD>Clint Eastwod</TD></TR>
+		<TR><TD>9th Cousin</TD></TR>
+		</TABLE>> ]; 
+
+
+	t0 -> g0 [arrowhead=normal, arrowtail=none, color=none];
+
+	g0 -> g1a [arrowhead=normal, arrowtail=none, color=red];
+	g0 -> c0 [arrowhead=normal, arrowtail=none, color=none];
+	g0 -> g1b [arrowhead=normal, arrowtail=none, color=blue];
+	{ rank = same; g1a; c0; g1b }
+	g1a -> c0 [style=dotted, arrowhead=none, arrowtail=none, color=darkgreen];
+	c0 -> g1b [style=dotted, arrowhead=none, arrowtail=none, color=darkgreen];
+
+	g1a -> g2a [arrowhead=normal, arrowtail=none, color=red];
+	c0 -> c1 [arrowhead=normal, arrowtail=none, color=none];
+	g1b -> g2b [arrowhead=normal, arrowtail=none, color=blue];
+	{ rank = same; g2a; c1; g2b }
+	g2a -> c1 [style=dotted, arrowhead=none, arrowtail=none, color=darkgreen];
+	c1 -> g2b [style=dotted, arrowhead=none, arrowtail=none, color=darkgreen];
+
+	g2a -> g3a [arrowhead=normal, arrowtail=none, color=red];
+	g2b -> g3b [arrowhead=normal, arrowtail=none, color=blue];
+	c1 -> c2 [arrowhead=normal, arrowtail=none, color=none];
+	{ rank = same; g3a; c2; g3b }
+	g3a -> c2 [style=dotted, arrowhead=none, arrowtail=none, color=darkgreen];
+	c2 -> g3b [style=dotted, arrowhead=none, arrowtail=none, color=darkgreen];
+
+	g3a -> g4a [arrowhead=normal, arrowtail=none, color=red];
+	g3b -> g4b [arrowhead=normal, arrowtail=none, color=blue];
+	c2 -> c3 [arrowhead=normal, arrowtail=none, color=none];
+	{ rank = same; g4a; c3; g4b }
+	g4a -> c3 [style=dotted, arrowhead=none, arrowtail=none, color=darkgreen];
+	c3 -> g4b [style=dotted, arrowhead=none, arrowtail=none, color=darkgreen];
+
+	g4a -> g5a [arrowhead=normal, arrowtail=none, color=red];
+	g4b -> g5b [arrowhead=normal, arrowtail=none, color=blue];
+	c3 -> c4 [arrowhead=normal, arrowtail=none, color=none];
+	{ rank = same; g5a; c4; g5b }
+	g5a -> c4 [style=dotted, arrowhead=none, arrowtail=none, color=darkgreen];
+	c4 -> g5b [style=dotted, arrowhead=none, arrowtail=none, color=darkgreen];
+
+	g5a -> g6a [arrowhead=normal, arrowtail=none, color=red];
+	g5b -> g6b [arrowhead=normal, arrowtail=none, color=blue];
+	c4 -> c5 [arrowhead=normal, arrowtail=none, color=none];
+	{ rank = same; g6a; c5; g6b }
+	g6a -> c5 [style=dotted, arrowhead=none, arrowtail=none, color=darkgreen];
+	c5 -> g6b [style=dotted, arrowhead=none, arrowtail=none, color=darkgreen];
+
+	g6a -> g7a [arrowhead=normal, arrowtail=none, color=red];
+	g6b -> g7b [arrowhead=normal, arrowtail=none, color=blue];
+	c5 -> c6 [arrowhead=normal, arrowtail=none, color=none];
+	{ rank = same; g7a; c6; g7b }
+	g7a -> c6 [style=dotted, arrowhead=none, arrowtail=none, color=darkgreen];
+	c6 -> g7b [style=dotted, arrowhead=none, arrowtail=none, color=darkgreen];
+
+	g7a -> g8a [arrowhead=normal, arrowtail=none, color=red];
+	g7b -> g8b [arrowhead=normal, arrowtail=none, color=blue];
+	c6 -> c7 [arrowhead=normal, arrowtail=none, color=none];
+	{ rank = same; g8a; c7; g8b }
+	g8a -> c7 [style=dotted, arrowhead=none, arrowtail=none, color=darkgreen];
+	c7 -> g8b [style=dotted, arrowhead=none, arrowtail=none, color=darkgreen];
+
+	g8a -> g9a [arrowhead=normal, arrowtail=none, color=red];
+	g8b -> g9b [arrowhead=normal, arrowtail=none, color=blue];
+	c7 -> c8 [arrowhead=normal, arrowtail=none, color=none];
+	{ rank = same; g9a; c8; g9b }
+	g9a -> c8 [style=dotted, arrowhead=none, arrowtail=none, color=darkgreen];
+	c8 -> g9b [style=dotted, arrowhead=none, arrowtail=none, color=darkgreen];
+
+	g9a -> g10a [arrowhead=normal, arrowtail=none, color=red];
+	g9b -> g10b [arrowhead=normal, arrowtail=none, color=blue];
+	c8 -> c9 [arrowhead=normal, arrowtail=none, color=none];
+	{ rank = same; g10a; c9; g10b }
+	g10a -> c9 [style=dotted, arrowhead=none, arrowtail=none, color=darkgreen];
+	c9 -> g10b [style=dotted, arrowhead=none, arrowtail=none, color=darkgreen];
+
+
+
+
+}

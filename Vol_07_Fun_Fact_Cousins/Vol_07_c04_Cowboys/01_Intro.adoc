@@ -1,0 +1,19 @@
+# Cowboys
+
+Below are some of the famous cowboys that are our cousins. 
+Note they are listed by closest relationship order.
+Clicking on relationship will bring you to relationship graph.
+Clicking on name will bring you to wikipedia page for that person.
+
+* Daniel Boone
+** Eighth Cousin six times removed - T
+* Wild Bill Hickok
+** Nineth Cousin five times removed - T
+* Davy Crockett
+** Nineth Cousin six times removed - T
+* Wyatt Earp
+** Fourteenth Cousin three times removed - T
+* Calamity Jane
+** Fifteenth Cousin four times removed - geni
+* Annie Oakley
+** Nineteenth Cousin twice removed - geni

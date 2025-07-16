@@ -1,0 +1,10 @@
+= Relationships to US Presidents
+
+This section contains how 42? of the US Presidens are our cousins.
+Our closest relative is John Adams (3rd-cousin, x times removed).
+Note we have 3rd cousins at our Thanksgiving get togethers.
+
+* John Adams (2nd President)
+** Third cousin 8 times removed
+* George Washington (1st President)
+** 10th cousin 6 times removed

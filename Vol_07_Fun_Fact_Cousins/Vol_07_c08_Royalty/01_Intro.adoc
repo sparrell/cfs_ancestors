@@ -1,0 +1,23 @@
+# Royalty
+
+Below are some of the Royalty that are our cousins. 
+Note they are listed by closest relationship order.
+Clicking on relationship will bring you to relationship graph.
+Clicking on name will bring you to wikipedia page for that person.
+
+* Catherine Howard (5th wife of King Henry VIII)
+** Second Cousin 14 times removed - G
+* Queen Elizabeth I
+** Third Cousin 13 times removed - 
+* King Henry VIII
+** Third Cousin 15 times removed - G
+* Mary Queen of Scots
+** Fifth Cousin 14 times removed - G
+* Princess Diana
+** Thirteenth Cousin - G
+* Queen Elizabeth II
+** Thirteenth Cousin once removed -T
+* Queen Victoria
+** Thirteenth Cousin six times removed -T
+* King Charles
+** Fourteenth Cousin -T

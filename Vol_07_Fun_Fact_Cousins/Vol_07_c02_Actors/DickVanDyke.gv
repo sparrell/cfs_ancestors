@@ -1,0 +1,99 @@
+digraph GRAMPS_graph {
+	graph [bgcolor=white, center=true, charset=utf8, concentrate=false, dpi=75, fontsize=14, margin="0.250000,0.555556", mclimit=99, nodesep="0.20", outputorder=edgesfirst, page="12.000000,20.000000", pagedir=BL, rankdir=TB, ranksep="0.20", ratio=fill, searchsize=100, size="10.99,17.99", splines=true];
+	node [label="\N", style="solid,filled", shape=box, fillcolor="#e0e0ff", fontsize=14];
+	edge [len="0.5", style=solid, arrowhead=none, arrowtail=normal, fontsize=14];
+	//graph [margin="1.00,1.00", page="20.00,20.00", bb="0 0 1295 1295"];
+
+	{
+	node [label="\N", shape=ellipse, fillcolor=none, color=none, fontcolor=black, style="invis"];
+	edge [style=invis, weight=5];
+	gen1 -> gen2 -> gen3 -> gen4 -> gen5 -> gen6 -> gen7 -> gen8 -> gen9 -> gen10 -> gen11 -> gen12 -> gen13 ;
+	}
+
+	{
+	edge [style=invis];
+	title00 -> main0;
+	title00 -> a1;
+	}
+
+	{
+	edge [arrowhead=normal, arrowtail=none, color=red ];
+	main0 -> a1 -> a2 -> a3 -> a4 -> a5 -> a6 -> a7 -> a8 -> a9 -> a10 -> a11 -> a12 ;
+	}
+
+
+	{
+	edge [arrowhead=normal, arrowtail=none, color=steelblue ];
+	main0 -> g1 -> g2 -> g3 -> g4 -> g5 -> g6 -> g7 -> g8 -> g9 -> g10 -> g11 ;
+	}
+
+	title00 [shape="plaintext" fillcolor="#ffffff"  label="Famous Alden Descendants" fontsize=40];
+
+	{ rank = same; gen1; main0; }
+	{ rank = same; gen2; a1;  g1; }
+	{ rank = same; gen3; a2;  g2; }
+	{ rank = same; gen4; a3;  g3; }
+	{ rank = same; gen5; a4;  g4; }
+	{ rank = same; gen6; a5;  g5; }
+	{ rank = same; gen7; a6;  g6; }
+	{ rank = same; gen12; a11; }
+
+	main0 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="John Alden" ];
+
+	a1 [label="Elizabeth Alden", style="rounded,filled", shape=box, fillcolor="#ffe0e0"];
+	a2 [label="Elizabeth Peabody", style="rounded,filled", shape=box, fillcolor="#ffe0e0"];
+	a3 [label="Hannah Rogers", style="rounded,filled", shape=box, fillcolor="#ffe0e0"];
+	a4 [label="Elizabeth Bradford", style="rounded,filled", shape=box, fillcolor="#ffe0e0"];
+	a5 [label="John Whiting", style="solid,filled", shape=box, fillcolor="#e0e0ff"];
+	a6 [label="Philena Whiting", style="rounded,filled", shape=box, fillcolor="#ffe0e0"];
+	a7 [label="Philena Haughton", style="rounded,filled", shape=box, fillcolor="#ffe0e0"];
+	a8 [label="Elizabeth Shaw Whaley", style="rounded,filled", shape=box, fillcolor="#ffe0e0"];
+	a9 [label="Albert Randolph Strong", style="solid,filled", shape=box, fillcolor="#e0e0ff"];
+	a10 [label="Lavinia Elizabeth Strong", style="rounded,filled", shape=box, fillcolor="#ffe0e0"];
+	a11 [label="Herbert Kirkwood Sparrell", style="solid,filled", shape=box, fillcolor="#e0e0ff"];
+	a12 [style="solid,filled", shape=record, fillcolor=white, label=<
+		<TABLE>
+		  <TR>
+			<TD COLSPAN="3" BGCOLOR="#e0e0ff"><IMG SRC="Images/CharlesJimAnnSteps3.jpg" /></TD>
+		  </TR>
+		  <TR>
+		      <TD BGCOLOR="#e0e0ff">Charles</TD>
+		      <TD BGCOLOR="#ffe0e0">Ann</TD>
+		      <TD BGCOLOR="#e0e0ff">Jim</TD>
+		  </TR>
+		</TABLE>>
+	     ];
+
+
+	g1 [label="Sarah Alden", style="rounded,filled", fillcolor="#ffe0e0"];
+	g2 [label="Sarah Standish", style="rounded,filled", fillcolor="#ffe0e0"];
+	g3 [label="Zachariah Soule"];
+	g4 [label="Sarah Soule", style="rounded,filled", fillcolor="#ffe0e0"];
+	g5 [label="Isaiah Tinkham"];
+	g6 [label="Susanna Tinkham", style="rounded,filled", fillcolor="#ffe0e0"];
+	g7 [label="David Lorenzo Child"];
+	g8 [label="Susan Child", style="rounded,filled", fillcolor="#ffe0e0"];
+	g9 [label="Charles C McCord"];
+	g10 [label="Hazel McCord", style="rounded,filled", fillcolor="#ffe0e0"];
+	g11 [label="Dick Van Dyke"];
+	g11 [style="solid,filled", shape=record, label=<
+		<TABLE>
+		  <TR>
+		      <TD><IMG SRC="Images/Dick-Van-Dyke-Mary-Poppins2.jpg" /></TD>
+		  </TR>
+		  <TR>
+		      <TD>Dick Van Dyke</TD>
+		  </TR>
+		  <TR>
+		      <TD BGCOLOR="white">Actor<BR/>eg Bert in "Mary Poppins"</TD>
+		  </TR>
+		</TABLE>>
+	     ];
+
+	g11 -> cousin7 [ style=dashed, arrowhead=none, arrowtail=normal, color=darkgreen];
+	cousin7 -> a12 [ style=dashed, arrowhead=none, arrowtail=normal, color=darkgreen];
+	cousin7 [label="10th Cousin\nOnce Removed", shape=ellipse, style=dotted, fillcolor=none, color=darkgreen, fontcolor=green];
+
+
+
+}

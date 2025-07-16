@@ -10,6 +10,7 @@ add sme stuff on what is to do
 
 aciton item list:
 * remove all "reference num.." in get_people
+* investigate John Wayne / Geni discrepancy
 
 
 # helpers

@@ -1,0 +1,25 @@
+# STEM
+
+Below are some of the famous science, technology, engineering and math (STEM) cousins. 
+Note they are listed by closest relationship order.
+Clicking on relationship will bring you to relationship graph.
+Clicking on name will bring you to wikipedia page for that person.
+
+* Isaac Merritt Singer (sewing machine)
+** fifth cousin 6 times removed.
+* George Eastman
+** Fifth Cousin four times removed
+* Thomas Alva Edison
+** 8th cousin five times removed.
+* Frank Lloyd Wright
+** 10th cousin once removed
+* Ben Franklin
+** 11th cousin 8 times removed
+* Eli Whitney, Jr.
+** 13th cousin four times removed
+* Wright Brothers
+** 15th cousin thrice removed.
+* Alexander Graham Bell
+** 16th cousin twice removed
+* Niels Bohr, Nobel Prize in Physics 
+** 19th cousin five times removed.

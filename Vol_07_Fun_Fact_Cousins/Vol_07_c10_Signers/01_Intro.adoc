@@ -1,0 +1,71 @@
+# Signers
+
+Below are some of our cousins who are famous for signing something. 
+Note they are listed by closest relationship order.
+Clicking on relationship will bring you to relationship graph.
+Clicking on name will bring you to wikipedia page for that person.
+
+
+## Declaration of Independence
+
+* John Adams
+** Third Cousin eight times removed T
+* Sam Adams
+** seventh cousin five times removed G
+* John Hancock
+** Nineth Cousin eight times removed T
+* Alexander Hamilton
+** Eleventh Cousin five times removed T
+* Ben Franklin
+** 11th cousin 10 times removed G
+* Thomas Jefferson
+** Thirteenth Cousin four times removed T
+
+Note there are probably more but I didn't look all of them up
+
+## Mayflower Compact
+
+* William Bradford
+** Nineth Great Grandfather
+* William Brewster
+** Nineth Great Grandfather
+* John Alden
+** Tenth Great Grandfather
+* Thomas Rogers
+** Tenth Great Grandfather
+* James Chilton
+** Eleventh Great Grandfather
+
+Note we are probably related to many more but these are direct ancestors so I stopped with them
+
+## Emancipation Proclamation
+
+* Abraham Lincoln
+** 10th cousin thrice removed.
+
+## Communist Manifesto
+
+* Friedrich Engels 
+** 23rd cousin twice removed
+
+Note we are not related to the other author Karl Marx
+
+## The Braintree Instructions
+
+* John Adams
+** Third Cousin eight times removed T
+
+## The Charter of Privedges
+
+* William Penn (Founder of Pennslyvania)
+** second cousin 9 times removed
+
+## Common Sense
+
+* Thomas Paine
+** 12th cousin 7 times removed
+
+## The Marshall Plan
+
+* George C. Marshall
+** Tenth cousin three times removed
