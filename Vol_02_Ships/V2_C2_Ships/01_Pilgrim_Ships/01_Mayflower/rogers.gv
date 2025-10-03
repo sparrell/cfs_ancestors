@@ -1,0 +1,147 @@
+digraph GRAMPS_graph
+{
+  bgcolor=white;
+  center="true";
+  charset="utf8";
+  concentrate="false";
+  dpi="300";
+  graph [fontsize=28];
+  margin="1.00,1.00";
+  mclimit="99";
+  nodesep="0.20";
+  outputorder="edgesfirst";
+  page="36.00,24.00";
+  pagedir="BL";
+  rankdir="BT";
+  ranksep="0.20";
+  ratio="fill";
+  searchsize="100";
+  size="34.00 22.00";
+  splines="true";
+
+  edge [len=0.5 style=solid arrowhead=none arrowtail=normal fontsize=28];
+  node [style=filled fontsize=28];
+
+  // Top Generation
+
+  // Next to Top Generation
+
+  // Generation 11
+
+  // Generation 9
+
+  // Generation 7
+
+  // Generation 6
+  // Generation 5
+
+
+  I0000 [ shape="plaintext" fillcolor="#ffffff"  label="Rogers Ancestors" fontsize=48];
+  ITR1 [ shape="circle" fillcolor="#e0e0ff" style="solid,filled" label="Thomas Rogers" peripheries=2 color=cyan];
+  IJR1 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="John Rogers" ];
+  IJR2 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="John Rogers, Jr" ];
+  I397 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Philena Whiting" ];
+  I597 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="John Whiting" ];
+  I1408 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Hannah Rogers" ];
+  I191 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Lavinia Elizabeth Strong" ];
+  Icfs [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Charles Fisher Sparrell" ];
+  Ijks [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="James Kirkwood Sparrell" ];
+  I190 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Ann Sparrell" ];
+  I510 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Elizabeth Shaw Whaley" ];
+  I391 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Albert Randolph Strong" ];
+  I271 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Philena Haughton" ];
+  I1400 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Elizabeth Bradford" ];
+  I898 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Herbert Kirkwood Sparrell\nb 1899" ];
+
+  F_Rogers [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="" ];
+  F572 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="m" ];
+  F469 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="m" ];
+  F590 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="m" ];
+  F560 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="560" ];
+  F304 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="" ];
+  F259 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="m" ];
+  F282 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="282" ];
+  F382 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="382" ];
+  F574 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="m" ];
+  F606 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="m" ];
+  F_Alden [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="" ];
+  F415 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="m" ];
+  F293 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="293" ];
+  F0727 [ shape="ellipse" fillcolor="#ffffe0" style="invis" label="" ];
+  F205 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="m" ];
+  Fmm [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="m" ];
+
+
+
+  subgraph cluster_F_Rogers
+  {
+  style="dotted";
+  F_Rogers -> IJR2 [color=cyan style=bold]; // father: John Rogers, Jr.
+  }
+
+
+
+  subgraph cluster_F572
+  {
+  style="dotted";
+  F572 -> I191 [color=cyan style=bold]; // mother: Lavinia Elizabeth Strong
+  }
+  I898 -> F572 [color=cyan style=bold]; // child:  Herbert Kirkwood Sparrell
+
+  subgraph cluster_F469
+  {
+  style="dotted";
+  F469 -> I1408 [color=cyan style=bold]; // mother: Hannah Rogers
+  }
+  I1400 -> F469 [color=cyan style=bold]; // child:  Elizabeth Bradford
+
+
+  subgraph cluster_F259
+  {
+  style="dotted";
+  F259 -> I898 [color=cyan style=bold]; // father: Herbert Kirkwood Sparrell
+  }
+  Icfs -> F259 [color=cyan style=bold]; // child:  Charles Fisher Sparrell
+
+  Ijks -> F259 [color=cyan style=dashed]; // child:  Charles Fisher Sparrell
+
+  I190 -> F259 [color=cyan style=dashed]; // child:  Charles Fisher Sparrell
+
+
+  I271 -> I397 [color=cyan style=bold]; // child:  Philena Haughton -> Philena Whiting
+
+
+  I397 -> I597 [color=cyan style=bold]; // child:  Philena Whiting to father: John Whiting
+
+  subgraph cluster_F574
+  {
+  style="dotted";
+  F574 -> I391 [color=cyan style=bold]; // father: Albert Randolph Strong
+  }
+  I191 -> F574 [color=cyan style=bold]; // child:  Lavinia Elizabeth Strong
+
+
+  subgraph cluster_F606
+  {
+  style="dotted";
+  F606 -> I271 [color=cyan style=bold]; // mother: Philena Haughton
+  }
+  I510 -> F606 [color=cyan style=bold]; // child:  Elizabeth Shaw Whaley
+
+
+  I391 -> I510 [color=cyan style=bold]; // child:  Albert Randolph Strong to mother: Elizabeth Shaw Whaley
+
+
+
+  F0727 -> I0000 [style=invis]; // father:  Mayflower
+  ITR1 -> F0727 [style=invis]; // child:  Rogers
+
+
+  I1408 -> F_Rogers [color=cyan style=bold]; // child:  Hannah Rogers to father: John Rogers
+
+  I597 -> I1400 [color=cyan style=bold]; // child:  John Whiting to mother: Elizabeth Bradford
+
+  IJR1 -> ITR1 [ color=cyan style=bold ];
+  IJR2 -> IJR1 [ color=cyan style=bold ];
+
+}

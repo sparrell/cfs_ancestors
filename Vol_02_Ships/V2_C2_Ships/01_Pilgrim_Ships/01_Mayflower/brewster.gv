@@ -1,0 +1,372 @@
+digraph GRAMPS_graph
+{
+  bgcolor=white;
+  center="true";
+  charset="utf8";
+  concentrate="false";
+  dpi="300";
+  graph [fontsize=28];
+  margin="1.00,1.00";
+  mclimit="99";
+  nodesep="0.20";
+  outputorder="edgesfirst";
+  page="36.00,24.00";
+  pagedir="BL";
+  rankdir="BT";
+  ranksep="0.20";
+  ratio="fill";
+  searchsize="100";
+  size="34.00 22.00";
+  splines="true";
+
+  edge [len=0.5 style=solid arrowhead=none arrowtail=normal fontsize=28];
+  node [style=filled fontsize=28];
+
+  r140 -> r135 -> r130 -> r125 -> r120 -> r115 -> r110 -> r105 -> r100
+  r100 -> r95 -> r90 -> r85 -> r80 -> r75 -> r70 -> r65 -> r60 -> r55 -> r50 -> r45 -> r40
+  r40 -> r35 -> r30 -> r25 -> r20 -> r15 -> r10 -> r05
+
+  { rank = same; r05; I0000; }
+
+  // Top Generation
+  { rank = same; r10; I921; I921b; } // Chilton, Alden, Brewster, Bradford, Rogers
+
+  // Next to Top Generation
+  { rank = same; I1010; I899;} // Sarah Chandler, William Bradford Jr, Elizabeth Alden, Love Brewster, Jonathon Brewster, Isabella Chilton
+
+  { rank = same; I887; I797; Irb; I214; I1187;}
+
+  { rank = same; I1032; I865; } //Benjamin Turner, Lydia Turner
+
+  // Generation 11
+  { rank = same; I406; I832; I1143; } // Faith Ripley, Elizabeth Bradford, Mary Starr, William Barrell, Simon Brewster
+
+  // Generation 9
+  { rank = same; I1329; I1109; I788; } //Amos Lester, Lucy Hall Brewster, James Barrell
+
+  // Generation 7
+  { rank = same; I721; I510; } //James Newton Sparrell III, Elizabeth Shaw Whaley, Sarah Lavinia Kimball
+  // Generation 6
+  // Generation 5
+
+  // Generation 3
+  { rank = same; r90; I665; I1065; }
+
+  // Generation 2
+  { rank = same; r100; I349; }
+
+  I0000 [ shape="plaintext" fillcolor="#ffffff"  label="Brewster Ancestors" fontsize=48];
+  I887 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Mary Brewster" ];
+  I1187 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="William Brewster" ];
+  I1087 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Lydia Ann Lester" ];
+  I1076 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Erastus Brewster Kimball" ];
+  I987 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="John Turner" ];
+  I1010 [ shape="circle" fillcolor="#e0e0ff" style="solid,filled" label="Love Brewster" peripheries=2 color=blue];
+  I832 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="William Barrell" ];
+  I192 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Peter Lester" ];
+  I810 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="James Barrell" ];
+  I665 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Herbert Kirkwood Sparrell\nb 1847" ];
+  I965 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Rachel Turner" ];
+  I1121 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Judah Brewster" ];
+  I1109 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Lucy Hall Brewster" ];
+  I371 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Marion Fisher" ];
+  I1352 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Amos Lester" ];
+  I1329 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Amos Lester" ];
+  I406 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Mary Starr" ];
+  I765 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="James Newton Sparrell II" ];
+  I921 [ shape="circle" fillcolor="#e0e0ff" style="solid,filled" label="William Brewster" peripheries=2 color=black];
+  I921b [ shape="circle" fillcolor="#ffe0e0" style="solid,filled" label="Mary Brewster" peripheries=2 color=black];
+  I794 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Thomas Starr" ];
+  I1065 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Martha Avery Edgecomb" ];
+  I191 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Lavinia Elizabeth Strong" ];
+  I393 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Mary Chester" ];
+  I721 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="James Newton Sparrell III" ];
+  I1396 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Jonathan Lester" ];
+  I751 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Hannah Bradley" ];
+  I776 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Desire Barrell" ];
+  I788 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="James Barrell" ];
+  I797 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Hannah Brewster" ];
+  I1374 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Jonathan Lester" ];
+  I265 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="William Patten Whaley" ];
+  Icfs [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Charles Fisher Sparrell" ];
+  Ijks [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="James Kirkwood Sparrell" ];
+  I190 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Ann Sparrell" ];
+  I510 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Elizabeth Shaw Whaley" ];
+  I1032 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Benjamin Turner" ];
+  I402 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Alice Virginia Edgecomb" ];
+  I391 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Albert Randolph Strong" ];
+  I1143 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Simon Brewster" ];
+  I349 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Ida A Hurlburt" ];
+  I1165 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Benjamin Brewster" ];
+  I898 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Herbert Kirkwood Sparrell\nb 1899" ];
+  I899 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Jonathan Brewster" ];
+  I1363 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Anna Lester" ];
+  I403 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Joseph Chester" ];
+  I1340 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Charles Herbert Sparrell" ];
+  I214 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Elizabeth Brewster" ];
+  I865 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Lydia Turner" ];
+  Irb [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Ruth Brewster" ];
+  Imm [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Mary Morgan" ];
+  Imm2 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Mary Morgan" ];
+  Irs [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Ruth Shapley" ];
+  Imp [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Mary Picket" ];
+  Igwe [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="George Washington Edgecomb" ];
+  Ijme [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Jabez M Edgecomb" ];
+  Iem [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Esther Morgan" ];
+  Ijm [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Joshua Morgan" ];
+
+  F572 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="m" ];
+  F469 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="m" ];
+  F590 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="m" ];
+  F560 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="560" ];
+  F304 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="" ];
+  F259 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="m" ];
+  F282 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="282" ];
+  F382 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="382" ];
+  F574 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="m" ];
+  F415 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="m" ];
+  F293 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="293" ];
+  F0727 [ shape="ellipse" fillcolor="#ffffe0" style="invis" label="" ];
+  F205 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="m" ];
+  Fmm [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="m" ];
+
+
+  F304 -> I921 [color=black style=bold]; // father: William Brewster
+  F304 -> I921b [color=black style=bold];
+  F304 -> I921 [color=blue style=bold]; // father: William Brewster
+  F304 -> I921b [color=blue style=bold];
+  F304 -> I921 [color=red style=bold]; // father: William Brewster
+  F304 -> I921b [color=red style=bold];
+  F304 -> I921 [color=green style=bold]; // father: William Brewster
+  F304 -> I921b [color=green style=bold];
+  F304 -> I921 [color=purple style=bold]; // father: William Brewster
+  F304 -> I921b [color=purple style=bold];
+  I899 -> F304 [color=black style=bold]; // child:  Jonathan Brewster
+  I899 -> F304 [color=red style=bold]; // child:  Jonathan Brewster
+  I899 -> F304 [color=green style=bold]; // child:  Jonathan Brewster
+  I899 -> F304 [color=purple style=bold]; // child:  Jonathan Brewster  
+
+  I1010 -> F304 [color=blue style=bold]; // child:  Love Brewster
+
+
+  I776 -> I788 [color=red style=dashed]; // child:  Desire Barrell to father: James Barrell
+
+  subgraph cluster_F572
+  {
+  style="dotted";
+    subgraph {
+        rank = same;
+        I1340; I191;
+    }
+  F572 -> I1340 [color=red style=bold]; // father: Charles Herbert Sparrell
+  F572 -> I191 [color=black style=bold]; // mother: Lavinia Elizabeth Strong
+  F572 -> I191 [color=blue style=bold]; // mother: Lavinia Elizabeth Strong
+  F572 -> I191 [color=green style=bold]; // mother: Lavinia Elizabeth Strong
+  F572 -> I191 [color=purple style=bold]; // mother: Lavinia Elizabeth Strong
+  }
+  I898 -> F572 [color=black style=bold]; // child:  Herbert Kirkwood Sparrell
+  I898 -> F572 [color=blue style=bold]; // child:  Herbert Kirkwood Sparrell
+  I898 -> F572 [color=red style=bold]; // child:  Herbert Kirkwood Sparrell
+  I898 -> F572 [color=green style=bold]; // child:  Herbert Kirkwood Sparrell
+  I898 -> F572 [color=purple style=bold]; // child:  Herbert Kirkwood Sparrell
+
+  I371 -> I349 [color=black style=bold]; // child:  Marion Fisher to mother: Ida A Hurlburt
+  I371 -> I349 [color=blue style=bold]; // child:  Marion Fisher to mother: Ida A Hurlburt
+  I371 -> I349 [color=purple style=bold]; // child:  Marion Fisher to mother: Ida A Hurlburt
+
+  I832 -> I865 [color=red style=dashed]; // child:  William Barrell
+
+  I1121 -> I1143 [color=blue style=dashed]; // child:  Judah Brewster to father: Simon Brewster
+
+  subgraph cluster_F590
+  {
+  style="dotted";
+  F590 -> I1352 [color=black style=dashed]; // father: Amos Lester
+  F590 -> I1363 [color=black style=dashed]; // mother: Anna Lester
+  }
+  I1329 -> F590 [color=black style=dashed]; // child:  Amos Lester
+
+  I810 -> I832 [color=red style=dashed]; // child:  James Barrell
+
+  subgraph cluster_F560
+  {
+  style="invis";
+  F560 -> I1396 [color=black style=dashed]; // father: Jonathan Lester
+  }
+  I192 -> F560 [label="Bk5" fontcolor= black fontsize=10 color=black style=dashed]; // child:  Peter Lester
+  I1374 -> F560 [label="Bk6" fontcolor= black fontsize=10 color=black style=dashed]; // child:  Jonathan Lester
+
+  I1165 -> I1187 [color=blue style=dashed]; // child:  Benjamin Brewster to father: William Brewster
+
+  I403 -> I406 [color=green style=dashed]; // child:  Joseph Chester to mother: Mary Starr
+
+  I1109 -> I1121 [color=blue style=bold]; // child:  Lucy Hall Brewster
+
+  I765 -> I965 [color=red style=bold]; // child:  James Newton Sparrell to mother: Rachel Turner
+
+  I965 -> I987 [color=red style=bold]; // child:  Rachel Turner to father: John Turner
+
+  I1363 -> I192 [color=black style=dashed]; // child:  Anna Lester to father: Peter Lester
+
+  subgraph cluster_F259
+  {
+  style="dotted";
+  F259 -> I898 [color=black style=bold]; // father: Herbert Kirkwood Sparrell
+  F259 -> I898 [color=blue style=bold]; // father: Herbert Kirkwood Sparrell
+  F259 -> I898 [color=red style=bold]; // father: Herbert Kirkwood Sparrell
+  F259 -> I898 [color=green style=bold]; // father: Herbert Kirkwood Sparrell
+  F259 -> I898 [color=purple style=bold]; // father: Herbert Kirkwood Sparrell
+  F259 -> I371 [color=black style=bold]; // mother: Marion Fisher
+  F259 -> I371 [color=blue style=bold]; // mother: Marion Fisher
+  F259 -> I371 [color=purple style=bold]; // mother: Marion Fisher
+  }
+  Icfs -> F259 [color=black style=bold]; // child:  Charles Fisher Sparrell
+  Icfs -> F259 [color=blue style=bold]; // child:  Charles Fisher Sparrell
+  Icfs -> F259 [color=red style=bold]; // child:  Charles Fisher Sparrell
+  Icfs -> F259 [color=green style=bold]; // child:  Charles Fisher Sparrell
+  Icfs -> F259 [color=purple style=bold]; // child:  Charles Fisher Sparrell
+
+  Ijks -> F259 [color=black style=dashed]; // child:  James Kirkwood Sparrell
+  Ijks -> F259 [color=blue style=dashed]; // child:  James Kirkwood Sparrell
+  Ijks -> F259 [color=red style=dashed]; // child:  James Kirkwood Sparrell
+  Ijks -> F259 [color=green style=dashed]; // child:  James Kirkwood Sparrell
+  Ijks -> F259 [color=purple style=dashed]; // child:  James Kirkwood Sparrell
+
+  I190 -> F259 [color=black style=dashed]; // child:  Ann Sparrell
+  I190 -> F259 [color=blue style=dashed]; // child:  Ann Sparrell
+  I190 -> F259 [color=red style=dashed]; // child:  Ann Sparrell
+  I190 -> F259 [color=green style=dashed]; // child:  Ann Sparrell
+  I190 -> F259 [color=purple style=dashed]; // child:  Ann Sparrell
+
+  I794 -> I797 [color=green style=dashed]; // child:  Thomas Starr to mother: Hannah Brewster
+
+  I1340 -> I665 [color=red style=bold]; // child:  Charles Herbert Sparrell to father: Herbert Kirkwood Sparrell
+
+  I406 -> I794 [label="G3" fontcolor=green fontsize=10 color=green style=dashed]; // child:  Mary Starr to father: Thomas Starr
+
+  subgraph cluster_F282
+  {
+  style="invis";
+  F282 -> I887 [color=red style=bold]; // mother: Mary Brewster
+  }
+  I865 -> F282 [label="R1" fontcolor= red fontsize=10 minlen=2.0 color=red style=dashed]; // child:  Lydia Turner
+  I1032 -> F282 [label="R2" fontcolor= red fontsize=10 color=red style=bold]; // child:  Benjamin Turner
+
+  I1187 -> I1010 [label="Be7" fontcolor= blue fontsize=10 color=blue style=bold]; // child:  William Brewster to father: Love Brewster
+
+  I751 -> I214 [color=black style=dashed]; // child:  Hannah Bradley to mother: Elizabeth Brewster
+
+
+  subgraph cluster_F382
+  {
+  style="dotted";
+  I1054 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Sarah Lavinia Kimball" ];
+  F382 -> Igwe [color=purple style=bold]; // father: George Washington Edgecomb
+  F382 -> I1054 [color=black style=bold]; // mother: Sarah Lavinia Kimball
+  F382 -> I1054 [color=blue style=bold]; // mother: Sarah Lavinia Kimball
+  }
+  I402 -> F382 [color=black style=dashed]; // child:  Alice Virginia Edgecomb
+  I402 -> F382 [color=blue style=dashed]; // child:  Alice Virginia Edgecomb
+  I402 -> F382 [color=purple style=dashed]; // child:  Alice Virginia Edgecomb
+  I1065 -> F382 [label="Bk9\nBk10" fontcolor= black fontsize=10 color=black style=bold]; // child:  Martha Avery Edgecomb
+  I1065 -> F382 [label="Be11" fontcolor= blue fontsize=10 color=blue style=bold]; // child:  Martha Avery Edgecomb
+  I1065 -> F382 [label="P8" fontcolor= purple fontsize=10 color=purple style=bold]; // child:  Martha Avery Edgecomb
+
+  subgraph cluster_F574
+  {
+  style="dotted";
+  F574 -> I391 [color=green style=bold]; // father: Albert Randolph Strong
+  F574 -> I391 [color=purple style=bold]; // father: Albert Randolph Strong
+  F574 -> I402 [color=black style=dashed]; // mother: Alice Virginia Edgecomb
+  F574 -> I402 [color=blue style=dashed]; // mother: Alice Virginia Edgecomb
+  F574 -> I402 [color=purple style=dashed]; // mother: Alice Virginia Edgecomb
+  }
+  I191 -> F574 [color=black style=bold]; // child:  Lavinia Elizabeth Strong
+  I191 -> F574 [color=blue style=bold]; // child:  Lavinia Elizabeth Strong
+  I191 -> F574 [color=green style=bold]; // child:  Lavinia Elizabeth Strong
+  I191 -> F574 [color=purple style=bold]; // child:  Lavinia Elizabeth Strong
+
+  I1087 -> I1329 [color=black style=dashed]; // child:  Lydia Ann Lester to father: Amos Lester
+
+  I1396 -> I751 [color=black style=dashed]; // child:  Jonathan Lester to mother: Hannah Bradley
+
+  I510 -> I265 [color=green style=dashed]; // child:  Elizabeth Shaw Whaley
+  I510 -> I265 [color=purple style=dashed]; // child:  Elizabeth Shaw Whaley
+
+  I665 -> I721 [color=red style=bold]; // child:  Herbert Kirkwood Sparrell to father: James Newton Sparrell
+
+  subgraph cluster_F415
+  {
+  style="dotted";
+  F415 -> I1076 [color=blue style=bold]; // father: Erastus Brewster Kimball
+  F415 -> I1087 [color=black style=dashed]; // mother: Lydia Ann Lester
+  }
+  I1054 -> F415 [color=black style=bold]; // child:  Sarah Lavinia Kimball
+  I1054 -> F415 [color=blue style=bold]; // child:  Sarah Lavinia Kimball
+
+  I1076 -> I1109 [color=blue style=bold]; // child:  Erastus Brewster Kimball to mother: Lucy Hall Brewster
+
+  I1143 -> I1165 [color=blue style=dashed]; // child:  Simon Brewster to father: Benjamin Brewster
+
+  I349 -> I1065 [minlen=2.0 color=black style=bold]; // child:  Ida A Hurlburt to mother: Martha Avery Edgecomb
+  I349 -> I1065 [minlen=2.0 color=blue style=bold]; // child:  Ida A Hurlburt to mother: Martha Avery Edgecomb
+  I349 -> I1065 [minlen=2.0 color=purple style=bold]; // child:  Ida A Hurlburt to mother: Martha Avery Edgecomb
+
+  I987 -> I1032 [color=red style=bold]; // child:  John Turner to father: Benjamin Turner
+
+  I1352 -> I1374 [color=black style=dashed]; // child:  Amos Lester to father: Jonathan Lester
+
+  I391 -> I510 [color=green style=bold]; // child:  Albert Randolph Strong to mother: Elizabeth Shaw Whaley
+  I391 -> I510 [color=purple style=bold]; // child:  Albert Randolph Strong to mother: Elizabeth Shaw Whaley
+
+  I393 -> Fmm [color=green style=dashed]; // child:  Mary Chester to father: Joseph Chester
+  I393 -> Fmm [color=purple style=dashed]; // child:  Mary Chester to father: Joseph Chester
+
+  subgraph cluster_F293
+  {
+  style="invis";
+  F293 -> I899 [color=black style=bold]; // father: Jonathan Brewster
+  F293 -> I899 [color=red style=bold]; // father: Jonathan Brewster
+  F293 -> I899 [color=green style=bold]; // father: Jonathan Brewster
+  F293 -> I899 [color=purple style=bold]; // father: Jonathan Brewster
+  }
+  I214 -> F293 [color=black style=bold]; // child:  Elizabeth Brewster
+  I797 -> F293 [color=green style=bold]; // child:  Hannah Brewster
+  I887 -> F293 [color=red style=bold]; // child:  Mary Brewster
+  Irb -> F293 [color=purple style=bold]; // child:  Ruth Brewster
+
+  subgraph cluster_rb
+  {
+  style="dotted";
+  Fmm -> I403 [color=green style=dashed]; // father: Joseph Chester
+  Fmm -> Imm [color=purple style=dashed]; // mother: Mary Morgan
+  }
+  Imm -> Imm2 [color=purple style=dashed]; // mother: Mary Morgan (of Mary Morgan)
+  Imm2 -> Irs [label="P4" fontcolor= purple fontsize=10 color=purple style=dashed]; // mother: Ruth Shapley (of Mary Morgan)
+  Irs -> Imp [color=purple style=dashed]; // mother: Mary Pickett (of Ruth Shapley)
+  Imp -> Irb [color=purple style=dashed]; // mother: Ruth Brewster (of arMy Pickett)
+  Igwe -> Ijme [color=purple style=dashed]; //father: Jabez Edgecomb (of George Washington Edgecomb)
+  Ijme -> Iem [color=purple style=dashed]; //mother: Esther Morgan (of Jabez Edgecomb)
+  Iem -> Ijm [color=purple style=dashed]; //father: Joshua Morgan (of Esther Morgan)
+  Ijm -> Imm2 [label="P5" fontcolor= purple fontsize=10 color=purple style=dashed]; //mother: Mary Morgan (of Joshua Morgan)
+
+  F0727 -> I0000 [style=invis]; // father:  Mayflower
+  I921 -> F0727 [style=invis]; // child:  William Brewster
+  I921b -> F0727 [style=invis]; // child:  Mary Brewster
+
+  I788 -> I810 [color=red style=dashed]; // child:  James Barrell
+
+  subgraph cluster_F205
+  {
+  style="dotted";
+  F205 -> I765 [color=red style=bold]; // father: James Newton Sparrell
+  F205 -> I776 [color=red style=dashed]; // mother: Desire Barrell
+  }
+  I721 -> F205 [color=red style=bold]; // child:  James Newton Sparrell
+
+
+  I265 -> I393 [color=green style=dashed]; // child:  William Patten Whaley to mother: Mary Chester
+  I265 -> I393 [color=purple style=dashed]; // child:  William Patten Whaley to mother: Mary Chester
+
+
+}
