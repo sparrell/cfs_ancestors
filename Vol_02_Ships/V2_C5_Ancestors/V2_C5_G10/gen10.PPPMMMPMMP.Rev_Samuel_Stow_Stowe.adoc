@@ -1,0 +1,83 @@
+= Rev. Samuel Stow Stowe (1645 - 1720)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: M
+* Birth: 1645
+* Birthplace: Concord, Middlesex, Massachusetts Bay Colony, New England
+* Death: 9 FEB 1720
+* Deathplace: Marlborough, MIddlesex, Massachusetts, New England
+* Age at Death: 74-75
+
+
+== Family
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPMMMPMMPM.Mary_Griggs_Gregg.adoc[Mary Griggs Gregg (1618 - 1680)]
+
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPMMMPMMPP.Thomas_Stow,_I_(Stowe).adoc[Thomas Stow, I (Stowe) (1615 - 1684)]
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPMMMPMM.Sarah_Stow.adoc[Sarah Stow (1673 - 1761)]
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPMMMPMMP.Rev_Samuel_Stow_Stowe.adoc[Book Link]
+* https://cfsjksas.gigalixirapp.com/person?p=p1281[Dev website]
+* Geni TBD
+* MyHeritage TBD
+* https://www.werelate.org/wiki/Person:Samuel_Stow_%281%29[WeRelate]
+* WikiTree TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.P.Herbert_Kirkwood_Sparrell.adoc[Herbert Kirkwood Sparrell (1899 - 1978)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.PP.Charles_Herbert_Sparrell.adoc[Charles Herbert Sparrell (1873 - 1961)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.PPP.Herbert_Kirkwood_Sparrell.adoc[Herbert Kirkwood Sparrell (1847 - 1923)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PPPM.Emiline_S_Gleason.adoc[Emiline S Gleason (1825 - 1908)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.PPPMM.Sophia_Bixby.adoc[Sophia Bixby (1802 - 1859)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PPPMMM.Betsy_Willard.adoc[Betsy Willard (1771 - ?)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPMMMP.Lieut_Issac_Willard.adoc[Lieut. Issac Willard (1724 - 1805)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPMMMPM.Martha_Clarke.adoc[Martha Clarke (1693 - 1794)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPMMMPMM.Sarah_Stow.adoc[Sarah Stow (1673 - 1761)]
+* gen10.PPPMMMPMMP.Rev_Samuel_Stow_Stowe_(1645_-_1720)
+
+
+== Other
+
+== Sources
+* @S112@
+----
+2 QUAY 4
+2 DATA
+3 TEXT Rev. Samuel Stow Stowe&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Birth: 1645 - Concord, Middlesex, Massachusetts Bay Colony, New England&amp;lt;br&amp;gt;Marriage: Nov 16 1669 - Concord, Middlese
+4 CONC x, Massachusetts&amp;lt;br&amp;gt;Death: Feb 9 1720 - Marlborough, MIddlesex, Massachusetts, New England&amp;lt;br&amp;gt;Father: Thomas Stow (born Stowe), I&amp;lt;br&amp;gt;Mother: Mary Stow (born G
+4 CONC riggs Gregg)&amp;lt;br&amp;gt;Wife: Elizabeth Stow (born Stone)&amp;lt;br&amp;gt;Children: Thomas StowSarah Clarke (born Stow)Rev. John StowSamuel StowThankful Stevens (born Stowe Stow)Rachel Rice (bo
+4 CONC rn Stow)Mary Morse (born Stow)&amp;lt;br&amp;gt;Siblings: Thomas Stow, IIJohn Stowe (born Stow)Thankful Hill (born Stowe)Elizabeth Bidwell (born Stowe Stow)Mary Cotton (born Stow)&amp;lt;br&amp;gt;Pho
+4 CONC tos:
+----
+
+* @S112@
+----
+2 QUAY 4
+2 DATA
+3 TEXT Rev. Samuel Stow Stowe&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Birth: 1645 - Concord, Middlesex, Massachusetts Bay Colony, New England&amp;lt;br&amp;gt;Marriage: Nov 16 1669 - Concord, Middlese
+4 CONC x, Massachusetts&amp;lt;br&amp;gt;Death: Feb 9 1720 - Marlborough, MIddlesex, Massachusetts, New England&amp;lt;br&amp;gt;Father: Thomas Stow (born Stowe), I&amp;lt;br&amp;gt;Mother: Mary Stow (born G
+4 CONC riggs Gregg)&amp;lt;br&amp;gt;Wife: Elizabeth Stow (born Stone)&amp;lt;br&amp;gt;Children: Thomas StowSarah Clarke (born Stow)Rev. John StowSamuel StowThankful Stevens (born Stowe Stow)Rachel Rice (bo
+4 CONC rn Stow)Mary Morse (born Stow)&amp;lt;br&amp;gt;Siblings: Thomas Stow, IIJohn Stowe (born Stow)Thankful Hill (born Stowe)Elizabeth Bidwell (born Stowe Stow)Mary Cotton (born Stow)&amp;lt;br&amp;gt;Pho
+4 CONC tos:
+----
+
+* @S112@
+----
+2 QUAY 4
+2 DATA
+3 TEXT Rev. Samuel Stow Stowe&amp;lt;br&amp;gt;Gender: Male&amp;lt;br&amp;gt;Birth: 1645 - Concord, Middlesex, Massachusetts Bay Colony, New England&amp;lt;br&amp;gt;Marriage: Nov 16 1669 - Concord, Middlese
+4 CONC x, Massachusetts&amp;lt;br&amp;gt;Death: Feb 9 1720 - Marlborough, MIddlesex, Massachusetts, New England&amp;lt;br&amp;gt;Father: Thomas Stow (born Stowe), I&amp;lt;br&amp;gt;Mother: Mary Stow (born G
+4 CONC riggs Gregg)&amp;lt;br&amp;gt;Wife: Elizabeth Stow (born Stone)&amp;lt;br&amp;gt;Children: Thomas StowSarah Clarke (born Stow)Rev. John StowSamuel StowThankful Stevens (born Stowe Stow)Rachel Rice (bo
+4 CONC rn Stow)Mary Morse (born Stow)&amp;lt;br&amp;gt;Siblings: Thomas Stow, IIJohn Stowe (born Stow)Thankful Hill (born Stowe)Elizabeth Bidwell (born Stowe Stow)Mary Cotton (born Stow)&amp;lt;br&amp;gt;Pho
+4 CONC tos:
+----
+

@@ -1,0 +1,77 @@
+= John Strong (1613 - 1699)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: M
+* Birth: 1613
+* Birthplace: Chard, Somerset, England, UK
+* Death: 14 APR 1699
+* Deathplace: Northampton, Hampshire, Massachusetts, USA
+* Age at Death: 85-86
+
+
+== Ship
+* Hopewell
+* 1636
+
+
+== Family
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PMPPPPPPPPM.Eleanor_(Elinor)_Deane.adoc[Eleanor (Elinor) Deane (1586 - 1654)]
+
+* Father: immigrant so Dad is NA
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPPPPPPP.John_Strong.adoc[John Strong (1626 - 1698)]
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PMPPPPPPPP.John_Strong.adoc[Book Link]
+* https://cfsjksas.gigalixirapp.com/person?p=p0251[Dev website]
+* Geni TBD
+* MyHeritage TBD
+* https://www.werelate.org/wiki/Person:John_Strong_%282%29[WeRelate]
+* WikiTree TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.P.Herbert_Kirkwood_Sparrell.adoc[Herbert Kirkwood Sparrell (1899 - 1978)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.PM.Lavinia_Elizabeth_Strong.adoc[Lavinia Elizabeth Strong (1875 - 1941)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.PMP.Albert_Randolph_Strong.adoc[Albert Randolph Strong (1845 - 1920)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PMPP.Elijah_Genubeth_Strong.adoc[Elijah Genubeth Strong (1818 - 1870)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.PMPPP.Genubeth_Strong.adoc[Genubeth Strong (1791 - 1856)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PMPPPP.Ebenezer_Strong.adoc[Ebenezer Strong (1750 - 1824)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPPPPP.David_Strong.adoc[David Strong (1704 - 1801)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPPPPPP.John_Strong.adoc[John Strong (1665 - 1749)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPPPPPPP.John_Strong.adoc[John Strong (1626 - 1698)]
+* gen10.PMPPPPPPPP.John_Strong_(1613_-_1699)
+
+
+== Other
+emigration:  Ship "Hopewell"
+----
+2 DATE 1635
+2 AGE 21-22
+----
+
+event:  _ELEC of Strong, John - Constable -Taunton MA
+----
+2 TYPE _ELEC
+2 DATE 1638
+2 PLAC Taunton, Bristol, Massachusetts, USA
+2 AGE 24-25
+----
+
+notes: Family Motto:  "Together we are Strong" <p></p>
+occupation: Farmer, Leather tanner
+ordained: Ruling Elder -
+----
+2 DATE 1663
+2 PLAC Northampton, Hampshire, Massachusetts, USA
+2 AGE 49-50
+----
+
+
+== Sources
