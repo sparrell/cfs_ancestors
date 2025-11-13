@@ -5,6 +5,10 @@ Note they are listed by closest relationship order.
 Clicking on relationship will bring you to relationship graph.
 Clicking on name will bring you to wikipedia page for that person.
 
+to do: 
+* add in willard who founded willard hotel sixth cousin 4 times removed
+* jeff bezos 13th cousin once removed
+
 * JP Morgan
 ** 6th cousin five times removed
 * P. T. Barnum 
