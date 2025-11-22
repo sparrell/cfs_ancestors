@@ -22,12 +22,6 @@ digraph GRAMPS_graph
   edge [len=0.5 style=solid fontsize=14];
   node [style=filled fontsize=14];
 
-# Number of people in database:    215
-# Number of people of interest:    215
-# Number of families in database:  72
-# Number of families of interest:  72
-# Additional people removed:       0
-# Additional families removed:     0
 # Initial list of people of interest:
 # -> I953, James Newton Sparrell
 
@@ -53,6 +47,7 @@ digraph GRAMPS_graph
   I1990 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Sparrell, George Partridge \n(1812-06-07 - )" ];
   I687 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Sparrell, Frank Joseph \n(1875-05-27 - 1947-04-07)" ];
   I190 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Sparrell, Charles Fisher \n(1928-10-26 - 2007-09-25)" ];
+  I190J [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Sparrell, James Kirkwood \n(1932-03-11 - 2015-09-17)" ];
   I942 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Sparrell, James Newton \n(1770-04-07 - 1826-11-03)" ];
   I1394 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Sparrell, John Henry" ];
   I742 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Sparrell, James Newton \n(1849 - )" ];
@@ -90,6 +85,7 @@ digraph GRAMPS_graph
 
 
   I897 -> I190; // child:  Charles Fisher Sparrell
+  I897 -> I190J; // child:  James Kirkwood Sparrell
 
   I2059 -> I2061; // child:  Marvin Eugene Sparrell
 
