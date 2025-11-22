@@ -23,3 +23,6 @@ Clicking on name will bring you to wikipedia page for that person.
 ** 16th cousin twice removed
 * Niels Bohr, Nobel Prize in Physics 
 ** 19th cousin five times removed.
+
+
+need to link to graphs for each

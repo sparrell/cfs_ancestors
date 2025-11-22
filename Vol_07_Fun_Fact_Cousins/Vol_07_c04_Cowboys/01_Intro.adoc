@@ -17,3 +17,6 @@ Clicking on name will bring you to wikipedia page for that person.
 ** Fifteenth Cousin four times removed - geni
 * Annie Oakley
 ** Nineteenth Cousin twice removed - geni
+
+
+need to link to graphs for each
