@@ -107,16 +107,52 @@ Vol 6 is organized by society.
 == Vol 7 Fun Fact Cousins
 
 Volume 7 isn't about only our ancestors, but also includes famous blood relations.
-For example Charles/James/Ann are cousins to all the US Presidents except for Biden and Trump.
-This volume is organized as follows:
+For example Charles/James/Ann are cousins to all the US Presidents 
+except for Biden and Trump. 
+An example of a fun fact is John Adams is their third cousin, 8 times removed.
+Which is to say if equivilent to the current 
+When we hold the Sparrell Thanksgiving reunions (ie all their descendants)
+every few years),
+their great grandchildren are third cousins. 
+So the same reunion 8 generations removed (ie 8 generations ago),
+our ancestor would have been at the reunion with John Adams.
 
-* list the chapters
+This volume is organized by chapters with a theme as follows:
+
+* link:Vol_07_c01_Mayflower[Mayflower] (ie famous people descended from same Mayflower ancestor as we are)
+* Actors
+* Authors
+* Cowboys & Wild West
+* Military
+* Misc
+* Musicians
+* Royalty
+* Witches
+* Signers
+* Sports
+* STEM
+* Tycoons
+* Presidents
+
+* a lot yet to do to remake graphs for C/J/A and put in here
 
 == Vol 8 Indicies 
 
 This hopefully will contain links to ecah person, topic etc and everywherre they appear.
+Haven't even started it yet
 
 == Vol 9 Software
 
-Explain how made
+Explain the software behind the sites and behind the graphs.
+
+Haven't even started it yet.
+
+It will have 3 chapters
+
+* Different graph examples
+* Cjsjksas aka dev db
+* Graphing software
+** circle
+** lineages
+* adoc => book(s)
 
