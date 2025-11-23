@@ -7,12 +7,8 @@ Note we have 3rd cousins at our Thanksgiving get togethers.
 
 == Order by nearest relation
 
-* John Adams (2nd President)
-** Third cousin 8 times removed
-** link:02JohnAdams.png[Relationshp graph]
-* James Madison (4th President)
-** 8th cousin, 9x removed
-** link:04JamesMadison.png[Relationshp graph]
+* John Adams (2nd President) - Third cousin 8 times removed - link:02JohnAdams.png[Relationshp graph]
+* James Madison (4th President) - 8th cousin, 9x removed - link:04JamesMadison.png[Relationshp graph]
 * George Washington (1st President)
 ** 10th cousin 6 times removed
 ** link:01GeorgeWashington.png[Relationshp graph]
@@ -20,7 +16,7 @@ Note we have 3rd cousins at our Thanksgiving get togethers.
 ** 13th cousin 4x removed
 ** link:03ThomasJefferson.png[Relationshp graph]
 
-== RPresidential order
+== Presidential order
 
 * George Washington (1st President)
 ** 10th cousin 6 times removed
