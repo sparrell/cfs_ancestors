@@ -1,0 +1,124 @@
+digraph GRAMPS_graph {
+	graph [bgcolor=white, center=true, charset=utf8, concentrate=false, dpi=75, fontsize=14, margin="0.250000,0.555556", mclimit=99, nodesep="0.20", outputorder=edgesfirst, page="20.000000,20.000000", pagedir=BL, rankdir=TB, ranksep="0.20", ratio=fill, searchsize=100, size="17.99,17.99", splines=true];
+	node [label="\N", style=filled, fontsize=14];
+	edge [len="0.5", style=solid, arrowhead=none, arrowtail=normal, fontsize=14];
+	graph [margin="1.00,1.00",
+		page="20.00,20.00",
+		bb="0 0 1295 1295"];
+
+	t0 [shape="plaintext" fillcolor="#ffffff"  label="Alexander Hamilton\n13th cousin, 6X removed" fontsize=40];
+
+	{
+	node [label="\N", shape=ellipse, fillcolor=none, color=none, fontcolor=black, style="invis"];
+	edge [style=invis, weight=5];
+	gent0 -> gen0 ->gen1 -> gen2 -> gen3 -> gen4 -> gen5
+	-> gen6 -> gen7 -> gen8 -> gen9 -> gen10
+	-> gen11 -> gen12 -> gen13 -> gen14 -> gen15
+	-> gen16 -> gen17 -> gen18 -> gen19 -> gen20;
+	}
+
+	t0 -> g0 [arrowhead=normal, arrowtail=none, color=none];
+
+	g0 -> c0 [arrowhead=normal, arrowtail=none, color=none];
+
+	{
+	edge [arrowhead=normal, arrowtail=none, color=blue ];
+	g0 -> g1a -> g2a -> g3a -> g4a -> g5a
+	-> g6a -> g7a -> g8a -> g9a -> g10a 
+	-> g11a -> g12a -> g13a -> g14a -> g15a  
+	-> g16a -> g17a -> g18a -> g19a -> g20a;
+	}
+
+	{
+	edge [arrowhead=normal, arrowtail=none, color=red ];
+	g0 -> g1b -> g2b -> g3b -> g4b -> g5b
+	-> g6b -> g7b -> g8b -> g9b -> g10b 
+	-> g11b -> g12b -> g13b -> g14b ;
+	}
+
+	{
+	edge [arrowhead=none, arrowtail=none, color=none ];
+	t0 -> c0 -> c1 -> c2 -> c3 -> c4 -> c13r6;
+	}
+
+	{
+	edge [style=dotted, arrowhead=none, arrowtail=none, color=green];
+	g1a -> c0 -> g1b ;
+	g2a -> c1 -> g2b ;
+	g3a -> c2 -> g3b ;
+	g4a -> c3 -> g4b ;
+	g5a -> c4 -> g5b ;
+	g20a -> c13r6 -> g14b ;	
+	}
+
+	 [style=dotted, arrowhead=none, arrowtail=none, color=green];
+
+
+	{ rank = same; g1a; c0; g1b }
+	{ rank = same; g2a; c1; g2b }
+	{ rank = same; g3a; c2; g3b }
+	{ rank = same; g4a; c3; g4b }
+	{ rank = same; g5a; c4; g5b }
+	{ rank = same; g14a; g14b }
+	{ rank = same; g17a; c13r6; }
+
+
+	g0 [label="find", style="solid,filled", shape=box, fillcolor="#e0e0ff"];
+
+	g1a [label="Edmund de Holland", style="solid,filled", shape=box, fillcolor="#e0e0ff"];
+	g2a [label="Eleanor Tuchet (de Holland)\nBaroness Audley", style="rounded,filled", shape=box, fillcolor="#ffe0e0"];
+	g3a [label="Elizabeth Touchet (Brooke)", style="rounded,filled", shape=box, fillcolor="#ffe0e0"];
+	g4a [label="Joan Smyth", style="rounded,filled", shape=box, fillcolor="#ffe0e0"];
+	g5a [label="Thomas Smyth", style="solid,filled", shape=box, fillcolor="#e0e0ff"];
+	g6a [label="Richard S. Smythe", style="solid,filled", shape=box, fillcolor="#e0e0ff"];
+	g7a [label="Elder William Smythe", style="solid,filled", shape=box, fillcolor="#e0e0ff"];
+	g8a [label="Mary Brewster", style="rounded,filled", shape=box, fillcolor="#ffe0e0"];
+	g9a [label="Elder William Brewster\nMayflower Passenger", style="solid,filled", shape=box, fillcolor="#e0e0ff"];
+	g10a [label="Jonathan Brewster", style="solid,filled", shape=box, fillcolor="#e0e0ff"];
+	g11a [label="Mary Turner", style="rounded,filled", shape=box, fillcolor="#ffe0e0"];
+	g12a [label="Benjamin Turner", style="solid,filled", shape=box, fillcolor="#e0e0ff"];
+	g13a [label="John Turner", style="solid,filled", shape=box, fillcolor="#e0e0ff"];
+	g14a [label="Rachel Sparrell", style="rounded,filled", shape=box, fillcolor="#ffe0e0"];
+	g15a [label="James Newton Sparrell", style="solid,filled", shape=box, fillcolor="#e0e0ff"];
+	g16a [label="James Newton Sparrell", style="solid,filled", shape=box, fillcolor="#e0e0ff"];
+	g17a [label="Herbert Kirkwood Sparrell", style="solid,filled", shape=box, fillcolor="#e0e0ff"];
+	g18a [label="Charles Herbert Sparrell", style="solid,filled", shape=box, fillcolor="#e0e0ff"];
+	g19a [label="Herbert Kirkwood Sparrell", style="solid,filled", shape=box, fillcolor="#e0e0ff"];
+	g20a [style="solid,filled", shape=record, fillcolor=white, label=<
+		<TABLE>
+		  <TR>
+		      <TD BGCOLOR="#e0e0ff">Charles</TD>
+		      <TD BGCOLOR="#e0e0ff">Jim</TD>
+		      <TD BGCOLOR="#ffe0e0">Ann</TD>
+		  </TR>
+		</TABLE>>
+	     ];
+
+
+	c0 [label="Brother/Sister", style="dotted", shape=ellipse, fillcolor=none, color=green, fontcolor=green ];
+	c1 [label="First Cousins", style="dotted", shape=ellipse, fillcolor=none, color=green, fontcolor=green ];
+	c2 [label="Second Cousins", style="dotted", shape=ellipse, fillcolor=none, color=green, fontcolor=green ];
+	c3 [label="Third Cousins", style="dotted", shape=ellipse, fillcolor=none, color=green, fontcolor=green ];
+	c4 [label="Fourth Cousins", style="dotted", shape=ellipse, fillcolor=none, color=green, fontcolor=green ];
+	c13r6 [label="13th Cousins 6x removed", style="dotted", shape=ellipse, fillcolor=none, color=green, fontcolor=green ];
+
+	g1b [label="Margaret Holland\nDuchess of Clarence", style="rounded,filled", shape=box, fillcolor="#ffe0e0"];
+	g2b [label="Joan Beaufort\nQueen consort of Scots", style="rounded,filled", shape=box, fillcolor="#ffe0e0"];
+	g3b [label="James II of Scotland", style="solid,filled", shape=box, fillcolor="#e0e0ff"];
+	g4b [label="Mary Stewart\nCountess of Arran", style="rounded,filled", shape=box, fillcolor="#ffe0e0"];
+	g5b [label="James Hamilton\n1st Earl of Arran", style="solid,filled", shape=box, fillcolor="#e0e0ff"];
+	g6b [label="Sir James Hamilton\nof Finnart", style="solid,filled", shape=box, fillcolor="#e0e0ff"];
+	g7b [label="Margaret Hamilton", style="rounded,filled", shape=box, fillcolor="#ffe0e0"];
+	g8b [label="John Hamilton", style="solid,filled", shape=box, fillcolor="#e0e0ff"];
+	g9b [label="Margaret Hamilton", style="rounded,filled", shape=box, fillcolor="#ffe0e0"];
+	g10b [label="James Hamilton\n1st Duke of Hamilton, Royalist", style="solid,filled", shape=box, fillcolor="#e0e0ff"];
+	g11b [label="John Hamilton", style="solid,filled", shape=box, fillcolor="#e0e0ff"];
+	g12b [label="Alexander Hamilton\nof Grange", style="solid,filled", shape=box, fillcolor="#e0e0ff"];
+	g13b [label="James A. Hamilton", style="solid,filled", shape=box, fillcolor="#e0e0ff"];
+	g14b [label="Alexander Hamilton\nSigner of the US Constitution", style="solid,filled", shape=box, fillcolor="#e0e0ff"];
+
+
+
+
+
+}

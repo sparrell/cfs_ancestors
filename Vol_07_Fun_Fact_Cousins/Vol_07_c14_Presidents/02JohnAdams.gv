@@ -1,0 +1,98 @@
+digraph GRAMPS_graph {
+	graph [bgcolor=white, center=true, charset=utf8, concentrate=false, dpi=75, fontsize=14, margin="0.250000,0.555556", mclimit=99, nodesep="0.20", outputorder=edgesfirst, page="20.000000,20.000000", pagedir=BL, rankdir=TB, ranksep="0.20", ratio=fill, searchsize=100, size="17.99,17.99", splines=true];
+	node [label="\N", style=filled, fontsize=14];
+	edge [len="0.5", style=solid, arrowhead=none, arrowtail=normal, fontsize=14];
+	graph [margin="1.00,1.00",
+		page="20.00,20.00",
+		bb="0 0 1295 1295"];
+
+	t0 [shape="plaintext" fillcolor="#ffffff"  label="John Adams\n2nd President" fontsize=40];
+
+	g0 [label="John Alden", style="rounded,filled", shape=box, fillcolor="#ffe0e0"];
+	g1a [label="Elizabeth Alden", style="rounded,filled", shape=box, fillcolor="#ffe0e0"];
+	g2a [label="Elizabeth Peabody", style="rounded,filled", shape=box, fillcolor="#ffe0e0"];
+	g3a [label="Hannah Rogers", style="rounded,filled", shape=box, fillcolor="#ffe0e0"];
+	g4a [label="Elizabeth Bradford", style="rounded,filled", shape=box, fillcolor="#ffe0e0"];
+	g5a [label="John Whiting", style="solid,filled", shape=box, fillcolor="#e0e0ff"];
+	g6a [label="Philena Whiting", style="rounded,filled", shape=box, fillcolor="#ffe0e0"];
+	g7a [label="Philena Haughton", style="rounded,filled", shape=box, fillcolor="#ffe0e0"];
+	g8a [label="Elizabeth Shaw Whaley", style="rounded,filled", shape=box, fillcolor="#ffe0e0"];
+	g9a [label="Albert Randolph Strong", style="solid,filled", shape=box, fillcolor="#e0e0ff"];
+	g10a [label="Lavinia Elizabeth Strong", style="rounded,filled", shape=box, fillcolor="#ffe0e0"];
+	g11a [label="Herbert Kirkwood Sparrell", style="solid,filled", shape=box, fillcolor="#e0e0ff"];
+	g12a [style="solid,filled", shape=record, fillcolor=white, label=<
+		<TABLE>
+		  <TR>
+		      <TD BGCOLOR="#e0e0ff">Charles</TD>
+		      <TD BGCOLOR="#e0e0ff">Jim</TD>
+		      <TD BGCOLOR="#ffe0e0">Ann</TD>
+		  </TR>
+		</TABLE>>
+	     ];
+
+
+	c0 [label="Brothers", style="dotted", shape=ellipse, fillcolor=none, color=green, fontcolor=green ];
+	c1 [label="First Cousins", style="dotted", shape=ellipse, fillcolor=none, color=green, fontcolor=green ];
+	c2 [label="Second Cousins", style="dotted", shape=ellipse, fillcolor=none, color=green, fontcolor=green ];
+	c3 [label="Third Cousins", style="dotted", shape=ellipse, fillcolor=none, color=green, fontcolor=green ];
+	c9r1 [label="Third Cousins seven times removed", style="dotted", shape=ellipse, fillcolor=none, color=green, fontcolor=green ];
+
+	g1b [label="Ruth Alden", style="rounded,filled", shape=box, fillcolor="#ffe0e0"];
+	g2b [label="Hannah Bass", style="rounded,filled", shape=box, fillcolor="#ffe0e0"];
+	g3b [label="John Adams", style="solid,filled", shape=box, fillcolor="#e0e0ff"];
+	g4b [label="John Adams", style="solid,filled", shape=box, fillcolor="#e0e0ff"];
+
+	t0 -> g0 [arrowhead=normal, arrowtail=none, color=none];
+
+	g0 -> g1a [arrowhead=normal, arrowtail=none, color=red];
+	g0 -> c0 [arrowhead=normal, arrowtail=none, color=none];
+	g0 -> g1b [arrowhead=normal, arrowtail=none, color=blue];
+	{ rank = same; g1a; c0; g1b }
+	g1a -> c0 [style=dotted, arrowhead=none, arrowtail=none, color=green];
+	c0 -> g1b [style=dotted, arrowhead=none, arrowtail=none, color=green];
+
+	g1a -> g2a [arrowhead=normal, arrowtail=none, color=red];
+	c0 -> c1 [arrowhead=normal, arrowtail=none, color=none];
+	g1b -> g2b [arrowhead=normal, arrowtail=none, color=blue];
+	{ rank = same; g2a; c1; g2b }
+	g2a -> c1 [style=dotted, arrowhead=none, arrowtail=none, color=green];
+	c1 -> g2b [style=dotted, arrowhead=none, arrowtail=none, color=green];
+
+	g2a -> g3a [arrowhead=normal, arrowtail=none, color=red];
+	g2b -> g3b [arrowhead=normal, arrowtail=none, color=blue];
+	c1 -> c2 [arrowhead=normal, arrowtail=none, color=none];
+	{ rank = same; g3a; c2; g3b }
+	g3a -> c2 [style=dotted, arrowhead=none, arrowtail=none, color=green];
+	c2 -> g3b [style=dotted, arrowhead=none, arrowtail=none, color=green];
+
+	g3a -> g4a [arrowhead=normal, arrowtail=none, color=red];
+	g3b -> g4b [arrowhead=normal, arrowtail=none, color=blue];
+	c2 -> c3 [arrowhead=normal, arrowtail=none, color=none];
+	{ rank = same; g4a; c3; g4b }
+	g4a -> c3 [style=dotted, arrowhead=none, arrowtail=none, color=green];
+	c3 -> g4b [style=dotted, arrowhead=none, arrowtail=none, color=green];
+
+	g4a -> g5a [arrowhead=normal, arrowtail=none, color=red];
+
+	g5a -> g6a [arrowhead=normal, arrowtail=none, color=red];
+
+	g6a -> g7a [arrowhead=normal, arrowtail=none, color=red];
+
+	g7a -> g8a [arrowhead=normal, arrowtail=none, color=red];
+
+	g8a -> g9a [arrowhead=normal, arrowtail=none, color=red];
+
+	g9a -> g10a [arrowhead=normal, arrowtail=none, color=red];
+
+	g10a -> g11a [arrowhead=normal, arrowtail=none, color=red];
+	//c9 -> c9r1 [arrowhead=normal, arrowtail=none, color=none];
+	{ rank = same; c9r1; g8a; }
+	g12a -> c9r1 [style=dotted, arrowhead=none, arrowtail=none, color=green];
+	c9r1 -> g4b [style=dotted, arrowhead=none, arrowtail=none, color=green];
+	g10a -> c9r1 [style=dotted, arrowhead=none, arrowtail=none, color=none];
+	g4a -> c9r1 [style=dotted, arrowhead=none, arrowtail=none, color=none];
+
+	g11a -> g12a [arrowhead=normal, arrowtail=none, color=red];
+
+
+}
