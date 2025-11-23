@@ -8,9 +8,14 @@ Note we have 3rd cousins at our Thanksgiving get togethers.
 == Order by nearest relation
 
 * John Adams (2nd President) - Third cousin 8 times removed - link:02JohnAdams.png[Relationshp graph]
+* John Quincy Adams (6th President) - 4th cousin, 7x removed - link:06JohnQuincyAdams.png[Relationshp graph]
+* William Henry Harrison (9th President) - 8th cousin, 6x removed - link:09WmHarrison.png[Relationshp graph]
 * James Madison (4th President) - 8th cousin, 9x removed - link:04JamesMadison.png[Relationshp graph]
-* George Washington (1st President) - 10th cousin 6 times removed - link:01GeorgeWashington.png[Relationshp graph]
+* George Washington (1st President) - 10th cousin 6x removed - link:01GeorgeWashington.png[Relationshp graph]
+* Andrew Jackson (7th President) - 10th cousin, 6x removed - link:07AndrewJackson.png[Relationshp graph]
+* James Monroe (5th President) - 11th cousin, 8x removed - link:05JamesMonroe.png[Relationshp graph]
 * Thomas Jefferson (3rd President) - 13th cousin 4x removed - link:03ThomasJefferson.png[Relationshp graph]
+* Martin Van Buren (8th President) - 16th cousin, 5x removed - link:08MartinVanBuren.png[Relationshp graph]
 
 == Presidential order
 
@@ -18,3 +23,8 @@ Note we have 3rd cousins at our Thanksgiving get togethers.
 * John Adams (2nd President) - Third cousin 8 times removed - link:02JohnAdams.png[Relationshp graph]
 * Thomas Jefferson (3rd President) - 13th cousin 4x removed - link:03ThomasJefferson.png[Relationshp graph]
 * James Madison (4th President) - 8th cousin, 9x removed - link:04JamesMadison.png[Relationshp graph]
+* James Monroe (5th President) - 11th cousin, 8x removed - link:05JamesMonroe.png[Relationshp graph]
+* John Quincy Adams (6th President) - 4th cousin, 7x removed - link:06JohnQuincyAdams.png[Relationshp graph]
+* Andrew Jackson (7th President) - 10th cousin, 6x removed - link:07AndrewJackson.png[Relationshp graph]
+* Martin Van Buren (8th President) - 16th cousin, 5x removed - link:08MartinVanBuren.png[Relationshp graph]
+* William Henry Harrison (9th President) - 8th cousin, 6x removed - link:09WmHarrison.png[Relationshp graph]
