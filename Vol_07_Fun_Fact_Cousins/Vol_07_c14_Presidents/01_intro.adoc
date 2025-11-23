@@ -12,7 +12,7 @@ Note we have 3rd cousins at our Thanksgiving get togethers.
 ** link:02JohnAdams.png[Relationshp graph]
 * James Madison (4th President)
 ** 8th cousin, 9x removed
-** link:03JamesMadison.png[Relationshp graph]
+** link:04JamesMadison.png[Relationshp graph]
 * George Washington (1st President)
 ** 10th cousin 6 times removed
 ** link:01GeorgeWashington.png[Relationshp graph]
@@ -33,4 +33,4 @@ Note we have 3rd cousins at our Thanksgiving get togethers.
 ** link:03ThomasJefferson.png[Relationshp graph]
 * James Madison (4th President)
 ** 8th cousin, 9x removed
-** link:03JamesMadison.png[Relationshp graph]
+** link:04JamesMadison.png[Relationshp graph]
