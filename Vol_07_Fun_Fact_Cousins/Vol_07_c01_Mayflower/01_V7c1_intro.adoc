@@ -29,12 +29,12 @@ Our famous cousins also descended from Govenor William Bradford:
 see link:./images/bradfordDesc.gv.png[Bradford Descendants] for relations 
 
 == Brewster
-Our famous cousins also descended from Elder and Mary Brewster:
+Our famous cousins also descended from William and Mary Brewster:
 
 * Bing Crosby, musician - tenth cousin
 * Zachary Taylor, 12th US Presiden - fifth cousin five times removed
 
-see link:./images/brewsterDesc.gv.png[Bradford Descendants] for relations 
+see link:./images/brewsterDesc.gv.png[Brewster Descendants] for relations 
 
 == Chilton
 Our famous cousins also descended from James and Susana Chilton:
