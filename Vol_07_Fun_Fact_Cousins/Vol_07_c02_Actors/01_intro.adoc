@@ -5,17 +5,17 @@ Note they are listed by closest relationship order.
 Clicking on relationship will bring you to relationship graph.
 Clicking on name will bring you to wikipedia page for that person.
 
-* https://en.wikipedia.org/wiki/Lucille_Ball[Lucille Ball] link:./LucilleBall.gv.png[8th Cousin, once removed]
-* https://en.wikipedia.org/wiki/Marilyn_Monroe[Marilyn Monroe] link:./MarilynMonroe.gv.png[8th Cousin, twice removed]
-* https://en.wikipedia.org/wiki/Orson_Welles[Orson Welles] link:./OrsonWelles.gv.png[8th Cousin, twice removed]
-* https://en.wikipedia.org/wiki/Clint_Eastwood[Clint Eastwood] link:./ClintEastwood.gv.png[9th Cousin]
-* https://en.wikipedia.org/wiki/Christopher_Reeve[Christopher Reeve] link:./ChristopherReeve.gv.png[9th Cousin]
-* https://en.wikipedia.org/wiki/Raquel_Welch[Raquel Welch] link:./RaquelWelch.gv.png[9th Cousin, once removed]
-* https://en.wikipedia.org/wiki/Zac_Efron[Zac Efron] link:./ZacEfron.gv.png[9th Cousin, once removed]
-* https://en.wikipedia.org/wiki/Alec_Baldwin[Alec Baldwin] link:./AlecBaldwin.gv.png[10th Cousin]
-* https://en.wikipedia.org/wiki/Matthew_Perry[Matthew Perry] link:./MatthewPerry.gv.png[10th Cousin, once removed] 
-* https://en.wikipedia.org/wiki/Dick_Van_Dyke[Dick Van Dyke] link:./DickVanDyke.gv.png[10th Cousin, once removed]
-* https://en.wikipedia.org/wiki/John_Wayne[John Wayne] link:./JohnWayne.gv.png[10th Cousin, once removed] 
+* https://en.wikipedia.org/wiki/Lucille_Ball[Lucille Ball] - link:./LucilleBall.gv.png[8th Cousin, once removed]
+* https://en.wikipedia.org/wiki/Marilyn_Monroe[Marilyn Monroe] - link:./MarilynMonroe.gv.png[8th Cousin, twice removed]
+* https://en.wikipedia.org/wiki/Orson_Welles[Orson Welles] - link:./OrsonWelles.gv.png[8th Cousin, twice removed]
+* https://en.wikipedia.org/wiki/Clint_Eastwood[Clint Eastwood] - link:./ClintEastwood.gv.png[9th Cousin]
+* https://en.wikipedia.org/wiki/Christopher_Reeve[Christopher Reeve] - link:./ChristopherReeve.gv.png[9th Cousin]
+* https://en.wikipedia.org/wiki/Raquel_Welch[Raquel Welch] - link:./RaquelWelch.gv.png[9th Cousin, once removed]
+* https://en.wikipedia.org/wiki/Zac_Efron[Zac Efron] - link:./ZacEfron.gv.png[9th Cousin, once removed]
+* https://en.wikipedia.org/wiki/Alec_Baldwin[Alec Baldwin] - link:./AlecBaldwin.gv.png[10th Cousin]
+* https://en.wikipedia.org/wiki/Matthew_Perry[Matthew Perry] - link:./MatthewPerry.gv.png[10th Cousin, once removed] 
+* https://en.wikipedia.org/wiki/Dick_Van_Dyke[Dick Van Dyke] - link:./DickVanDyke.gv.png[10th Cousin, once removed]
+* https://en.wikipedia.org/wiki/John_Wayne[John Wayne] - link:./JohnWayne.gv.png[10th Cousin, once removed] 
 * Vincent Price
 ** 10th Cousin, three times removed
 * Christopher Lloyd
@@ -42,11 +42,13 @@ Clicking on name will bring you to wikipedia page for that person.
 ** 13th Cousin, once removed
 * Reece Witherspoon
 ** 15th Cousin, once removed
+* Chris Hemsworth - 16th cousin once removed link:ChrisHemsworth.png[relationship graph]
 * Sandra Bullock
 ** 17th Cousin
 * Meryl Streep
 ** 17th Cousin
+* Robert Downey Jr - 23rd cousin 5X removed link:RobertDowneyJr.png[relationship graph]
 
 
 Actors/Actresses that we do not appear to be related to:
-* 
+* Jason Statham
