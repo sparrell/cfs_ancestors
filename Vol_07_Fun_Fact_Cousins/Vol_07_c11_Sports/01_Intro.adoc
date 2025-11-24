@@ -7,7 +7,7 @@ Clicking on name will bring you to wikipedia page for that person.
 
 
 * Larry Bird (basketball)
-** Nineth Cousin once removed
+** 9th Cousin once removed
 * Michael Phelps (swimmer)
 ** 10th cousin twice removed
 * Mickey Mantle (baseball) - 11th cousin - link:MickeyMantle.png[relationship graph]

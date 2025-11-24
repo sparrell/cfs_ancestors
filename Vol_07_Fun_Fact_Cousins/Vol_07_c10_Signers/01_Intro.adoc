@@ -13,7 +13,7 @@ Clicking on name will bring you to wikipedia page for that person.
 * Sam Adams
 ** seventh cousin five times removed G
 * John Hancock
-** Nineth Cousin eight times removed T
+** 9th Cousin eight times removed T
 * Alexander Hamilton
 ** Eleventh Cousin five times removed T
 * Ben Franklin
@@ -26,9 +26,9 @@ Note there are probably more but I didn't look all of them up
 ## Mayflower Compact
 
 * William Bradford
-** Nineth Great Grandfather
+** 9th Great Grandfather
 * William Brewster
-** Nineth Great Grandfather
+** 9th Great Grandfather
 * John Alden
 ** Tenth Great Grandfather
 * Thomas Rogers

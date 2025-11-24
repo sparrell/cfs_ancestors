@@ -8,9 +8,9 @@ Clicking on name will bring you to wikipedia page for that person.
 * Daniel Boone
 ** Eighth Cousin six times removed - T
 * Wild Bill Hickok
-** Nineth Cousin five times removed - T
+** 9th Cousin five times removed - T
 * Davy Crockett
-** Nineth Cousin six times removed - T
+** 9th Cousin six times removed - T
 * Wyatt Earp
 ** Fourteenth Cousin three times removed - T
 * Calamity Jane

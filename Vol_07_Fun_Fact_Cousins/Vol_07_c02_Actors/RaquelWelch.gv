@@ -54,8 +54,8 @@ digraph GRAMPS_graph {
 	c6 [label="Sixth Cousins", style="dotted", shape=ellipse, fillcolor=none, color=darkgreen, fontcolor=darkgreen ];
 	c7 [label="Seventh Cousins", style="dotted", shape=ellipse, fillcolor=none, color=darkgreen, fontcolor=darkgreen ];
 	c8 [label="Eighth Cousins", style="dotted", shape=ellipse, fillcolor=none, color=darkgreen, fontcolor=darkgreen ];
-	c9 [label="Nineth Cousins", style="dotted", shape=ellipse, fillcolor=none, color=darkgreen, fontcolor=darkgreen ];
-	c9r1 [label="Nineth Cousins one removed", style="dotted", shape=ellipse, fillcolor=none, color=darkgreen, fontcolor=darkgreen ];
+	c9 [label="9th Cousins", style="dotted", shape=ellipse, fillcolor=none, color=darkgreen, fontcolor=darkgreen ];
+	c9r1 [label="9th Cousins one removed", style="dotted", shape=ellipse, fillcolor=none, color=darkgreen, fontcolor=darkgreen ];
 
 	c0 -> c1 [arrowhead=normal, arrowtail=none, color=none];
 	c1 -> c2 [arrowhead=normal, arrowtail=none, color=none];

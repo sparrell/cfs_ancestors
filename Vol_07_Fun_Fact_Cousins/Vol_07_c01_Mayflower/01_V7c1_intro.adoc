@@ -13,12 +13,12 @@ Famous people also descended from our Mayflower ancestors
  * Orson Wells, actor - eighth cousin three times removed
  * William Cullen Bryant, poet - fifth cousin six times removed
 
-see link:./aldenDesc.gv.png[Alden Descendants] for relations 
+see link:./images/aldenDesc.gv.png[Alden Descendants] for relations 
 
 == Bradford
-Our famous cousins descended from Govenor William Bradford:
+Our famous cousins also descended from Govenor William Bradford:
 
-* Christopher Reeves, actor - nineth cousin
+* Christopher Reeves, actor - ninth cousin
 * Clint Eastwood, actor - ninth cousin
 * Deborah Sampson, woman revolutionary soldier - third cousin six times removed
 * George McClellan, Civil War general - sixth cousin three times removed
@@ -26,18 +26,18 @@ Our famous cousins descended from Govenor William Bradford:
 * Hugh Hefner, playboy - eighth cousin once removed
 * Noah Webster, dictionary - third cousin six times removed
 
-see link:./bradfordDesc.gv.png[Bradford Descendants] for relations 
+see link:./images/bradfordDesc.gv.png[Bradford Descendants] for relations 
 
 == Brewster
-Our famous cousins descended from Elder and Mary Brewster:
+Our famous cousins also descended from Elder and Mary Brewster:
 
 * Bing Crosby, musician - tenth cousin
 * Zachary Taylor, 12th US Presiden - fifth cousin five times removed
 
-see link:./brewsterDesc.gv.png[Bradford Descendants] for relations 
+see link:./images/brewsterDesc.gv.png[Bradford Descendants] for relations 
 
 == Chilton
-Our famous cousins descended from James and Susana Chilton:
+Our famous cousins also descended from James and Susana Chilton:
 
 * Amy Schumer, Comedian - 13th cousin once removed
 * Burl Ives, Musician - 10th cousin three times removed
@@ -49,17 +49,17 @@ Our famous cousins descended from James and Susana Chilton:
 * Pete Seeger, Musician - 10th cousin three times removed
 * Vincent Price, actor - 10th cousin three times removed
 
-see link:./chiltonDesc.gv.png[Chilton Descendants] for relations
+see link:./images/chiltonDesc.gv.png[Chilton Descendants] for relations
 
 == Rogers
 
-Our famous cousins descended from Thomas Rogers:
+Our famous cousins also descended from Thomas Rogers:
 
 * Alex Baldwin, actor - 10th cousin
-* Julia Child, chef - nineth cousin
-* Kate Hudson, actress - eleventh cousin once removed
+* Julia Child, chef - 9th cousin
+* Kate Hudson, actress - 11th cousin once removed
 * Kurt Cobain, musician - 9th cousin twice removed
-* Viggo Mortensen, actor - eleventh cousin once removed
-* Zac Efron, actor - nineth cousin once removed
+* Viggo Mortensen, actor - 11th cousin once removed
+* Zac Efron, actor - 9th cousin once removed
 
-see link:./rogersDesc.gv.png[Rogers Descendants] for relations
+see link:./images/rogersDesc.gv.png[Rogers Descendants] for relations

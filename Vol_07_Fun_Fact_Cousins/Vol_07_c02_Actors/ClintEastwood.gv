@@ -41,7 +41,7 @@ digraph GRAMPS_graph {
 	c6 [label="Sixth Cousins", style="dotted", shape=ellipse, fillcolor=none, color=darkgreen, fontcolor=darkgreen ];
 	c7 [label="Seventh Cousins", style="dotted", shape=ellipse, fillcolor=none, color=darkgreen, fontcolor=darkgreen ];
 	c8 [label="Eighth Cousins", style="dotted", shape=ellipse, fillcolor=none, color=darkgreen, fontcolor=darkgreen ];
-	c9 [label="Nineth Cousins", style="dotted", shape=ellipse, fillcolor=none, color=darkgreen, fontcolor=darkgreen ];
+	c9 [label="9th Cousins", style="dotted", shape=ellipse, fillcolor=none, color=darkgreen, fontcolor=darkgreen ];
 
 	g1b [label="Mary Bradford", style="rounded,filled", shape=box, fillcolor="#ffe0e0"];
 	g2b [label="Thomas Steele", style="solid,filled", shape=box, fillcolor="#e0e0ff"];
