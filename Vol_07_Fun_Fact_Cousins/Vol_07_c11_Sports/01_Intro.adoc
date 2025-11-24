@@ -6,16 +6,17 @@ Clicking on relationship will bring you to relationship graph.
 Clicking on name will bring you to wikipedia page for that person.
 
 
-* Larry Bird
+* Larry Bird (basketball)
 ** Nineth Cousin once removed
-* Michael Phelps
+* Michael Phelps (swimmer)
 ** 10th cousin twice removed
-* Archie, Peyton, and Eli Manning
+* Mickey Mantle (baseball) - 11th cousin - link:MickeyMantle.png[relationship graph]
+* Arnold Palmer - 11th cousin twice removed- link:ArnoldPalmer.png[relationship graph]
+* Archie, Peyton, and Eli Manning (Football)
 ** Archie - Fourteenth Cousin once removed
 ** Peyton, Eli - 15th Cousin
-* Babe Ruth
+* Babe Ruth (baseball)
 ** 15th cousin thrice removed
-
 
 Not related to:
 * Katie Ledecky
@@ -25,3 +26,5 @@ Not related to:
 * Rory McIlroy
 * Tom Brady
 * Carl Yastrzemski
+* Lou Gehrig
+* David Beckham

@@ -25,3 +25,7 @@ Clicking on name will bring you to wikipedia page for that person.
 ** Eighteenth Cousin twice removed - T
 * Jules Verne
 ** Nineteenth Cousin four times removed - T
+
+
+No path found to:
+* James Paterson
