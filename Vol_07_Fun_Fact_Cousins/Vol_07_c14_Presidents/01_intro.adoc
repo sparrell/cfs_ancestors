@@ -17,6 +17,7 @@ The following section redoes the list in presidential order.
 * William Henry Harrison (9th President) - 8th cousin, 6x removed - link:09WmHarrison.png[Relationshp graph]
 * James Madison (4th President) - 8th cousin, 9x removed - link:04JamesMadison.png[Relationshp graph]
 * Rutherford Hayes (19th President) - 9th cousin, 3x removed - link:19RutherfordHayes.png[Relationshp graph]
+* James Garfield (20th President) - 9th cousin, 4x removed - link:20JamesGarfield.png[Relationshp graph]
 * Abraham Lincoln (16th President) - 10th cousin, 3x removed - link:16AbeLincoln.png[Relationshp graph]
 * George Washington (1st President) - 10th cousin 6x removed - link:01GeorgeWashington.png[Relationshp graph]
 * Andrew Jackson (7th President) - 10th cousin, 6x removed - link:07AndrewJackson.png[Relationshp graph]
@@ -51,3 +52,4 @@ The following section redoes the list in presidential order.
 * Andrew Johnson (17th President) - 11th cousin, 6x removed - link:17AndrewJohnson.png[Relationshp graph]
 * Ulysses Grant (18th President) - 11th cousin, 3x removed - link:18USGrant.png[Relationshp graph]
 * Rutherford Hayes (19th President) - 9th cousin, 3x removed - link:19RutherfordHayes.png[Relationshp graph]
+* James Garfield (20th President) - 9th cousin, 4x removed - link:20JamesGarfield.png[Relationshp graph]
