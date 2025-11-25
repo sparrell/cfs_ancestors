@@ -5,7 +5,7 @@ Note they are listed by closest relationship order.
 Clicking on relationship will bring you to relationship graph.
 Clicking on name will bring you to wikipedia page for that person.
 
-* Daniel Boone - tenth Cousin five times removed - link:images/DanielBoone.png
+* Daniel Boone - tenth Cousin five times removed - link:images/DanielBoone.png[relationship graph]
 * Wild Bill Hickok
 ** 9th Cousin five times removed - T
 * Davy Crockett
