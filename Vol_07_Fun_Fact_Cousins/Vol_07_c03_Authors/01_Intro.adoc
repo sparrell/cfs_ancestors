@@ -3,12 +3,9 @@
 Below are some of the famous authors that are our cousins. 
 Note they are listed by closest relationship order.
 Clicking on relationship will bring you to relationship graph.
-Clicking on name will bring you to wikipedia page for that person.
 
-* Noah Webster
-** Third Cousin six times removed - Bradford descendant
-* Henry Wadsworth Longfellow
-** Fourth Cousin six times removed - Alden descendant
+* Noah Webster - Third Cousin six times removed - Bradford descendant - link:images/NoahWebster.gv.png[relationship graph]
+* Henry Wadsworth Longfellow - Fourth Cousin six times removed - Alden descendant -link:images/HenryWadsworthLongfellow[relationship graph]
 * William Cullen Bryant
 ** Fifth Cousin eight times removed - Alden descendent
 * Edgar Allan Poe
@@ -28,4 +25,9 @@ Clicking on name will bring you to wikipedia page for that person.
 
 
 No path found to:
+
 * James Paterson
+
+No genealogy data found (and therefore no path, but still potential)
+
+* Nora Roberts

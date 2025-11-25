@@ -3,9 +3,10 @@
 Below are some of the famous military people that are our cousins. 
 Note they are listed by closest relationship order.
 Clicking on relationship will bring you to relationship graph.
-Clicking on name will bring you to wikipedia page for that person.
 
-* Deborah Sampson (Woman soldier in Revolution)
-** Third Cousin six times removed
-* George McCellan (Commanded Union Army)
-** Sixth Cousin three times removed
+* Deborah Sampson (Woman soldier in Revolution)-  Third Cousin six times removed
+* George McCellan (Commanded Union Army) - Sixth Cousin three times removed
+* Robert E Lee (Commanded Confederate Army) - 10th cousin 4x removed - link:images/RobertELee.png[relationsip graph]
+* Ulysses Grant (Commanded Union Army) - 11th cousin thrice removed - link:../Vol_07_c14_Presidents/18USGrant.png[relationsip graph]
+* General George S Patton (WWII) - 12th cousin - link:images/Patton.png
+* Dwight D Eisenhower (WWII) - 16th cousin thrice removed - link:../Vol_07_c14_Presidents/34DwiEisenhower.png[relationsip graph]
