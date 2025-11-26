@@ -1,0 +1,211 @@
+digraph GRAMPS_graph
+{
+  bgcolor=white;
+  center="true"; 
+  charset="utf8";
+  concentrate="false";
+  dpi="300";
+  graph [fontsize=14];
+  margin="1.00,1.00"; 
+  mclimit="99";
+  nodesep="0.20";
+  outputorder="edgesfirst";
+#  page="21.00,32.00";
+  pagedir="BL";
+  rankdir="TB";
+  ranksep="0.10";
+#  ranksep="0.20";
+  ratio="fill";
+  searchsize="100";
+  size="18.99,29.99"; 
+  splines="true";
+
+#  edge [len=0.5 style=solid fontsize=14];
+  edge [style=solid fontsize=14];
+  node [style=filled fontsize=14];
+
+
+  { rank = same; I0748; I0794; I0397; I0651; I1369; I1359; I1258; I0459; I0249; I0648;}
+#  { rank = same; I0904; I0396; I0407; I1071; I0586;}
+
+  I0459 [ shape="circle" fillcolor="#e0e0ff" style="solid,filled" label=<Hurlburt, Adam <BR/>(1736 - 1828)> ];
+  I0397 [ shape="circle" fillcolor="#e0e0ff" style="solid,filled" label=<Whaley, Jonathan <BR/>(1759 - 1805)> ];
+  I1023 [ shape="circle" fillcolor="#e0e0ff" style="solid,filled" label=<Hannum, Gideon <BR/>(1727 - 1786)> ];
+  I1369 [ shape="circle" fillcolor="#e0e0ff" style="solid,filled" label=<Chesebrough, Jedidiah <BR/>(1738 - )> ];
+  I0651 [ shape="circle" fillcolor="#e0e0ff" style="solid,filled" label=<Hannum, Elijah <BR/>(1759 - 1832)> ];
+  I0794 [ shape="circle" fillcolor="#e0e0ff" style="solid,filled" label=<Barrell, James <BR/>(1751 - 1801)> ];
+  I0816 [ shape="circle" fillcolor="#e0e0ff" style="solid,filled" label=<Barrell, James <BR/>(1727 - 1827)> ];
+  I0748 [ shape="circle" fillcolor="#e0e0ff" style="solid,filled" label=<Gleason, John> ];
+  I1258 [ shape="circle" fillcolor="#e0e0ff" style="solid,filled" label=<Edgecomb, Jabez <BR/>(1763 - 1843)> ];
+  I1359 [ shape="circle" fillcolor="#e0e0ff" style="solid,filled" label=<Lester, Amos <BR/>(1728 - 1808)> ];
+  I0910 [ shape="circle" fillcolor="#e0e0ff" style="solid,filled" label=<Andrews, David <BR/>(1736 - 1815)> ];
+  I0249 [ shape="circle" fillcolor="#e0e0ff" style="solid,filled" label=<Gray, John <BR/>(1763 - 1841)> ];
+
+  I0193 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Sparrell, Charles Fisher <BR/>(1928 - 2007)> ];
+  I0549 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Hannum, Lucy <BR/>(1795 - 1856)> ];
+  I1049 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Edgecomb, George Washington <BR/>(1826 - 1862)> ];
+  I0376 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Fisher, Marion <BR/>(1904 - 2002)> ];
+  I1236 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Sparrell, Ann <BR/>(1933 - 2023)> ];
+  I0904 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Sparrell, Herbert Kirkwood <BR/>(1899 - 1978)> ];
+  I1365 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Chesebrough, Edward <BR/>(1766 - 1826)> ];
+  I0396 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Strong, Albert Randolph <BR/>(1845 - 1920)> ];
+  I0343 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Hurlburt, Charles Henry <BR/>(1849 - 1930)> ];
+  I1168 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Edgecomb, Jabez M. <BR/>(1791 - 1865)> ];
+  I1071 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Edgecomb, Martha Avery <BR/>(1855 - 1939)> ];
+  I1347 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Sparrell, Charles Herbert <BR/>(1873 - 1961)> ];
+  I0440 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Hurlburt, Wait <BR/>(1777 - 1852)> ];
+  I0424 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Hurlburt, Charles S. <BR/>(1823 - 1886)> ];
+  I0407 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Edgecomb, Alice Virginia <BR/>(1850 - 1914)> ];
+  I1336 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Lester, Amos <BR/>(1776 - 1842)> ];
+  I0727 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Sparrell, James Newton <BR/>(1825 - 1877)> ];
+  I0671 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Sparrell, Herbert Kirkwood <BR/>(1847 - 1923)> ];
+  I1093 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Lester, Lydia Ann <BR/>(1802 - 1888)> ];
+  I0516 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Whaley, Elizabeth Shaw <BR/>(1813 - 1870)> ];
+  I0531 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Gleason, Simeon <BR/>(1795 - 1839)> ];
+  I0447 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Strong, Elijah Genubeth <BR/>(1818 - 1870)> ];
+  I0738 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Gleason, Emiline S. <BR/>(1825 - 1908)> ];
+  I0648 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Andrews, Rhoda <BR/>(1775 - 1841)> ];
+  I0365 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Fisher, Albert Amory Fisk <BR/>(1854 - 1915)> ];
+  I1060 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Kimball, Sarah Lavinia <BR/>(1830 - 1909)> ];
+  I0782 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Barrell, Desire <BR/>(1798 - 1872)> ];
+  I0194 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Strong, Lavinia Elizabeth <BR/>(1875 - 1941)> ];
+  I1126 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Sparrell, James Kirkwood <BR/>(1932 - 20015)> ];
+  I0268 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Whaley, William Patten <BR/>(1786 - )> ];
+  I1166 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Chesebrough, Bridget <BR/>(1791 - 1857)> ];
+  I0354 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Hurlburt, Ida A <BR/>(1874 - 1965)> ];
+  I0586 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Gray, Arvilla <BR/>(1808 - 1888)> ];
+
+  F0574 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="1898" ];
+  F0040 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="1843" ];
+  F0405 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="1872" ];
+  F0260 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="" ];
+  F0383 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="1848\n2 children" ];
+  F0355 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="1815" ];
+  F0195 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="1846" ];
+  F0576 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="1870" ];
+  F0611 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="1904" ];
+  Fgray [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="Gray" ];
+
+  I0794 -> I0782; // father: James Barrell child:  Desire Barrell
+
+  I0748 -> I0531; // father: John Gleason child:  Simeon Gleason
+
+  I0586 -> I0365; // mother: Arvilla Gray child:  Albert Amory Fisk Fisher
+
+  I0424 -> I0343; // father: Charles S. Hurlburt child:  Charles Henry Hurlburt
+
+  I0459 -> I0440; // father: Adam Hurlburt child:  Wait Hurlburt
+
+  I0440 -> I0424; // father: Wait Hurlburt child:  Charles S. Hurlburt
+
+  I1023 -> I0651; // father: Gideon Hannum child:  Elijah Hannum
+
+  subgraph cluster_F0574
+  {
+  style="invis";
+  I1347 -> F0574; // father: Charles Herbert Sparrell
+  I0194 -> F0574; // mother: Lavinia Elizabeth Strong
+  }
+  F0574 -> I0904; // child:  Herbert Kirkwood Sparrell
+
+  subgraph cluster_F0040
+  {
+  style="invis";
+  I0447 -> F0040; // father: Elijah Genubeth Strong
+  I0516 -> F0040; // mother: Elizabeth Shaw Whaley
+  }
+  F0040 -> I0396; // child:  Albert Randolph Strong
+
+  I0671 -> I1347; // father: Herbert Kirkwood Sparrell child:  Charles Herbert Sparrell
+
+  I0816 -> I0794; // father: James Barrell child:  James Barrell
+
+  I1093 -> I1060; // mother: Lydia Ann Lester child:  Sarah Lavinia Kimball
+
+  I0782 -> I0727; // mother: Desire Barrell child:  James Newton Sparrell
+
+  I0910 -> I0648; // father: David Andrews child:  Rhoda Andrews
+
+  I1369 -> I1365; // father: Jedidiah Chesebrough child:  Edward Chesebrough
+
+  I0531 -> I0738; // father: Simeon Gleason child:  Emiline S. Gleason
+
+  subgraph cluster_F0405
+  {
+  style="invis";
+  I0343 -> F0405; // father: Charles Henry Hurlburt
+  I1071 -> F0405; // mother: Martha Avery Edgecomb
+  }
+  F0405 -> I0354; // child:  Ida A Hurlburt
+
+  I0651 -> I0549; // father: Elijah Hannum child:  Lucy Hannum
+
+  I1336 -> I1093; // father: Amos Lester child:  Lydia Ann Lester
+
+  subgraph cluster_F0260
+  {
+  style="invis";
+  I0904 -> F0260; // father: Herbert Kirkwood Sparrell
+  I0376 -> F0260; // mother: Marion Fisher
+  }
+  F0260 -> I0193; // child:  Charles Fisher Sparrell
+  F0260 -> I1126; // child:  James Kirkwood Sparrell
+  F0260 -> I1236; // child:  Ann Sparrell
+
+  subgraph cluster_F0383
+  {
+  style="invis";
+  I1049 -> F0383; // father: George Washington Edgecomb
+  I1060 -> F0383; // mother: Sarah Lavinia Kimball
+  }
+  F0383 -> I0407; // child:  Alice Virginia Edgecomb
+  F0383 -> I1071; // child:  Martha Avery Edgecomb
+
+  I0549 -> I0447; // mother: Lucy Hannum child:  Elijah Genubeth Strong
+
+  I0648 -> Fgray -> I0586; // mother: Rhoda Andrews child:  Arvilla Gray
+  I0249 -> Fgray; //father
+
+  I1365 -> I1166; // father: Edward Chesebrough child:  Bridget Chesebrough
+
+  I1359 -> I1336; // father: Amos Lester child:  Amos Lester
+
+  subgraph cluster_F0195
+  {
+  style="invis";
+  I0727 -> F0195; // father: James Newton Sparrell
+  I0738 -> F0195; // mother: Emiline S. Gleason
+  }
+  F0195 -> I0671; // child:  Herbert Kirkwood Sparrell
+
+  I0268 -> I0516; // father: William Patten Whaley child:  Elizabeth Shaw Whaley
+
+  subgraph cluster_F0576
+  {
+  style="invis";
+  I0396 -> F0576; // father: Albert Randolph Strong
+  I0407 -> F0576; // mother: Alice Virginia Edgecomb
+  }
+  F0576 -> I0194; // child:  Lavinia Elizabeth Strong
+
+  subgraph cluster_F0611
+  {
+  style="invis";
+  I0365 -> F0611; // father: Albert Amory Fisk Fisher
+  I0354 -> F0611; // mother: Ida A Hurlburt
+  }
+  F0611 -> I0376; // child:  Marion Fisher
+
+  I0397 -> I0268; // father: Jonathan Whaley child:  William Patten Whaley
+
+  subgraph cluster_F0355
+  {
+  style="invis";
+  I1168 -> F0355; // father: Jabez M. Edgecomb
+  I1166 -> F0355; // mother: Bridget Chesebrough
+  }
+  F0355 -> I1049; // child:  George Washington Edgecomb
+
+  I1258 -> I1168; // father: Jabez Edgecomb child:  Jabez M. Edgecomb
+}
+

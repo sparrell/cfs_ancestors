@@ -1,0 +1,518 @@
+digraph GRAMPS_graph
+{
+  bgcolor=white;
+  center="true"; 
+  charset="utf8";
+  concentrate="false";
+  dpi="300";
+  graph [fontsize=14];
+  margin="0.50,0.50"; 
+  mclimit="99";
+  nodesep="0.10";
+  outputorder="edgesfirst";
+  pagedir="BL";
+  rankdir="TB";
+  ranksep="0.10";
+  ratio="fill";
+  searchsize="100";
+  size="7.5,10.0"; 
+  splines="true";
+
+  edge [len=0.5 style=solid fontsize=14];
+  node [style=filled fontsize=24];
+
+
+{ rank = same; I0617; I0587; I1233; I1440; I0868; I0837; I0696; I0662; I1263; I1389; I1443; I0526; I1132; I1105; }
+
+{ rank = same; I0671; I0343; I0586;}
+
+{ rank = same; I0727; I1049; I1060; I0435; I0648; }
+
+# -> I0664, James Avery
+  I0664 [ shape="circle" fillcolor="#e0e0ff" style="solid,filled" label=<Avery, James <BR/>(1620 - 1700)> ];
+# -> I0837, John Avery
+  I0837 [ shape="circle" fillcolor="#e0e0ff" style="solid,filled" label=<Avery, John <BR/>(1654 - 1724)> ];
+# -> I0662, James Avery
+  I0662 [ shape="circle" fillcolor="#e0e0ff" style="solid,filled" label=<Avery, James <BR/>(1646 - 1728)> ];
+# -> I1443, George Denison
+  I1443 [ shape="circle" fillcolor="#e0e0ff" style="solid,filled" label=<Denison, George <BR/>(1620 - 1694)> ];
+# -> I1233, Moses Crafts
+  I1233 [ shape="circle" fillcolor="#e0e0ff" style="solid,filled" label=<Crafts, Moses <BR/>(1641 - 1718)> ];
+# -> I0526, John Bennett
+  I0526 [ shape="circle" fillcolor="#e0e0ff" style="solid,filled" label=<Bennett, John <BR/>(1630 - 1691)> ];
+# -> I0696, James Morgan
+  I0696 [ shape="circle" fillcolor="#e0e0ff" style="solid,filled" label=<Morgan, James <BR/>(1644 - 1711)> ];
+# -> I1105, Henry Andrews
+  I1105 [ shape="circle" fillcolor="#e0e0ff" style="solid,filled" label=<Andrews, Henry <BR/>(1630 - 1676)> ];
+# -> I1132, Thomas Lincoln
+  I1132 [ shape="circle" fillcolor="#e0e0ff" style="solid,filled" label=<Lincoln, Thomas <BR/>(1576 - 1676)> ];
+# -> I0617, Robert Stetson
+  I0617 [ shape="circle" fillcolor="#e0e0ff" style="solid,filled" label=<Stetson, Robert <BR/>(1613 - 1703)> ];
+# -> I0587, Zachariah Damon
+  I0587 [ shape="circle" fillcolor="#e0e0ff" style="solid,filled" label=<Damon, Zachariah <BR/>(1654 - 1730)> ];
+# -> I0868, Ephraim Fellows
+  I0868 [ shape="circle" fillcolor="#e0e0ff" style="solid,filled" label=<Fellows, Ephraim <BR/>(1640 - 1671)> ];
+# -> I1389, Thomas Miner
+  I1389 [ shape="circle" fillcolor="#e0e0ff" style="solid,filled" label=<Miner, Thomas <BR/>(1608 - 1690)> ];
+# -> I1263, Daniel Mason
+  I1263 [ shape="circle" fillcolor="#e0e0ff" style="solid,filled" label=<Mason, Daniel <BR/>(1652 - 1737)> ];
+
+  I1367 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Baldwin, Sylvester <BR/>(1719 - 1795)> ];
+  I0193 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Sparrell, Charles Fisher <BR/>(1928 - 2007)> ];
+  I1414 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Avery, Deborah <BR/>(1670 - 1739)> ];
+  I1217 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Dennison, Hannah <BR/>(1643 - )> ];
+  I0919 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Branch, Peter <BR/>(1696 - 1759)> ];
+  I0922 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Lincoln, Hannah <BR/>(1664 - 1732)> ];
+  I0968 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Lincoln, Thomas <BR/>(1603 - 1684)> ];
+  I1318 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Morgan, Joshua <BR/>(1733 - 1774)> ];
+  I1365 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Chesebrough, Edward <BR/>(1766 - 1826)> ];
+  I1100 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Andrews, Ebenezer <BR/>(1700 - 1785)> ];
+  I0522 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Bennett, Jacob <BR/>(1735 - )> ];
+  I1270 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Satterlee, William <BR/>(1712 - 1752)> ];
+  I1369 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Chesebrough, Jedidiah <BR/>(1738 - )> ];
+  I1221 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Crafts, Abigail <BR/>(1676 - )> ];
+  I1366 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Baldwin, Anna <BR/>(1768 - 1832)> ];
+  I0407 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Edgecomb, Alice Virginia <BR/>(1850 - 1914)> ];
+  I0398 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Chester, Mary <BR/>(1764 - )> ];
+  I1440 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Avery, Mary <BR/>(1648 - 1708)> ];
+  I1093 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Lester, Lydia Ann <BR/>(1802 - 1888)> ];
+  I0604 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Vinal, Ruth <BR/>(1746 - 1810)> ];
+  I0516 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Whaley, Elizabeth Shaw <BR/>(1813 - 1870)> ];
+  I0447 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Strong, Elijah Genubeth <BR/>(1818 - 1870)> ];
+  I1368 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Chesebrough, Bridget <BR/>(1737 - 1818)> ];
+  I0771 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Sparrell, James Newton <BR/>(1798 - 1859)> ];
+  I0194 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Strong, Lavinia Elizabeth <BR/>(1875 - 1941)> ];
+  I1223 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Mason, Priscilla <BR/>(1691 - 1719)> ];
+  I1104 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Kimball, Nathaniel <BR/>(1768 - 1822)> ];
+  I0524 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Bennett, John <BR/>(1666 - 1745)> ];
+  I0523 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Bennett, Issac <BR/>(1705 - 1783)> ];
+  I0572 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Kilbourn, Lucy <BR/>( - 1825)> ];
+  I1049 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Edgecomb, George Washington <BR/>(1826 - 1862)> ];
+  I1392 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Allyn, Deborah <BR/>(1698 - 1770)> ];
+  I1237 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Satterlee, Mary <BR/>(1746 - 1809)> ];
+  I0521 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Branch, Genevereth <BR/>(1733 - 1812)> ];
+  I1336 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Lester, Amos <BR/>(1776 - 1842)> ];
+  I1115 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Brewster, Lucy Hall <BR/>(1773 - )> ];
+  I1138 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Hall, Lucy <BR/>(1750 - )> ];
+  I1382 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Miner, Bridget <BR/>(1711 - 1766)> ];
+  I0863 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Fellows, Abigail <BR/>(1701 - 1727)> ];
+  I0801 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Morgan, Mary <BR/>(1670 - 1765)> ];
+  I0671 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Sparrell, Herbert Kirkwood <BR/>(1847 - 1923)> ];
+  I1348 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Avery, Sarah <BR/>(1781 - 1872)> ];
+  I0910 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Andrews, David <BR/>(1736 - 1815)> ];
+  I1370 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Lester, Anna <BR/>(1736 - 1807)> ];
+  I0408 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Chester, Joseph <BR/>(1731 - 1804)> ];
+  I0844 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Bennett, Jacob <BR/>(1798 - 1830)> ];
+  I1347 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Sparrell, Charles Herbert <BR/>(1873 - 1961)> ];
+  I0518 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Bennett, Jacob <BR/>(1761 - )> ];
+  I0404 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Pemberton, Sarah <BR/>(1695 - 1749)> ];
+  I0614 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Stetson, Joseph <BR/>(1639 - 1734)> ];
+  I0606 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Stetson, Mary <BR/>(1717 - 1800)> ];
+  I1375 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Mason, Rebecca <BR/>(1682 - 1742)> ];
+  I0343 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Hurlburt, Charles Henry <BR/>(1849 - 1930)> ];
+  I0401 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Haughton, James <BR/>(1719 - 1804)> ];
+  I0847 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Hall, Stephen <BR/>(1721 - )> ];
+  I1082 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Kimball, Erastus Brewster <BR/>(1798 - 1879)> ];
+  I0409 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Morgan, Mary <BR/>(1731 - )> ];
+  I0573 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Stetson, Jemimah <BR/>(1695 - )> ];
+  I0813 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Morgan, James <BR/>(1667 - 1748)> ];
+  I0563 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Damon, Jemimah <BR/>(1724 - )> ];
+  I1102 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Andrews, Henry <BR/>(1664 - 1735)> ];
+  I0276 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Haughton, Philena <BR/>(1776 - )> ];
+  I0659 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Avery, Edward <BR/>(1676 - 1709)> ];
+  I0727 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Sparrell, James Newton <BR/>(1825 - 1877)> ];
+  I0570 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Damon, Daniel <BR/>(1688 - 1735)> ];
+  I1372 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Chesebrough, Jedidiah <BR/>(1710 - 1760)> ];
+  I1168 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Edgecomb, Jabez M. <BR/>(1791 - 1865)> ];
+  I0365 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Fisher, Albert Amory Fisk <BR/>(1854 - 1915)> ];
+  I0782 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Barrell, Desire <BR/>(1798 - 1872)> ];
+  I0396 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Strong, Albert Randolph <BR/>(1845 - 1920)> ];
+  I0808 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Morgan, James <BR/>(1693 - 1770)> ];
+  I0435 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Bennett, Laura Esther <BR/>(1827 - )> ];
+  I0268 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Whaley, William Patten <BR/>(1786 - )> ];
+  I1166 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Chesebrough, Bridget <BR/>(1791 - 1857)> ];
+  I1359 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Lester, Amos <BR/>(1728 - 1808)> ];
+  I1384 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Chesebrough, Bridget <BR/>(1683 - 1709)> ];
+  I0864 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Fellows, John <BR/>(1668 - 1748)> ];
+  I1222 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Goodrich, Moses <BR/>(1697 - )> ];
+  I1383 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Miner, Joseph <BR/>(1644 - 1712)> ];
+  I0688 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Morgan, Jerusha <BR/>(1682 - 1726)> ];
+  I0376 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Fisher, Marion <BR/>(1904 - 2002)> ];
+  I0332 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Goodrich, Elizabeth <BR/>(1733 - )> ];
+  I0538 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Strong, Genubeth <BR/>(1791 - 1856)> ];
+  I0904 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Sparrell, Herbert Kirkwood <BR/>(1899 - 1978)> ];
+  I0657 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Avery, Theophilus <BR/>(1708 - 1799)> ];
+  I1371 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Slack, Rebecca <BR/>(1739 - )> ];
+  I0586 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Gray, Arvilla <BR/>(1808 - 1888)> ];
+  I1377 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Chesebrough, Abigail <BR/>(1719 - 1769)> ];
+  I0411 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Starr, Mary <BR/>(1696 - 1774)> ];
+  I1071 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Edgecomb, Martha Avery <BR/>(1855 - 1939)> ];
+  I0655 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Avery, James <BR/>(1737 - 1822)> ];
+  I0589 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Stetson, Robert <BR/>(1670 - 1760)> ];
+  I0000 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Sparrell, James Kirkwood <BR/>(1932 - )> ];
+  I0519 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Phillips, Mahala <BR/>(1774 - 1852)> ];
+  I0805 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Farrow, Martha <BR/>(1754 - )> ];
+  I1257 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Morgan, Esther <BR/>(1763 - 1843)> ];
+  I0648 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Andrews, Rhoda <BR/>(1775 - 1841)> ];
+  I0949 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Sparrell, James Newton <BR/>(1770 - 1826)> ];
+  I1060 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Kimball, Sarah Lavinia <BR/>(1830 - 1909)> ];
+  I1303 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Avery, Anne <BR/>(1692 - )> ];
+  I0966 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Lincoln, Thomas <BR/>(1628 - 1720)> ];
+  I0751 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Stetson, Anthony <BR/>(1693 - 1747)> ];
+  I0001 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Sparrell, Ann <BR/>(1933 - )> ];
+  I0354 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Hurlburt, Ida A <BR/>(1874 - 1965)> ];
+  I1425 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Street, Anna <BR/>(1710 - 1790)> ];
+
+  F0605 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="1757" ];
+  F0611 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="1904" ];
+  F0427 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="1795" ];
+  F0040 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="1843" ];
+  F0416 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="1821" ];
+  F0206 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="1822" ];
+  F0260 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="1927\n3 children" ];
+  F0383 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="1848\n2 children" ];
+  F0453 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="1791" ];
+  F0608 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="1811" ];
+  F0576 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="1870" ];
+  F0052 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="1721" ];
+  F0630 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="1786" ];
+  F0455 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="1762" ];
+  F0405 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="1872" ];
+  F0592 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="" ];
+  F0355 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="1815" ];
+  F0574 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="1898" ];
+  F0530 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="1801" ];
+  F0461 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="1709" ];
+  F0454 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="1759" ];
+
+  I0586 -> I0365; // child:  Albert Amory Fisk Fisher
+
+  I0801 -> I0411; // child:  Mary Starr
+
+  I0522 -> I0518; // child:  Jacob Bennett
+
+  subgraph cluster_F0605
+  {
+  style="invis";
+  I0408 -> F0605; // father: Joseph Chester
+  I0409 -> F0605; // mother: Mary Morgan
+  }
+  F0605 -> I0398; // child:  Mary Chester
+
+  subgraph cluster_F0611
+  {
+  style="invis";
+  I0365 -> F0611; // father: Albert Amory Fisk Fisher
+  I0354 -> F0611; // mother: Ida A Hurlburt
+  }
+  F0611 -> I0376; // child:  Marion Fisher
+
+  subgraph cluster_F0427
+  {
+  style="invis";
+  I1104 -> F0427; // father: Nathaniel Kimball
+  I1115 -> F0427; // mother: Lucy Hall Brewster
+  }
+  F0427 -> I1082; // child:  Erastus Brewster Kimball
+
+  I0332 -> I0572; // child:  Lucy Kilbourn
+
+  I1217 -> I1384; // child:  Bridget Chesebrough
+
+  I1414 -> I1392; // child:  Deborah Allyn
+
+  I0808 -> I0409; // child:  Mary Morgan
+  I0808 -> I1318; // child:  Joshua Morgan
+
+  subgraph cluster_F0040
+  {
+  style="invis";
+  I0447 -> F0040; // father: Elijah Genubeth Strong
+  I0516 -> F0040; // mother: Elizabeth Shaw Whaley
+  }
+  F0040 -> I0396; // child:  Albert Randolph Strong
+
+  I0671 -> I1347; // child:  Charles Herbert Sparrell
+
+  subgraph cluster_F0416
+  {
+  style="invis";
+  I1082 -> F0416; // father: Erastus Brewster Kimball
+  I1093 -> F0416; // mother: Lydia Ann Lester
+  }
+  F0416 -> I1060; // child:  Sarah Lavinia Kimball
+
+  subgraph cluster_F0206
+  {
+  style="invis";
+  I0771 -> F0206; // father: James Newton Sparrell
+  I0782 -> F0206; // mother: Desire Barrell
+  }
+  F0206 -> I0727; // child:  James Newton Sparrell
+
+  I0521 -> I0519; // child:  Mahala Phillips
+
+  I0688 -> I1425; // child:  Anna Street
+
+  subgraph cluster_F0260
+  {
+  style="invis";
+  I0904 -> F0260; // father: Herbert Kirkwood Sparrell
+  I0376 -> F0260; // mother: Marion Fisher
+  }
+  F0260 -> I0193; // child:  Charles Fisher Sparrell
+  F0260 -> I0000; // child:  James Kirkwood Sparrell
+  F0260 -> I0001; // child:  Ann Sparrell
+
+  subgraph cluster_F0383
+  {
+  style="invis";
+  I1049 -> F0383; // father: George Washington Edgecomb
+  I1060 -> F0383; // mother: Sarah Lavinia Kimball
+  }
+  F0383 -> I0407; // child:  Alice Virginia Edgecomb
+  F0383 -> I1071; // child:  Martha Avery Edgecomb
+
+  I0538 -> I0447; // child:  Elijah Genubeth Strong
+
+  I1303 -> I1270; // child:  William Satterlee
+
+  I1222 -> I0332; // child:  Elizabeth Goodrich
+
+
+  subgraph cluster_F0453
+  {
+  style="invis";
+  I1365 -> F0453; // father: Edward Chesebrough
+  I1366 -> F0453; // mother: Anna Baldwin
+  }
+  F0453 -> I1166; // child:  Bridget Chesebrough
+
+  I1392 -> I1359; // child:  Amos Lester
+
+  I0524 -> I0523; // child:  Issac Bennett
+
+  subgraph cluster_F0608
+  {
+  style="invis";
+  I0268 -> F0608; // father: William Patten Whaley
+  I0276 -> F0608; // mother: Philena Haughton
+  }
+  F0608 -> I0516; // child:  Elizabeth Shaw Whaley
+
+  I0648 -> I0586; // child:  Arvilla Gray
+
+  I0968 -> I0966; // child:  Thomas Lincoln
+
+  I0589 -> I0751; // child:  Anthony Stetson
+  I0589 -> I0573; // child:  Jemimah Stetson
+
+  I1237 -> I1104; // child:  Nathaniel Kimball
+
+  I0805 -> I0782; // child:  Desire Barrell
+
+  I1100 -> I0910; // child:  David Andrews
+
+  I1270 -> I1237; // child:  Mary Satterlee
+
+  I0435 -> I0343; // child:  Charles Henry Hurlburt
+
+  I0922 -> I0919; // child:  Peter Branch
+
+  I1425 -> I1370; // child:  Anna Lester
+
+  subgraph cluster_F0576
+  {
+  style="invis";
+  I0396 -> F0576; // father: Albert Randolph Strong
+  I0407 -> F0576; // mother: Alice Virginia Edgecomb
+  }
+  F0576 -> I0194; // child:  Lavinia Elizabeth Strong
+
+  I0949 -> I0771; // child:  James Newton Sparrell
+
+  subgraph cluster_F0052
+  {
+  style="invis";
+  I0570 -> F0052; // father: Daniel Damon
+  I0573 -> F0052; // mother: Jemimah Stetson
+  }
+  F0052 -> I0563; // child:  Jemimah Damon
+
+  I0617 -> I0614; // child:  Joseph Stetson
+
+  I0910 -> I0648; // child:  Rhoda Andrews
+
+  I1221 -> I1222; // child:  Moses Goodrich
+
+  I0847 -> I1138; // child:  Lucy Hall
+
+  I0664 -> I0662; // child:  James Avery
+  I0664 -> I1440; // child:  Mary Avery
+  I0664 -> I0837; // child:  John Avery
+
+  I0844 -> I0435; // child:  Laura Esther Bennett
+
+  I0966 -> I0922; // child:  Hannah Lincoln
+
+  I0662 -> I1414; // child:  Deborah Avery
+  I0662 -> I0659; // child:  Edward Avery
+
+  I1132 -> I0968; // child:  Thomas Lincoln
+
+  I1233 -> I1221; // child:  Abigail Crafts
+
+  I1377 -> I1371; // child:  Rebecca Slack
+
+  subgraph cluster_F0630
+  {
+  style="invis";
+  I0518 -> F0630; // father: Jacob Bennett
+  I0519 -> F0630; // mother: Mahala Phillips
+  }
+  F0630 -> I0844; // child:  Jacob Bennett
+
+  I0398 -> I0268; // child:  William Patten Whaley
+
+  I1257 -> I1168; // child:  Jabez M. Edgecomb
+
+  I0606 -> I0604; // child:  Ruth Vinal
+
+  I1318 -> I1257; // child:  Esther Morgan
+
+  I1443 -> I1217; // child:  Hannah Dennison
+
+  I0563 -> I0805; // child:  Martha Farrow
+
+  I1440 -> I0404; // child:  Sarah Pemberton
+
+  I0657 -> I0655; // child:  James Avery
+
+  subgraph cluster_F0455
+  {
+  style="invis";
+  I1369 -> F0455; // father: Jedidiah Chesebrough
+  I1371 -> F0455; // mother: Rebecca Slack
+  }
+  F0455 -> I1365; // child:  Edward Chesebrough
+
+  I1382 -> I1368; // child:  Bridget Chesebrough
+
+  subgraph cluster_F0405
+  {
+  style="invis";
+  I0343 -> F0405; // father: Charles Henry Hurlburt
+  I1071 -> F0405; // mother: Martha Avery Edgecomb
+  }
+  F0405 -> I0354; // child:  Ida A Hurlburt
+
+  I0401 -> I0276; // child:  Philena Haughton
+
+  I0572 -> I0538; // child:  Genubeth Strong
+
+  subgraph cluster_F0592
+  {
+  style="invis";
+  I1359 -> F0592; // father: Amos Lester
+  I1370 -> F0592; // mother: Anna Lester
+  }
+  F0592 -> I1336; // child:  Amos Lester
+
+  I0696 -> I0813; // child:  James Morgan
+  I0696 -> I0801; // child:  Mary Morgan
+  I0696 -> I0688; // child:  Jerusha Morgan
+
+  I1223 -> I1367; // child:  Sylvester Baldwin
+
+  I0614 -> I0589; // child:  Robert Stetson
+
+  I0411 -> I0408; // child:  Joseph Chester
+
+  I0587 -> I0570; // child:  Daniel Damon
+
+  I0868 -> I0864; // child:  John Fellows
+
+  subgraph cluster_F0355
+  {
+  style="invis";
+  I1168 -> F0355; // father: Jabez M. Edgecomb
+  I1166 -> F0355; // mother: Bridget Chesebrough
+  }
+  F0355 -> I1049; // child:  George Washington Edgecomb
+
+  I0655 -> I1348; // child:  Sarah Avery
+
+  I0813 -> I0808; // child:  James Morgan
+
+  I0919 -> I0521; // child:  Genevereth Branch
+
+
+  I1105 -> I1102; // child:  Henry Andrews
+
+  I0523 -> I0522; // child:  Jacob Bennett
+
+  I1263 -> I1375; // child:  Rebecca Mason
+  I1263 -> I1223; // child:  Priscilla Mason
+
+  subgraph cluster_F0574
+  {
+  style="invis";
+  I1347 -> F0574; // father: Charles Herbert Sparrell
+  I0194 -> F0574; // mother: Lavinia Elizabeth Strong
+  }
+  F0574 -> I0904; // child:  Herbert Kirkwood Sparrell
+
+  I0751 -> I0606; // child:  Mary Stetson
+
+  I1102 -> I1100; // child:  Ebenezer Andrews
+
+  subgraph cluster_F0530
+  {
+  style="invis";
+  I1336 -> F0530; // father: Amos Lester
+  I1348 -> F0530; // mother: Sarah Avery
+  }
+  F0530 -> I1093; // child:  Lydia Ann Lester
+
+  I1138 -> I1115; // child:  Lucy Hall Brewster
+
+  I0604 -> I0949; // child:  James Newton Sparrell
+
+  subgraph cluster_F0461
+  {
+  style="invis";
+  I1383 -> F0461; // father: Joseph Miner
+  I1384 -> F0461; // mother: Bridget Chesebrough
+  }
+  F0461 -> I1382; // child:  Bridget Miner
+
+  I0837 -> I1303; // child:  Anne Avery
+
+  I0526 -> I0524; // child:  John Bennett
+
+  I0863 -> I0847; // child:  Stephen Hall
+
+  I0727 -> I0671; // child:  Herbert Kirkwood Sparrell
+
+  I1389 -> I1383; // child:  Joseph Miner
+
+  I1372 -> I1369; // child:  Jedidiah Chesebrough
+
+  subgraph cluster_F0454
+  {
+  style="invis";
+  I1367 -> F0454; // father: Sylvester Baldwin
+  I1368 -> F0454; // mother: Bridget Chesebrough
+  }
+  F0454 -> I1366; // child:  Anna Baldwin
+
+  I0404 -> I0401; // child:  James Haughton
+
+  I1375 -> I1372; // child:  Jedidiah Chesebrough
+  I1375 -> I1377; // child:  Abigail Chesebrough
+
+  I0659 -> I0657; // child:  Theophilus Avery
+
+  I0864 -> I0863; // child:  Abigail Fellows
+}
+
