@@ -17,7 +17,8 @@ digraph GRAMPS_graph
 #  ranksep="0.20";
   ratio="fill";
   searchsize="100";
-  size="18.99,29.99"; 
+  size="18.99,19.99"; 
+#  size="18.99,29.99"; 
   splines="true";
 
 #  edge [len=0.5 style=solid fontsize=14];
@@ -26,7 +27,6 @@ digraph GRAMPS_graph
 
 
   { rank = same; I0748; I0794; I0397; I0651; I1369; I1359; I1258; I0459; I0249; I0648;}
-#  { rank = same; I0904; I0396; I0407; I1071; I0586;}
 
   I0459 [ shape="circle" fillcolor="#e0e0ff" style="solid,filled" label=<Hurlburt, Adam <BR/>(1736 - 1828)> ];
   I0397 [ shape="circle" fillcolor="#e0e0ff" style="solid,filled" label=<Whaley, Jonathan <BR/>(1759 - 1805)> ];
@@ -208,4 +208,7 @@ digraph GRAMPS_graph
 
   I1258 -> I1168; // father: Jabez Edgecomb child:  Jabez M. Edgecomb
 }
+
+  { rank = same; I0904; I0396; I0407; I1071; I0586;}
+
 
