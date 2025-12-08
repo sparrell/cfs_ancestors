@@ -1,1 +1,1 @@
-=== For more information see xref:Vol_02_Ships/01_vol2_intro_ships.adocs[Introduction]
+Refer to xref:01_vol2_intro_shops.adoc[your link] for more information.
