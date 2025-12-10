@@ -1,0 +1,2 @@
+= Founders of Scituate
+redo graphviz with only C/J/A

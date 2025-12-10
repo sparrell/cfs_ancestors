@@ -1,0 +1,30 @@
+# Sports Figures
+
+Below are some of our cousins who are famous sports figures. 
+Note they are listed by closest relationship order.
+Clicking on relationship will bring you to relationship graph.
+Clicking on name will bring you to wikipedia page for that person.
+
+
+* Larry Bird (basketball)
+** 9th Cousin once removed
+* Michael Phelps (swimmer)
+** 10th cousin twice removed
+* Mickey Mantle (baseball) - 11th cousin - link:MickeyMantle.png[relationship graph]
+* Arnold Palmer - 11th cousin twice removed- link:ArnoldPalmer.png[relationship graph]
+* Archie, Peyton, and Eli Manning (Football)
+** Archie - Fourteenth Cousin once removed
+** Peyton, Eli - 15th Cousin
+* Babe Ruth (baseball)
+** 15th cousin thrice removed
+
+Not related to:
+* Katie Ledecky
+* Caitlin Clark
+* Babe Didrikson
+* Scottie Scheffler
+* Rory McIlroy
+* Tom Brady
+* Carl Yastrzemski
+* Lou Gehrig
+* David Beckham

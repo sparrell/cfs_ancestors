@@ -1,0 +1,80 @@
+digraph GRAMPS_graph {
+	graph [bgcolor=white, center=true, charset=utf8, concentrate=false, dpi=150, fontsize=14, margin="0.250000,0.555556", mclimit=99, nodesep="0.20", outputorder=edgesfirst, page="12.000000,20.000000", pagedir=BL, rankdir=TB, ranksep="0.20", ratio=fill, searchsize=100, size="10.99,17.99", splines=true];
+	node [label="\N", style="solid,filled", shape=box, fillcolor="#e0e0ff", fontsize=14];
+	edge [len="0.5", style=solid, arrowhead=none, arrowtail=normal, fontsize=14];
+	//graph [margin="1.00,1.00", page="20.00,20.00", bb="0 0 1295 1295"];
+
+	{
+	node [label="\N", shape=ellipse, fillcolor=none, color=none, fontcolor=black, style="invis"];
+	edge [style=invis, weight=5];
+	gen1 -> gen2 -> gen3 -> gen4 -> gen5 -> gen6 -> gen7 -> gen8 -> gen9 -> gen10 -> gen11 -> gen12 -> gen13 ;
+	}
+
+	{
+	edge [style=invis];
+	title00 -> a2;
+	}
+
+	{
+	edge [arrowhead=normal, arrowtail=none, color=red ];
+	a2 -> a3 -> a4 -> a5 -> a6 -> a7 -> a8 -> a9 -> a10 -> a11 -> a12;
+	}
+
+    {
+	edge [arrowhead=normal, arrowtail=none, color=purple ];
+	a2 -> c3 -> c4 -> c5 -> c6 -> c7 -> c8 -> c9 -> c10 -> c11 -> c12 -> c13;
+	}
+
+
+	title00 [shape="plaintext" fillcolor="#ffffff"  label="Zac Efron" fontsize=40];
+
+	{ rank = same; gen6; a5; c5;   }
+	{ rank = same; gen8; a7: c7;   }
+	{ rank = same; gen9; a8: c8;  }
+	{ rank = same; gen10; a9: c9;   }
+	{ rank = same; gen12; a11; c11; }
+
+  a2 [label="Rogers, John Jr\n(1640 - 1732)", style="solid,filled", shape=box, fillcolor="#e0e0ff"];
+  a3 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Rogers, Hannah\n(1668 - 1754)" ];
+  a4 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Bradford, Elizabeth\n(1696 - 1777)" ];
+  a5 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Whiting, John\n(1719 - 1770)" ];
+  a6 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Whiting, Philena\n(before 1743 - 1781)" ];
+  a7 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Haughton, Philena\n(1776 - ?)" ];
+  a8 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Whaley, Elizabeth Shaw\n(1813 - >1870)" ];
+  a9 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Strong, Albert Randolph\n(1845 - 1920)" ];
+  a10 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Strong, Lavinia Elizabeth\n(1875 - 1941)" ];
+  a11 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Sparrell, Herbert Kirkwood\n(1899 - 1978)" ];
+
+  a12 [style="solid,filled", shape=record, fillcolor=white, label=<
+		<TABLE>
+		  <TR>
+		      <TD COLSPAN="3"><IMG SRC="Images/CharlesJimAnnZoo.jpg" /></TD>
+		  </TR>
+		  <TR>
+		      <TD BGCOLOR="#e0e0ff">Jim</TD>
+		      <TD BGCOLOR="#e0e0ff">Charles</TD>
+		      <TD BGCOLOR="#ffe0e0">Ann</TD>
+		  </TR>
+		</TABLE>>
+	     ];
+
+  c3 [ label="John Rogers" ]
+  c4 [ fillcolor="#ffe0e0" style="rounded,filled" label="Elizabeth Rogers" ];
+  c5 [ label="Perez Richmond" ]
+  c6 [ label="Edward Richmond" ]
+  c7 [ label="Billings Richmond" ]
+  c8 [ label="Billings Richmond" ]
+  c9 [ fillcolor="#ffe0e0" style="rounded,filled" label="Luzell Richman" ];
+  c10 [ label="Joseph Henry Glidden" ]
+  c11 [ fillcolor="#ffe0e0" style="rounded,filled" label="June Helene Glidden" ];
+  c12 [ fillcolor="#ffe0e0" style="rounded,filled" label="Starla June Baskett" ];
+  c13 [ label=<<TABLE border="0" cellborder="0">
+		<TR><TD><IMG SRC="Images/ZacEfron.jpeg" /></TD></TR>
+		<TR><TD>Zac Efron</TD></TR>
+		<TR><TD>Actor</TD></TR>
+		<TR><TD>9th Cousin</TD></TR>
+		<TR><TD>once removed</TD></TR>
+		</TABLE>> ]; 
+
+
+}

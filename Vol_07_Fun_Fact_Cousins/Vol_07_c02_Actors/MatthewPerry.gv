@@ -1,0 +1,105 @@
+digraph GRAMPS_graph {
+	graph [bgcolor=white, center=true, charset=utf8, concentrate=false, dpi=75, fontsize=14, margin="0.250000,0.555556", mclimit=99, nodesep="0.20", outputorder=edgesfirst, page="20.000000,20.000000", pagedir=BL, rankdir=TB, ranksep="0.20", ratio=fill, searchsize=100, size="17.99,17.99", splines=true];
+	node [label="\N", style=filled, fontsize=14];
+	edge [len="0.5", style=solid, arrowhead=none, arrowtail=normal, fontsize=14];
+	graph [margin="1.00,1.00",
+		page="20.00,20.00",
+		bb="0 0 1295 1295"];
+
+  t0 [shape="plaintext" fillcolor="#ffffff"  label="Matthew Perry" fontsize=40];
+
+  t0 -> top -> c0 -> c1 -> c2 -> c3 -> c4 -> c5 -> c6 -> c7 -> c8 ->c9 -> c10 -> c11 [arrowhead=normal, arrowtail=none, color=none];
+  t0 -> top -> c0 -> c1 -> c2 -> c3 -> c4 -> c5 -> c6 -> c7 -> c8 ->c9 -> c10 -> c11 [arrowhead=normal, arrowtail=none, color=none];
+  t0 -> top -> c0 -> c1 -> c2 -> c3 -> c4 -> c5 -> c6 -> c7 -> c8 ->c9 -> c10 -> c11 [arrowhead=normal, arrowtail=none, color=none];
+
+  top -> g0a -> g1a -> g2a -> g3a -> g4a -> g5a -> g6a -> g7a -> g8a ->g9a -> g10a [arrowhead=normal, arrowtail=none, color=red];
+  top -> g0b -> g1b -> g2b -> g3b -> g4b -> g5b -> g6b -> g7b -> g8b ->g9b -> g10b -> g11b [arrowhead=normal, arrowtail=none, color=blue];
+
+  { rank = same; g0a; c0; g0b }
+  { rank = same; g1a; c1; g1b }
+  { rank = same; g2a; c2; g2b }
+  { rank = same; g3a; c3; g3b }
+  { rank = same; g4a; c4; g4b }
+  { rank = same; g5a; c5; g5b }
+  { rank = same; g6a; c6; g6b }
+  { rank = same; g7a; c7; g7b }
+  { rank = same; g8a; c8; g8b }
+  { rank = same; g9a; c9; g9b }
+  { rank = same; g10a; c10; g10b}
+  { rank = same; c11; g11b}
+
+  g0a -> c0 -> g0b [style=dotted, arrowhead=none, arrowtail=none, color=darkgreen];
+  g1a -> c1 -> g1b [style=dotted, arrowhead=none, arrowtail=none, color=darkgreen];
+  g2a -> c2 -> g2b [style=dotted, arrowhead=none, arrowtail=none, color=darkgreen];
+  g3a -> c3 -> g3b [style=dotted, arrowhead=none, arrowtail=none, color=darkgreen];
+  g4a -> c4 -> g4b [style=dotted, arrowhead=none, arrowtail=none, color=darkgreen];
+  g5a -> c5 -> g5b [style=dotted, arrowhead=none, arrowtail=none, color=darkgreen];
+  g6a -> c6 -> g6b [style=dotted, arrowhead=none, arrowtail=none, color=darkgreen];
+  g7a -> c7 -> g7b [style=dotted, arrowhead=none, arrowtail=none, color=darkgreen];
+  g8a -> c8 -> g8b [style=dotted, arrowhead=none, arrowtail=none, color=darkgreen];
+  g9a -> c9 -> g9b [style=dotted, arrowhead=none, arrowtail=none, color=darkgreen];
+  g10a -> c10 -> g10b [style=dotted, arrowhead=none, arrowtail=none, color=darkgreen];
+  g10a -> c11 -> g11b [style=dotted, arrowhead=none, arrowtail=none, color=darkgreen];
+
+
+
+  top [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Beal, John" ];
+  g0a  [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Beal, Mary" ];
+  g1a [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Whiton, Thomas" ];
+  g2a [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Whiton, Leah" ];
+  g3a [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Farrow, Thomas" ];
+  g4a [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Farrow, Martha" ];
+  g5a [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Barrell, Desire" ];
+  g6a [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Sparrell, James Newton" ];
+  g7a [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Sparrell, Herbert Kirkwood" ];
+  g8a [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Sparrell, Charles Herbert" ];
+  g9a [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Sparrell, Herbert Kirkwood" ];
+
+
+  g10a [group=g1, style="solid,filled", shape=none, fillcolor=white, label=<
+		<TABLE>
+		  <TR>
+		      <TD COLSPAN="3"><IMG SRC="Images/CharlesAnnJimHats.jpg" /></TD>
+		  </TR>
+		  <TR>
+		      <TD BGCOLOR="#ffe0e0">Ann</TD>
+		      <TD BGCOLOR="#e0e0ff">Jim</TD>
+		      <TD BGCOLOR="#e0e0ff">Charles</TD>
+		  </TR>
+		</TABLE>>
+	     ];
+
+
+	c0 [label="Siblings", style="dotted", shape=ellipse, fillcolor=none, color=darkgreen, fontcolor=darkgreen ];
+	c1 [label="First Cousins", style="dotted", shape=ellipse, fillcolor=none, color=darkgreen, fontcolor=darkgreen ];
+	c2 [label="Second Cousins", style="dotted", shape=ellipse, fillcolor=none, color=darkgreen, fontcolor=darkgreen ];
+	c3 [label="Third Cousins", style="dotted", shape=ellipse, fillcolor=none, color=darkgreen, fontcolor=darkgreen ];
+	c4 [label="Fourth Cousins", style="dotted", shape=ellipse, fillcolor=none, color=darkgreen, fontcolor=darkgreen ];
+	c5 [label="Fifth Cousins", style="dotted", shape=ellipse, fillcolor=none, color=darkgreen, fontcolor=darkgreen ];
+	c6 [label="Sixth Cousins", style="dotted", shape=ellipse, fillcolor=none, color=darkgreen, fontcolor=darkgreen ];
+	c7 [label="Seventh Cousins", style="dotted", shape=ellipse, fillcolor=none, color=darkgreen, fontcolor=darkgreen ];
+	c8 [label="Eighth Cousins", style="dotted", shape=ellipse, fillcolor=none, color=darkgreen, fontcolor=darkgreen ];
+	c9 [label="9th Cousins", style="dotted", shape=ellipse, fillcolor=none, color=darkgreen, fontcolor=darkgreen ];
+	c10 [label="Tenth Cousins", style="dotted", shape=ellipse, fillcolor=none, color=darkgreen, fontcolor=darkgreen ];
+	c11 [label="Tenth Cousins,\nonce removed", style="dotted", shape=ellipse, fillcolor=none, color=darkgreen, fontcolor=darkgreen ];
+
+	g0b [label="Jeremiah Beal", style="solid,filled", shape=box, fillcolor="#e0e0ff"];
+	g1b [label="Jeremiah Beal, Jr", style="solid,filled", shape=box, fillcolor="#e0e0ff"];
+	g2b [label="Hannah Beal", style="rounded,filled", shape=box, fillcolor="#ffe0e0"];
+	g3b [label="Matthew Pratt", style="solid,filled", shape=box, fillcolor="#e0e0ff"];
+	g4b [label="Matthew Pratt", style="solid,filled", shape=box, fillcolor="#e0e0ff"];
+	g5b [label="John Pratt", style="solid,filled", shape=box, fillcolor="#e0e0ff"];
+	g6b [label="Lester Pratt", style="solid,filled", shape=box, fillcolor="#e0e0ff"];
+	g7b [label="Emma Pratt", style="rounded,filled", shape=box, fillcolor="#ffe0e0"];
+	g8b [label="Ralph Bennett", style="solid,filled", shape=box, fillcolor="#e0e0ff"];
+	g9b [label="Maria Bennett", style="rounded,filled", shape=box, fillcolor="#ffe0e0"];
+	g10b [label="<Private> Perry", style="solid,filled", shape=box, fillcolor="#e0e0ff"];
+	g11b [ label=<<TABLE border="0" cellborder="0">
+		<TR><TD><IMG SRC="Images/MatthewPerry.jpeg" /></TD></TR>
+		<TR><TD>Matthew Perry</TD></TR>
+		<TR><TD>10th Cousin</TD></TR>
+		<TR><TD>Once Removed</TD></TR>
+		</TABLE>> ]; 	
+
+
+}

@@ -1,0 +1,132 @@
+digraph GRAMPS_graph {
+	graph [bgcolor=white, center=true, charset=utf8, concentrate=false, dpi=75, fontsize=14, margin="0.250000,0.555556", mclimit=99, nodesep="0.20", outputorder=edgesfirst, page="12.000000,20.000000", pagedir=BL, rankdir=TB, ranksep="0.20", ratio=fill, searchsize=100, size="10.99,17.99", splines=true];
+	node [label="\N", style=filled, fontsize=14];
+	edge [len="0.5", style=solid, arrowhead=none, arrowtail=normal, fontsize=14];
+	//graph [margin="1.00,1.00", page="20.00,20.00", bb="0 0 1295 1295"];
+
+	{
+	node [label="\N", shape=ellipse, fillcolor=none, color=none, fontcolor=none, style="dotted"];
+	edge [style=invis];
+	gen1 -> gen2 -> gen3 -> gen4 -> gen5 -> gen6 -> gen7 -> gen8 -> gen9 -> gen10 -> gen11 -> gen12 
+	}
+
+	t0 [shape="plaintext" fillcolor="#ffffff"  label="Famous Brewster Descendants" fontsize=40];
+
+	{ rank = same; gen1; g0; }
+
+  g0 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="William Brewster" ];
+  g1a [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Jonathan Brewster" ];
+  g2a [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Mary Brewster" ];
+  g3a [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Benjamin Turner" ];
+  g4a [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="John Turner" ];
+  g5a [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Rachel Turner" ];
+  g6a [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="James Newton Sparrell" ];
+  g7a [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="James Newton Sparrell" ];
+  g8a [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Herbert Kirkwood Sparrell" ];
+  g9a [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Charles Herbert Sparrell" ];
+  g10a [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Herbert Kirkwood Sparrell" ];
+
+	g11a [style="solid,filled", shape=record, fillcolor=white, label=<
+		<TABLE>
+		<TR><TD COLSPAN="3"><IMG SRC="Images/CharlesJimAnnZoo.jpg" /></TD></TR>
+		  <TR>
+		      <TD BGCOLOR="#e0e0ff">Jim</TD>
+		      <TD BGCOLOR="#e0e0ff">Charles</TD>
+		      <TD BGCOLOR="#ffe0e0">Ann</TD>
+		  </TR>
+		</TABLE>>
+	     ];
+
+
+	c0 [label="Fear Brewster", style="rounded,filled", shape=box, fillcolor="#ffe0e0"];
+	c1 [label="Isaac Allerton", style="solid,filled", shape=box, fillcolor="#e0e0ff"];
+	c2 [label="Sarah Allerton", style="rounded,filled", shape=box, fillcolor="#ffe0e0"];
+	c3 [label="Elizabeth Lee", style="rounded,filled", shape=box, fillcolor="#ffe0e0" ];
+	c4 [label="Richard Taylor", style="solid,filled", shape=box, fillcolor="#e0e0ff" ];
+
+	//c5 [label="Zachary Taylor\n12th US President", style="solid,filled", shape=box, fillcolor="#e0e0ff" ];
+	c5 [ style="solid,filled", shape=box, fillcolor="#e0e0ff", label=<<TABLE border="0" cellborder="0">
+		<TR><TD><IMG SRC="Images/5-Dollar-Zachary-Taylor.jpg" /></TD></TR>
+		<TR><TD>Zachary Taylor</TD></TR>
+		<TR><TD>12th US President</TD></TR>
+		</TABLE>> ];
+
+
+	c6 [label="Fifth Cousin\n5 Times Removed", style="dotted", shape=ellipse, fillcolor=none, color=green, fontcolor=green ];
+	c10 [label="Tenth Cousins", style="dotted", shape=ellipse, fillcolor=none, color=green, fontcolor=green ];
+
+	g1b [label="Patience Brewster", style="rounded,filled", shape=box, fillcolor="#ffe0e0"];
+	g2b [label="Mercy Prence", style="rounded,filled", shape=box, fillcolor="#ffe0e0"];
+	g3b [label="John Freeman", style="solid,filled", shape=box, fillcolor="#e0e0ff"];
+	g4b [label="Mercy Freeman", style="rounded,filled", shape=box, fillcolor="#ffe0e0"];
+	g5b [label="Chillingworth Foster", style="solid,filled", shape=box, fillcolor="#e0e0ff"];
+	g6b [label="Chillingworth Foster", style="solid,filled", shape=box, fillcolor="#e0e0ff"];
+	g7b [label="Ruby Foster", style="rounded,filled", shape=box, fillcolor="#ffe0e0"];
+	g8b [label="Nathaniel Crosby", style="solid,filled", shape=box, fillcolor="#e0e0ff"];
+	g9b [label="Nathaniel Crosby", style="solid,filled", shape=box, fillcolor="#e0e0ff"];
+	g10b [label="Harry Crosby", style="solid,filled", shape=box, fillcolor="#e0e0ff" ];
+	g11b [ style="solid,filled", shape=box, fillcolor="#e0e0ff", label=<<TABLE border="0" cellborder="0">
+		<TR><TD><IMG SRC="Images/BingCrosby3.jpg" /></TD></TR>
+		<TR><TD>Bing Crosby</TD></TR>
+		</TABLE>> ];
+
+	t0 -> g0 [arrowhead=normal, arrowtail=none, color=none];
+
+	g0 -> g1a [arrowhead=normal, arrowtail=none, color=red];
+	g0 -> c0 [arrowhead=normal, arrowtail=none, color=purple];
+	g0 -> g1b [arrowhead=normal, arrowtail=none, color=blue];
+	{ rank = same; g1a; c0; g1b }
+
+	g1a -> g2a [arrowhead=normal, arrowtail=none, color=red];
+	c0 -> c1 [arrowhead=normal, arrowtail=none, color=purple];
+	g1b -> g2b [arrowhead=normal, arrowtail=none, color=blue];
+	{ rank = same; g2a; c1; g2b }
+
+	g2a -> g3a [arrowhead=normal, arrowtail=none, color=red];
+	g2b -> g3b [arrowhead=normal, arrowtail=none, color=blue];
+	c1 -> c2 [arrowhead=normal, arrowtail=none, color=purple];
+	{ rank = same; g3a; c2; g3b }
+
+	g3a -> g4a [arrowhead=normal, arrowtail=none, color=red];
+	g3b -> g4b [arrowhead=normal, arrowtail=none, color=blue];
+	c2 -> c3 [arrowhead=normal, arrowtail=none, color=purple];
+	{ rank = same; g4a; c3; g4b }
+
+	g4a -> g5a [arrowhead=normal, arrowtail=none, color=red];
+	g4b -> g5b [arrowhead=normal, arrowtail=none, color=blue];
+	c3 -> c4 [arrowhead=normal, arrowtail=none, color=purple];
+	{ rank = same; g5a; c4; g5b }
+
+	g5a -> g6a [arrowhead=normal, arrowtail=none, color=red];
+	g5b -> g6b [arrowhead=normal, arrowtail=none, color=blue];
+	c4 -> c5 [arrowhead=normal, arrowtail=none, color=purple];
+	{ rank = same; g6a; c5; g6b }
+
+	g6a -> g7a [arrowhead=normal, arrowtail=none, color=red];
+	g6b -> g7b [arrowhead=normal, arrowtail=none, color=blue];
+	c5 -> c6 [style=dotted, arrowhead=none, arrowtail=none, color=green];
+	{ rank = same; g7a; g7b }
+	c6 -> g11a [style=dotted, arrowhead=none, arrowtail=none, color=green];
+
+	g7a -> g8a [arrowhead=normal, arrowtail=none, color=red];
+	g7b -> g8b [arrowhead=normal, arrowtail=none, color=blue];
+	{ rank = same; g8a; g8b }
+
+	g8a -> g9a [weight=3, arrowhead=normal, arrowtail=none, color=red];
+	g8b -> g9b [arrowhead=normal, arrowtail=none, color=blue];
+	{ rank = same; g9a;  g9b }
+
+	g9a -> g10a [weight=3, arrowhead=normal, arrowtail=none, color=red];
+	g9b -> g10b [arrowhead=normal, arrowtail=none, color=blue];
+	{ rank = same; g10a; g10b }
+
+	g10a -> g11a [weight=3, arrowhead=normal, arrowtail=none, color=red];
+	g10b -> g11b [arrowhead=normal, arrowtail=none, color=blue];
+	{ rank = same; c10; g11a; g11b; }
+	g11a -> c10 [style=dotted, arrowhead=none, arrowtail=none, color=green];
+	c10 -> g11b [style=dotted, arrowhead=none, arrowtail=none, color=green];
+	g10a -> c10 [style=dotted, arrowhead=none, arrowtail=none, color=none];
+
+
+
+}

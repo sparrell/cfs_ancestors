@@ -1,13 +1,24 @@
 = ancestors
 refernce pic
 
+.image:04_hybrid_graph.svg[Hybrid Chart]
+
 1699 ancestors
 
-1303 unique ancestors
+1303 unique ancestors.
+See Vol 2 chpt 5.
 
-z immigrants
+or is it 9hundredish ancestors?
 
-s of z - the ship is known
-z minus s = the ship is unknown
+410 ancestors born in US
 
-b brickwalls
+379 immigrants
+
+59 ancestors where the ship is known.
+See Vol 2 chpt 2.
+
+320 immigrant ancestors where the ship is not known.
+See Vol 2 chpt 3.
+
+124 brickwalls ie born in US but parent(s) unknown 
+so line terminates before reaching the immigrant who came by ship.

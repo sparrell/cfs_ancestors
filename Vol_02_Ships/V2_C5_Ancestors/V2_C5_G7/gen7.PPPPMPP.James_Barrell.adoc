@@ -1,0 +1,59 @@
+= James Barrell (1727 - 1827)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: M
+* Birth: 29 DEC 1727
+* Birthplace: Scituate, Plymouth, Massachusetts, USA
+* Christening:  Scituate 2nd Parish
+----
+2 DATE 5 MAY 1728
+2 AGE 0
+----
+
+* Death: 17 APR 1827
+* Deathplace: Scituate, Plymouth, Massachusetts, USA
+* Age at Death: 99
+
+
+== Family
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPPMPPM.Abigail_Bowker.adoc[Abigail Bowker (1700 - ?)]
+
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPPMPPP.William_Barrell.adoc[William Barrell (1683 - 1752)]
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PPPPMP.James_Barrell.adoc[James Barrell (1751 - 1801)]
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPPMPP.James_Barrell.adoc[Book Link]
+* https://cfsjksas.gigalixirapp.com/person?p=p0398[Dev website]
+* Geni TBD
+* MyHeritage TBD
+* https://www.werelate.org/wiki/Person:James_Barrell_%281%29[WeRelate]
+* WikiTree TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.P.Herbert_Kirkwood_Sparrell.adoc[Herbert Kirkwood Sparrell (1899 - 1978)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.PP.Charles_Herbert_Sparrell.adoc[Charles Herbert Sparrell (1873 - 1961)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.PPP.Herbert_Kirkwood_Sparrell.adoc[Herbert Kirkwood Sparrell (1847 - 1923)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PPPP.James_Newton_Sparrell.adoc[James Newton Sparrell (1825 - 1877)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.PPPPM.Desire_Sparrell.adoc[Desire Sparrell (1798 - 1872)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PPPPMP.James_Barrell.adoc[James Barrell (1751 - 1801)]
+* gen7.PPPPMPP.James_Barrell_(1727_-_1827)
+
+
+== Other
+event:  Revolution
+----
+2 TYPE Military Service
+----
+
+notes: James Barrell, Scituate, Private, Capt. John Clapp's Company, Col. JohnBailey's Regt. which marched on the alarm of April 19th, 1775 Service of 15 days. <p></p> <p>James Barrell, Scituate, enlisted October 1775 in Continental Army for one year.</p> <p></p> <p>James Barrell, Capt. Wm. Wyman's Company. Col. John Patterson's 26th Regt. Order for bounty coat or its equivalent in money, 16 Dec,1775</p> <p></p> <p>James Barrell, Private, Capt. John Turner's Company, Col. Eleazer Brooks, regiment of Guards, enlisted 6 Nov 1777; rolls made up to 3 Apr 1778, service 4 months, 27 days at Cambridge</p> <p></p> <p>The Obituary Of James Barrell reported that he and his two sons were stationed at West Point, NY in Sept 1780 when the Fort Commander, Benedict Arnold attempted to betray the fort to the British</p> <p></p> <p>Revolutionary War Pension Lists</p>
+
+== Sources

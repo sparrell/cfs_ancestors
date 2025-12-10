@@ -1,0 +1,3 @@
+= Hybrid Graph
+
+image:./04_hybrid_graph.svg[Hybrid grpah]

@@ -1,0 +1,16 @@
+= Done / To Do
+This page will eventually disappear.
+It is here to help the author,
+and to help the reader 
+to know what is done and what is yet to do.
+
+
+## Done
+* 
+
+## To Do
+* text for main page for the 3 principals (CFS, JKS, AS)
+* rough pages for all the interim ancestors
+* rough pages for all the ship ancestors
+* rough pages for all the non-ship ancestors
+* rough pages for all the brickwall ancestors

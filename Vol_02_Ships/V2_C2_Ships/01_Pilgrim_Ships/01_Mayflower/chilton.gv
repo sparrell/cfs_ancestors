@@ -1,0 +1,91 @@
+digraph GRAMPS_graph
+{
+  bgcolor=white;
+  center="true";
+  charset="utf8";
+  concentrate="false";
+  dpi="300";
+  graph [fontsize=28];
+  margin="1.00,1.00";
+  mclimit="99";
+  nodesep="0.20";
+  outputorder="edgesfirst";
+  page="36.00,24.00";
+  pagedir="BL";
+  rankdir="BT";
+  ranksep="0.20";
+  ratio="fill";
+  searchsize="100";
+  size="24.00 22.00";
+  splines="true";
+
+  edge [len=0.5 style=solid arrowhead=none arrowtail=normal fontsize=28];
+  node [style=filled fontsize=28];
+
+
+  I0000 [ shape="plaintext" fillcolor="#ffffff"  label="Chilton Ancestors" fontsize=48];
+  F0727 -> I0000 [style=invis]; // father:  Mayflower
+  F0727 [ shape="ellipse" fillcolor="#ffffe0" style="invis" label="" ];
+  // Top Generation
+  { rank = same; I1265; I1265b;} // Chilton, Alden, Brewster, Bradford, Rogers
+  I1265 -> F0727 [style=invis]; // Chilton
+  I1265b -> F0727 [style=invis]; // Chilton
+
+
+  I1265 [ shape="circle" fillcolor="#e0e0ff" style="solid,filled" label="James Chilton" peripheries=2 color=purple ];
+
+  I1271 -> I1265 [ color=purple style=bold ];
+  I1271 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Isabella Chilton" ];
+  I1271 -> I1265b [ color=purple style=bold ];
+  I1265b [ shape="circle" fillcolor="#ffe0e0" style="solid,filled" label="Susanna Chilton" peripheries=2 color=purple ];
+
+  I885 -> I1271 [ color=purple style=bold ];
+  I885 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Sarah Chandler" ];
+  I882 -> I885 [ color=purple style=bold ];
+  I882 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Samuel Leonard" ];
+  I880 -> I882 [ color=purple style=bold ];
+  I880 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Samuel Leonard" ];
+  I878 -> I880 [ color=purple style=bold ];
+  I878 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Ebenezer Leonard" ];
+  I840 -> I878 [ color=purple style=bold ];
+  I840 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Esther Leonard" ];
+
+  I1132 -> I840 [ color=purple style=bold ];
+  I1132 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Lucy Hall" ];
+  I1109 -> I1132 [color=purple style=bold]; // mother: Lucy Hall
+  I1109 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Lucy Hall Brewster" ];
+  I1076 -> I1109 [color=purple style=bold]; // child:  Erastus Brewster Kimball to mother: Lucy Hall Brewster
+  I1076 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Erastus Brewster Kimball" ];
+  I1054 -> I1076 [color=purple style=bold]; // father: Erastus Brewster Kimball
+  I1054 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Sarah Lavinia Kimball" ];
+
+  I402 -> I1054 [color=purple style=dashed]; // child:  Alice Virginia Edgecomb
+  I402 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Alice Virginia Edgecomb" ];
+  I191 -> I402 [color=purple style=dashed]; // mother: Alice Virginia Edgecomb
+  I191 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Lavinia Elizabeth Strong" ];
+  I898 -> I191 [color=purple style=bold]; // mother: Lavinia Elizabeth Strong
+  I898 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Herbert Kirkwood Sparrell\nb 1899" ];
+  F259 -> I898 [color=purple style=bold]; // father: Herbert Kirkwood Sparrell
+
+  I1065 -> I1054 [color=purple style=bold]; // child:  Martha Avery Edgecomb
+  I1065 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Martha Avery Edgecomb" ];
+  I349 -> I1065 [color=purple style=bold]; // child:  Ida A Hurlburt to mother: Martha Avery Edgecomb
+  I349 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Ida A Hurlburt" ];
+  I371 -> I349 [color=purple style=bold]; // child:  Marion Fisher to mother: Ida A Hurlburt
+  I371 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Marion Fisher" ];
+  F259 -> I371 [color=purple style=bold]; // mother: Marion Fisher
+
+  Icfs -> F259 [color=purple style=bold]; // child:  Charles Fisher Sparrell
+  F259 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="m" ];
+
+  Icfs [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Charles Fisher Sparrell" ];
+  Ijks [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="James Kirkwood Sparrell" ];
+  I190 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Ann Sparrell" ];
+
+  I190 -> F259 [color=purple style=dashed]; // child:  Charles Fisher Sparrell
+  Ijks -> F259 [color=purple style=dashed]; // child:  Charles Fisher Sparrell
+
+
+
+
+}

@@ -1,18 +1,158 @@
 = Introduction
+
 explain what here
+
+My father, Charles Fisher Sparrell, 
+desired to find all his ancestors back to the ships they came over on.
+This book is the continuation of that work.
+
+The work is organized into nine "volumes":
+* Volume 1 - Intro
+* Volume 2 - Ships
+* Volume 3 - Anecdotes
+* Volume 4 - Military
+* Volume 5 - Town Founders
+* Volume 6 - Ancestrial Societies
+* Volume 7 - Fun Facts
+* Volume 8 - Indices
+* Volume 9 - Software
+
 
 == Vol 1 Intro
 
-== Vol 2 Ships
+=== Chapter 1.1 Overview
+
+This is organized as a nine volume set of pseudo books
+about the ancestors and relatives of
+Charles Fisher Sparrell, James Kirkwood Sparrell, and Ann Sparrell.
+
+This is volume 1 which is an intro to the set. It still needs alot of work.
+
+image::circle_mod.svg[Figure 1, width=50%]
+
+Figure 1 contains all the known ancestors of Charles/James/Ann.
+There are 1,799 total ancestors, including duplicates when lines intermarry.
+Removing duplicates yeilds 915 unique people with 323 surnames.
+
+The chart colors are:
+
+* Blue with yellow lettering are the 61 immigrant ancestors 
+where we know the boat they came on
+* Light blue with black lettering are the 338 known immigrants, 
+but we don't know the boat they came on.
+* Green  with white lettering are the branch points for duplicate lines.
+For example, Alice Edgecomb is in gneration 3 at about 10 o'clock.
+Martha Edgecomb is also in generation 3 at about 4 o'clock.
+Alice and Martha are sisters and share the same parents.
+On the chart Martha's ancestors are shown, an Alice only shows her parents in green
+indicating George Edgecomb/Sarah Kimbal are duplicates at this point.
+The ancestors are not shown beyond the green branch point to avoid confusing duplication
+in subsequent volumes.
+As an aside, this means that besides being brothers and sister,
+Charles/James/Ann are also 3rd cousins :-).
+* white with black lettering are US-born ancestors.
+* red with white lettering are 'brickwalls' - ie they were born in the US but we don't know their parents. The author is continually researching the brickwalls to further complete this work. 
+
+=== Chapter 1.2 DNA
+sub-vol on paternal, maternal, and autosomal DNA
+
+blah blah
+
+explain and add links to pics of
+shared paternal Y-chromosome lines 
+and to the shared maternal MtDNA lines.
+
+
+== Volume 2 Ships
+
+This volume is organized into five chapters:
+
+* 2.1 Principals
+* 2.2 Ships
+* 2.3 Immigrants with unknown ships
+* 2.4 Brick walls
+* 2.5 All Ancestors
+** organized into sections organized by generation (ie circle on the chart).
+
+Volume 2 
+might evolve into an actual book.
+
+Volume 2 is very incomplete and is mostly still in the 'notes' phase.
+
 
 == Vol 3 Anesctral Anectdotes
 
-== Vol 4 Ancestors
+Volumes 3-7 contain information likely to be of interest to 
+the descendants of Charles/James/Ann.
+Volume contains interesting ancectotes about the ancestors.
+All of the information is also on the individual pages of each ancestor in 2.5,
+but Vol 3 extracts some of the more interesting stories for ease of finding/reading.
 
-== Vol 5 Fun Fact Cousins
+== Vol 4 Military
 
-== Vol 6 Index
+Volume 4 contains information about our ancestors who were in the military. 
+It is organized by war/timeframe.
 
-== Vol 7 Software
+== Vol 5 Town Founders
 
-== Vol 8 DB of everything
+Volume 4 contains information about our ancestors who were founding fathers of towns.
+It is organized by town.
+
+== Vol 6 Heriditary Societies
+
+There are many Ancestral/Heridiaty Societies that Charles/James/Ann and 
+their descendants are elibigle to join.
+Vol 6 is organized by society.
+
+== Vol 7 Fun Fact Cousins
+
+Volume 7 isn't about only our ancestors, but also includes famous blood relations.
+For example Charles/James/Ann are cousins to all the US Presidents 
+except for Biden and Trump. 
+An example of a fun fact is John Adams is their third cousin, 8 times removed.
+Which is to say if equivilent to the current 
+When we hold the Sparrell Thanksgiving reunions (ie all their descendants)
+every few years),
+their great grandchildren are third cousins. 
+So the same reunion 8 generations removed (ie 8 generations ago),
+our ancestor would have been at the reunion with John Adams.
+
+This volume is organized by chapters with a theme as follows:
+
+* link:Vol_07_c01_Mayflower[Mayflower] (ie famous people descended from same Mayflower ancestor as we are)
+* Actors
+* Authors
+* Cowboys & Wild West
+* Military
+* Misc
+* Musicians
+* Royalty
+* Witches
+* Signers
+* Sports
+* STEM
+* Tycoons
+* Presidents
+
+* a lot yet to do to remake graphs for C/J/A and put in here
+
+== Vol 8 Indicies 
+
+This hopefully will contain links to ecah person, topic etc and everywherre they appear.
+Haven't even started it yet
+
+== Vol 9 Software
+
+Explain the software behind the sites and behind the graphs.
+
+Haven't even started it yet.
+
+It will have 3 chapters
+
+* Different graph examples
+* Cjsjksas aka dev db
+* Graphing software
+** circle
+** lineages
+* adoc => book(s)
+

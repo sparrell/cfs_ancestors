@@ -1,0 +1,8 @@
+= The Revolution
+
+12 ancestors fought in the Revolution:
+
+image:images/revolution.gv.png[King Hillips War]
+
+* need to list the 12 with links to their pages
+* ...

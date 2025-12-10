@@ -1,0 +1,55 @@
+= Relationships to US Presidents
+
+This section contains how 43 of the US Presidens are our cousins,
+all but Trump and Biden.
+Our closest relative is John Adams (3rd-cousin, 8 times removed).
+Note we have 3rd cousins at our Thanksgiving get togethers.
+
+The next section lists the presidents in relationship order.
+The following section redoes the list in presidential order.
+
+== Order by nearest relation
+
+* John Adams (2nd President) - Third cousin 8 times removed - link:02JohnAdams.png[Relationshp graph]
+* John Quincy Adams (6th President) - 4th cousin, 7x removed - link:06JohnQuincyAdams.png[Relationshp graph]
+* Zachary Taylor (12th President) - 5th cousin, 5x removed - link:12ZachTaylor.png[Relationshp graph]
+* Franklin Pierce (14th President) - 7th cousin, 4x removed - link:13MillardFillmore.png[Relationshp graph]
+* William Henry Harrison (9th President) - 8th cousin, 6x removed - link:09WmHarrison.png[Relationshp graph]
+* James Madison (4th President) - 8th cousin, 9x removed - link:04JamesMadison.png[Relationshp graph]
+* Rutherford Hayes (19th President) - 9th cousin, 3x removed - link:19RutherfordHayes.png[Relationshp graph]
+* James Garfield (20th President) - 9th cousin, 4x removed - link:20JamesGarfield.png[Relationshp graph]
+* Abraham Lincoln (16th President) - 10th cousin, 3x removed - link:16AbeLincoln.png[Relationshp graph]
+* George Washington (1st President) - 10th cousin 6x removed - link:01GeorgeWashington.png[Relationshp graph]
+* Andrew Jackson (7th President) - 10th cousin, 6x removed - link:07AndrewJackson.png[Relationshp graph]
+* James Polk (11th President) - 10th cousin, 6x removed - link:11JamesPolk.png[Relationshp graph]
+* Millard Fillmore (13th President) - 10th cousin, 6x removed - link:13MillardFillmore.png[Relationshp graph]
+* Ulysses Grant (18th President) - 11th cousin, 3x removed - link:18USGrant.png[Relationshp graph]
+* Andrew Johnson (17th President) - 11th cousin, 6x removed - link:17AndrewJohnson.png[Relationshp graph]
+* James Monroe (5th President) - 11th cousin, 8x removed - link:05JamesMonroe.png[Relationshp graph]
+* Thomas Jefferson (3rd President) - 13th cousin 4x removed - link:03ThomasJefferson.png[Relationshp graph]
+* John Tyler (10th President) - 13th cousin, 6x removed - link:10JohnTyler.png[Relationshp graph]
+* James Buchanan (15th President) - 13th cousin, 6x removed - link:15JamesBuchanan.png[Relationshp graph]
+* Martin Van Buren (8th President) - 16th cousin, 5x removed - link:08MartinVanBuren.png[Relationshp graph]
+
+== Presidential order
+
+* George Washington (1st President) - 10th cousin 6 times removed - link:01GeorgeWashington.png[Relationshp graph]
+* John Adams (2nd President) - Third cousin 8 times removed - link:02JohnAdams.png[Relationshp graph]
+* Thomas Jefferson (3rd President) - 13th cousin 4x removed - link:03ThomasJefferson.png[Relationshp graph]
+* James Madison (4th President) - 8th cousin, 9x removed - link:04JamesMadison.png[Relationshp graph]
+* James Monroe (5th President) - 11th cousin, 8x removed - link:05JamesMonroe.png[Relationshp graph]
+* John Quincy Adams (6th President) - 4th cousin, 7x removed - link:06JohnQuincyAdams.png[Relationshp graph]
+* Andrew Jackson (7th President) - 10th cousin, 6x removed - link:07AndrewJackson.png[Relationshp graph]
+* Martin Van Buren (8th President) - 16th cousin, 5x removed - link:08MartinVanBuren.png[Relationshp graph]
+* William Henry Harrison (9th President) - 8th cousin, 6x removed - link:09WmHarrison.png[Relationshp graph]
+* John Tyler (10th President) - 13th cousin, 6x removed - link:10JohnTyler.png[Relationshp graph]
+* James Polk (11th President) - 10th cousin, 6x removed - link:11JamesPolk.png[Relationshp graph]
+* Zachary Taylor (12th President) - 5th cousin, 5x removed - link:12ZachTaylor.png[Relationshp graph]
+* Millard Fillmore (13th President) - 10th cousin, 6x removed - link:13MillardFillmore.png[Relationshp graph]
+* Franklin Pierce (14th President) - 7th cousin, 4x removed - link:14FranklinPierce.png[Relationshp graph]
+* James Buchanan (15th President) - 13th cousin, 6x removed - link:15JamesBuchanan.png[Relationshp graph]
+* Abraham Lincoln (16th President) - 10th cousin, 3x removed - link:16AbeLincoln.png[Relationshp graph]
+* Andrew Johnson (17th President) - 11th cousin, 6x removed - link:17AndrewJohnson.png[Relationshp graph]
+* Ulysses Grant (18th President) - 11th cousin, 3x removed - link:18USGrant.png[Relationshp graph]
+* Rutherford Hayes (19th President) - 9th cousin, 3x removed - link:19RutherfordHayes.png[Relationshp graph]
+* James Garfield (20th President) - 9th cousin, 4x removed - link:20JamesGarfield.png[Relationshp graph]

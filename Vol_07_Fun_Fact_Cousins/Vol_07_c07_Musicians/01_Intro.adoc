@@ -1,0 +1,49 @@
+# Musicians
+
+Below are some of the famous musicians that are our cousins. 
+Note they are listed by closest relationship order.
+Clicking on relationship will bring you to relationship graph.
+Clicking on name will bring you to wikipedia page for that person.
+
+* John Howard Payne (Home Sweet Home)
+** Fifth Cousin 5 times removed - T
+* Kurt Cobain
+** 9th Cousin 2 times removed - Rogers descendant
+* Bing Crosby
+** Tenth Cousin - Brewster descendant
+* Pete Seeger
+** Tenth Cousin 3 times removed - Chilton descendant
+* Burl Ives
+** Tenth Cousin 3 times removed - Chilton descendant
+* Stephen Foster
+** Twelveth Cousin 7 times removed - T
+* Taylor Swift
+** Thirteenth Cousin - T
+* Cher
+** Thirteenth Cousin twice removed -G
+* Janis Joplin
+** Fourteenth Cousin twice removed - T
+* John Lennon - 14th cousin 5X removed - link:JohnLennon.png[relationship graph]
+* Meat Loaf
+** Sixteenth Cousin - G
+* Elvis Presley
+** Seventeenth Cousin twice removed - T
+* Andy, Barry, Maurice, Robin Gibb (BeeGees)
+** Seventeenth Cousin twice removed - G
+* Madonna
+** Eighteenth Cousin twice removed - T
+* Bruce Springsteen
+** Nineteenth Cousin twice removed - G
+
+
+We aren't related to everybody. No relation found for:
+* Cyndi Lauper
+* Ed Sheran
+* Elton John
+* Freddie Mercury
+* Mariah Carey
+* Steven Tyler
+* Sting
+* Ringo Starr
+* Paul McCartney
+

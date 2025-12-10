@@ -1,0 +1,92 @@
+digraph GRAMPS_graph
+{
+  bgcolor=white;
+  center="true"; 
+  charset="utf8";
+  concentrate="false";
+  dpi="72";
+  graph [fontsize=14];
+  margin="1.00,1.00"; 
+  mclimit="99";
+  nodesep="0.10";
+  outputorder="edgesfirst";
+#  page="21.00,32.00";
+  pagedir="BL";
+  rankdir="TB";
+  ranksep="0.10";
+  ratio="fill";
+  searchsize="100";
+  size="18.99,29.99"; 
+  splines="true";
+
+  edge [len=0.5 style=solid fontsize=14];
+  node [style=filled fontsize=24];
+
+# Number of people in database:    885
+# Number of people of interest:    23
+# Number of families in database:  475
+# Number of families of interest:  10
+# Additional people removed:       0
+# Additional families removed:     0
+# Initial list of people of interest:
+# -> I0440, Wait Hurlburt
+# -> I1104, Nathaniel Kimball
+
+  I0193 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Sparrell, Charles Fisher> ];
+  I0376 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Fisher, Marion <BR/>(1904 - 2002)> ];
+  I0904 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Sparrell, Herbert Kirkwood <BR/>(1899 - 1978)> ];
+  I0001 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Sparrell, Ann> ];
+  I0000 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Sparrell, James Kirkwood> ];
+  I0354 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Hurlburt, Ida A <BR/>(1874 - 1965)> ];
+  I0343 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Hurlburt, Charles Henry <BR/>(1849 - 1930)> ];
+  I1060 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Kimball, Sarah Lavinia <BR/>(1830 - 1909)> ];
+  I0194 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Strong, Lavinia Elizabeth <BR/>(1875 - 1941)> ];
+  I1082 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Kimball, Erastus Brewster <BR/>(1798 - 1879)> ];
+  I1071 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Edgecomb, Martha Avery <BR/>(1855 - 1939)> ];
+  I0440 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Hurlburt, Wait <BR/>(1777 - 1852)> ];
+  I0424 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Hurlburt, Charles S. <BR/>(1823 - 1886)> ];
+  I1104 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label=<Kimball, Nathaniel <BR/>(1768 - 1822)> ];
+  I0407 [ shape="box" fillcolor="#ffe0e0" style="solid,filled" label=<Edgecomb, Alice Virginia <BR/>(1850 - 1914)> ];
+
+  F0260 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="1927\n3 children" ];
+  F0405 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="1872" ];
+
+  { rank = same; I0904; I0376; }
+  { rank = same; I1104; I0440; }
+
+  I0194 -> I0904; // child:  Herbert Kirkwood Sparrell
+
+  subgraph cluster_F0260
+  {
+  style="invis";
+  I0904 -> F0260; // father: Herbert Kirkwood Sparrell
+  I0376 -> F0260; // mother: Marion Fisher
+  }
+  F0260 -> I0193; // child:  Charles Fisher Sparrell
+  F0260 -> I0000; // child:  James Kirkwood Sparrell
+  F0260 -> I0001; // child:  Ann Sparrell
+
+  I1060 -> I0407; // child:  Alice Virginia Edgecomb
+  I1060 -> I1071; // child:  Martha Avery Edgecomb
+
+  I0424 -> I0343; // child:  Charles Henry Hurlburt
+
+  I1082 -> I1060; // child:  Sarah Lavinia Kimball
+
+  I0407 -> I0194; // child:  Lavinia Elizabeth Strong
+
+  I0354 -> I0376; // child:  Marion Fisher
+
+  I1104 -> I1082; // child:  Erastus Brewster Kimball
+
+  I0440 -> I0424; // child:  Charles S. Hurlburt
+
+  subgraph cluster_F0405
+  {
+  style="invis";
+  I0343 -> F0405; // father: Charles Henry Hurlburt
+  I1071 -> F0405; // mother: Martha Avery Edgecomb
+  }
+  F0405 -> I0354; // child:  Ida A Hurlburt
+}
+

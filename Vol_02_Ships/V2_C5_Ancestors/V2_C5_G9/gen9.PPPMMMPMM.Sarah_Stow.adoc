@@ -1,0 +1,80 @@
+= Sarah Stow (1673 - 1761)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: F
+* Married Name: Clarke
+* Birth: 11 FEB 1673
+* Birthplace: Concord, Middlesex, Massachusetts Bay Colony, New England
+* Death: 17 MAY 1761
+* Deathplace: Framingham, Middlesex, Massachusetts
+* Age at Death: 88
+
+
+== Family
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPMMMPMMM.Elizabeth_Stone.adoc[Elizabeth Stone (1651 - 1736)]
+
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPMMMPMMP.Rev_Samuel_Stow_Stowe.adoc[Rev. Samuel Stow Stowe (1645 - 1720)]
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPMMMPM.Martha_Clarke.adoc[Martha Clarke (1693 - 1794)]
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPMMMPMM.Sarah_Stow.adoc[Book Link]
+* https://cfsjksas.gigalixirapp.com/person?p=p1278[Dev website]
+* Geni TBD
+* MyHeritage TBD
+* https://www.werelate.org/wiki/Person:Sarah_Stow_%287%29[WeRelate]
+* WikiTree TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.P.Herbert_Kirkwood_Sparrell.adoc[Herbert Kirkwood Sparrell (1899 - 1978)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.PP.Charles_Herbert_Sparrell.adoc[Charles Herbert Sparrell (1873 - 1961)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.PPP.Herbert_Kirkwood_Sparrell.adoc[Herbert Kirkwood Sparrell (1847 - 1923)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PPPM.Emiline_S_Gleason.adoc[Emiline S Gleason (1825 - 1908)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.PPPMM.Sophia_Bixby.adoc[Sophia Bixby (1802 - 1859)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PPPMMM.Betsy_Willard.adoc[Betsy Willard (1771 - ?)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPMMMP.Lieut_Issac_Willard.adoc[Lieut. Issac Willard (1724 - 1805)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPMMMPM.Martha_Clarke.adoc[Martha Clarke (1693 - 1794)]
+* gen9.PPPMMMPMM.Sarah_Stow_(1673_-_1761)
+
+
+== Other
+
+== Sources
+* @S112@
+----
+2 QUAY 4
+2 DATA
+3 TEXT Sarah Clarke (born Stow)&amp;lt;br&amp;gt;Gender: Female&amp;lt;br&amp;gt;Birth: Feb 11 1673 - Concord, Middlesex, Massachusetts Bay Colony, New England&amp;lt;br&amp;gt;Marriage: 1691 - Massachusetts
+4 CONC  Bay Colony, New England&amp;lt;br&amp;gt;Death: May 17 1761 - Framingham, Middlesex, Massachusetts&amp;lt;br&amp;gt;Father: Rev. Samuel Stow Stowe&amp;lt;br&amp;gt;Mother: Elizabeth Stow (born Stone)
+4 CONC &amp;lt;br&amp;gt;Husband: Isaac Clark (born Clarke)&amp;lt;br&amp;gt;Children: Rebecca Stone (born Clark)Sarah Drury (born Clarke)Jonathan ClarkMartha Willard (born Clarke)Matthias Clark&amp;lt;br&am
+4 CONC p;gt;Siblings: Thomas StowRev. John StowSamuel StowThankful Stevens (born Stowe Stow)Rachel Rice (born Stow)Mary Morse (born Stow)
+----
+
+* @S112@
+----
+2 QUAY 4
+2 DATA
+3 TEXT Sarah Clarke (born Stow)&amp;lt;br&amp;gt;Gender: Female&amp;lt;br&amp;gt;Birth: Feb 11 1673 - Concord, Middlesex, Massachusetts Bay Colony, New England&amp;lt;br&amp;gt;Marriage: 1691 - Massachusetts
+4 CONC  Bay Colony, New England&amp;lt;br&amp;gt;Death: May 17 1761 - Framingham, Middlesex, Massachusetts&amp;lt;br&amp;gt;Father: Rev. Samuel Stow Stowe&amp;lt;br&amp;gt;Mother: Elizabeth Stow (born Stone)
+4 CONC &amp;lt;br&amp;gt;Husband: Isaac Clark (born Clarke)&amp;lt;br&amp;gt;Children: Rebecca Stone (born Clark)Sarah Drury (born Clarke)Jonathan ClarkMartha Willard (born Clarke)Matthias Clark&amp;lt;br&am
+4 CONC p;gt;Siblings: Thomas StowRev. John StowSamuel StowThankful Stevens (born Stowe Stow)Rachel Rice (born Stow)Mary Morse (born Stow)
+----
+
+* @S112@
+----
+2 QUAY 4
+2 DATA
+3 TEXT Sarah Clarke (born Stow)&amp;lt;br&amp;gt;Gender: Female&amp;lt;br&amp;gt;Birth: Feb 11 1673 - Concord, Middlesex, Massachusetts Bay Colony, New England&amp;lt;br&amp;gt;Marriage: 1691 - Massachusetts
+4 CONC  Bay Colony, New England&amp;lt;br&amp;gt;Death: May 17 1761 - Framingham, Middlesex, Massachusetts&amp;lt;br&amp;gt;Father: Rev. Samuel Stow Stowe&amp;lt;br&amp;gt;Mother: Elizabeth Stow (born Stone)
+4 CONC &amp;lt;br&amp;gt;Husband: Isaac Clark (born Clarke)&amp;lt;br&amp;gt;Children: Rebecca Stone (born Clark)Sarah Drury (born Clarke)Jonathan ClarkMartha Willard (born Clarke)Matthias Clark&amp;lt;br&am
+4 CONC p;gt;Siblings: Thomas StowRev. John StowSamuel StowThankful Stevens (born Stowe Stow)Rachel Rice (born Stow)Mary Morse (born Stow)
+----
+

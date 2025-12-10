@@ -2,3 +2,6 @@
 explain basic graph ie ancestors in general
 
 issues like duplication, brickwalls, ships, immigrants wo ships
+
+
+image:./03_basic_graph.svg[Base grpah]

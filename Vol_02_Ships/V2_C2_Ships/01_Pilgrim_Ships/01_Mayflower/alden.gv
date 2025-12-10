@@ -1,0 +1,234 @@
+digraph GRAMPS_graph
+{
+  bgcolor=white;
+  center="true";
+  charset="utf8";
+  concentrate="false";
+  dpi="300";
+  graph [fontsize=28];
+  margin="1.00,1.00";
+  mclimit="99";
+  nodesep="0.20";
+  outputorder="edgesfirst";
+  page="36.00,24.00";
+  pagedir="BL";
+  rankdir="BT";
+  ranksep="0.20";
+  ratio="fill";
+  searchsize="100";
+  size="34.00 22.00";
+  splines="true";
+
+  edge [len=0.5 style=solid arrowhead=none arrowtail=normal fontsize=28];
+  node [style=filled fontsize=28];
+
+  // Top Generation
+  { rank = same; I1404; I1404x; I1410; ITR1;} // Chilton, Alden, Brewster, Bradford, Rogers
+
+  // Next to Top Generation
+  { rank = same; I1421; I1415;} // Sarah Chandler, William Bradford Jr, Elizabeth Alden, Love Brewster, Jonathon Brewster, Isabella Chilton
+
+  // Generation 11
+
+  // Generation 9
+
+  // Generation 7
+
+  // Generation 6
+  // Generation 5
+
+
+  I0000 [ shape="plaintext" fillcolor="#ffffff"  label="Bradford Ancestors" fontsize=48];
+  ITR1 [ shape="circle" fillcolor="#e0e0ff" style="solid,filled" label="Thomas Rogers" peripheries=2 color=cyan];
+  IJR1 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="John Rogers" ];
+  IJR2 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="John Rogers, Jr" ];
+  I1409 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Samuel Bradford" ];
+  I397 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Philena Whiting" ];
+  I597 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="John Whiting" ];
+  I1408 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Hannah Rogers" ];
+  I191 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Lavinia Elizabeth Strong" ];
+  Icfs [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Charles Fisher Sparrell" ];
+  Ijks [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="James Kirkwood Sparrell" ];
+  I190 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Ann Sparrell" ];
+  I510 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Elizabeth Shaw Whaley" ];
+  I1417 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Elizabeth Peabody" ];
+  I391 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Albert Randolph Strong" ];
+  I1421 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="William Bradford, Jr." ];
+  I1410 [ shape="circle" fillcolor="#e0e0ff" style="solid,filled" label="William Bradford" peripheries=2 color=darkgreen];
+  I271 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Philena Haughton" ];
+  I1400 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Elizabeth Bradford" ];
+  I898 [ shape="box" fillcolor="#e0e0ff" style="solid,filled" label="Herbert Kirkwood Sparrell\nb 1899" ];
+  I1404 [ shape="circle" fillcolor="#e0e0ff" style="solid,filled" label="John Alden" peripheries=2 color=red];
+  I1404x [ shape="circle" fillcolor="#ffe0e0" style="solid,filled" label="Pricilla Mullins" peripheries=2 color=orange];
+  I1404y [ shape="circle" fillcolor="#e0e0ff" style="solid,filled" label="William Mullins" peripheries=2 color=orange];
+  I1404yb [ shape="circle" fillcolor="#ffe0e0" style="solid,filled" label="Alice Mullins" peripheries=2 color=orange];
+  I1415 [ shape="box" fillcolor="#ffe0e0" style="rounded,filled" label="Elizabeth Alden" ];
+
+  F_Rogers [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="" ];
+  F572 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="m" ];
+  F469 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="m" ];
+  F590 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="m" ];
+  F560 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="560" ];
+  F304 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="" ];
+  F259 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="m" ];
+  F282 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="282" ];
+  F382 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="382" ];
+  F574 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="m" ];
+  F606 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="m" ];
+  F_Alden [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="" ];
+  F415 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="m" ];
+  F293 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="293" ];
+  F0727 [ shape="ellipse" fillcolor="#ffffe0" style="invis" label="" ];
+  F205 [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="m" ];
+  Fmm [ shape="point" fillcolor="#ffffe0" style="solid,filled" label="m" ];
+
+
+  I1404 -> I1404x [style="invis"]; //John Alden to Pricilla Mullins
+  subgraph cluster_F_Alden
+  {
+  style="invis";
+  F_Alden -> I1404 [color=red  style=bold]; // father: John Alden
+  F_Alden -> I1404x [color=orange style=bold]; // mother: Pricilla Mullins
+  }
+
+  subgraph cluster_F_Rogers
+  {
+  style="dotted";
+  F_Rogers -> IJR2 [color=cyan style=bold]; // father: John Rogers, Jr.
+  F_Rogers -> I1417 [color=orange style=bold]; // mother: Elizabeth Peabody
+  F_Rogers -> I1417 [color=red  style=bold]; // mother: Elizabeth Peabody
+  }
+
+  // 'above' the top generation
+  I1404x -> I1404y [color=orange style=bold]; // Pricilla Mullins to her parents
+  I1404x -> I1404yb [color=orange style=bold]; // Pricilla Mullins to her parents
+
+
+  I1415 -> F_Alden [color=red  style=bold]; // child:  Elizabeth Alden to father John Alden
+  I1415 -> F_Alden [color=orange style=bold]; // child:  Elizabeth Alden to father John Alden
+
+
+  I1421 -> I1410 [color=darkgreen style=bold]; // child:  William Bradford, Jr. to father: William Bradford
+
+  I1409 -> I1421 [color=darkgreen style=bold]; // child:  Samuel Bradford to father: William Bradford, Jr.
+
+
+  subgraph cluster_F572
+  {
+  style="dotted";
+  F572 -> I191 [color=red  style=bold]; // mother: Lavinia Elizabeth Strong
+  F572 -> I191 [color=orange style=bold]; // mother: Lavinia Elizabeth Strong
+  F572 -> I191 [color=cyan style=bold]; // mother: Lavinia Elizabeth Strong
+  F572 -> I191 [color=darkgreen style=bold]; // mother: Lavinia Elizabeth Strong
+  }
+  I898 -> F572 [color=red  style=bold]; // child:  Herbert Kirkwood Sparrell
+  I898 -> F572 [color=orange style=bold]; // child:  Herbert Kirkwood Sparrell
+  I898 -> F572 [color=cyan style=bold]; // child:  Herbert Kirkwood Sparrell
+  I898 -> F572 [color=darkgreen style=bold]; // child:  Herbert Kirkwood Sparrell
+
+  subgraph cluster_F469
+  {
+  style="dotted";
+  F469 -> I1409 [color=darkgreen style=bold]; // father: Samuel Bradford
+  F469 -> I1408 [color=red  style=bold]; // mother: Hannah Rogers
+  F469 -> I1408 [color=orange style=bold]; // mother: Hannah Rogers
+  F469 -> I1408 [color=cyan style=bold]; // mother: Hannah Rogers
+  }
+  I1400 -> F469 [color=darkgreen style=bold]; // child:  Elizabeth Bradford
+  I1400 -> F469 [color=red  style=bold]; // child:  Elizabeth Bradford
+  I1400 -> F469 [color=orange style=bold]; // child:  Elizabeth Bradford
+  I1400 -> F469 [color=cyan style=bold]; // child:  Elizabeth Bradford
+
+
+  subgraph cluster_F259
+  {
+  style="dotted";
+  F259 -> I898 [color=red  style=bold]; // father: Herbert Kirkwood Sparrell
+  F259 -> I898 [color=orange style=bold]; // father: Herbert Kirkwood Sparrell
+  F259 -> I898 [color=cyan style=bold]; // father: Herbert Kirkwood Sparrell
+  F259 -> I898 [color=darkgreen style=bold]; // father: Herbert Kirkwood Sparrell
+  }
+  Icfs -> F259 [color=red  style=bold]; // child:  Charles Fisher Sparrell
+  Icfs -> F259 [color=orange style=bold]; // child:  Charles Fisher Sparrell
+  Icfs -> F259 [color=cyan style=bold]; // child:  Charles Fisher Sparrell
+  Icfs -> F259 [color=darkgreen style=bold]; // child:  Charles Fisher Sparrell
+
+  Ijks -> F259 [color=red  style=dashed]; // child:  Charles Fisher Sparrell
+  Ijks -> F259 [color=orange style=dashed]; // child:  Charles Fisher Sparrell
+  Ijks -> F259 [color=cyan style=dashed]; // child:  Charles Fisher Sparrell
+  Ijks -> F259 [color=darkgreen style=dashed]; // child:  Charles Fisher Sparrell
+
+  I190 -> F259 [color=red  style=dashed]; // child:  Charles Fisher Sparrell
+  I190 -> F259 [color=orange style=dashed]; // child:  Charles Fisher Sparrell
+  I190 -> F259 [color=cyan style=dashed]; // child:  Charles Fisher Sparrell
+  I190 -> F259 [color=darkgreen style=dashed]; // child:  Charles Fisher Sparrell
+
+
+  I271 -> I397 [color=darkgreen style=bold]; // child:  Philena Haughton -> Philena Whiting
+  I271 -> I397 [color=red  style=bold]; // child:  Philena Haughton -> Philena Whiting
+  I271 -> I397 [color=orange style=bold]; // child:  Philena Haughton -> Philena Whiting
+  I271 -> I397 [color=cyan style=bold]; // child:  Philena Haughton -> Philena Whiting
+
+  I1417 -> I1415 [color=red  style=bold]; // child:  Elizabeth Peabody to mother: Elizabeth Alden
+  I1417 -> I1415 [color=orange style=bold]; // child:  Elizabeth Peabody to mother: Elizabeth Alden
+
+  I397 -> I597 [color=darkgreen style=bold]; // child:  Philena Whiting to father: John Whiting
+  I397 -> I597 [color=red  style=bold]; // child:  Philena Whiting to father: John Whiting
+  I397 -> I597 [color=orange style=bold]; // child:  Philena Whiting to father: John Whiting
+  I397 -> I597 [color=cyan style=bold]; // child:  Philena Whiting to father: John Whiting
+
+  subgraph cluster_F574
+  {
+  style="dotted";
+  F574 -> I391 [color=red  style=bold]; // father: Albert Randolph Strong
+  F574 -> I391 [color=orange style=bold]; // father: Albert Randolph Strong
+  F574 -> I391 [color=cyan style=bold]; // father: Albert Randolph Strong
+  F574 -> I391 [color=darkgreen style=bold]; // father: Albert Randolph Strong
+  }
+  I191 -> F574 [color=darkgreen style=bold]; // child:  Lavinia Elizabeth Strong
+  I191 -> F574 [color=red  style=bold]; // child:  Lavinia Elizabeth Strong
+  I191 -> F574 [color=orange style=bold]; // child:  Lavinia Elizabeth Strong
+  I191 -> F574 [color=cyan style=bold]; // child:  Lavinia Elizabeth Strong
+
+
+  subgraph cluster_F606
+  {
+  style="dotted";
+  F606 -> I271 [color=darkgreen style=bold]; // mother: Philena Haughton
+  F606 -> I271 [color=red  style=bold]; // mother: Philena Haughton
+  F606 -> I271 [color=orange style=bold]; // mother: Philena Haughton
+  F606 -> I271 [color=cyan style=bold]; // mother: Philena Haughton
+  }
+  I510 -> F606 [color=darkgreen style=bold]; // child:  Elizabeth Shaw Whaley
+  I510 -> F606 [color=red  style=bold]; // child:  Elizabeth Shaw Whaley
+  I510 -> F606 [color=orange style=bold]; // child:  Elizabeth Shaw Whaley
+  I510 -> F606 [color=cyan style=bold]; // child:  Elizabeth Shaw Whaley
+
+
+  I391 -> I510 [color=red  style=bold]; // child:  Albert Randolph Strong to mother: Elizabeth Shaw Whaley
+  I391 -> I510 [color=orange style=bold]; // child:  Albert Randolph Strong to mother: Elizabeth Shaw Whaley
+  I391 -> I510 [color=darkgreen style=bold]; // child:  Albert Randolph Strong to mother: Elizabeth Shaw Whaley
+  I391 -> I510 [color=cyan style=bold]; // child:  Albert Randolph Strong to mother: Elizabeth Shaw Whaley
+
+
+
+  F0727 -> I0000 [style=invis]; // father:  Mayflower
+  I1404y -> F0727 [style=invis]; // child:  Mullins
+  I1404yb -> F0727 [style=invis]; // child:  Mullins
+  I1410 -> F0727 [style=invis]; // child:  William Bradford
+  I1404 -> F0727 [style=invis]; // child:  John Alden
+
+
+  I1408 -> F_Rogers [color=red  style=bold]; // child:  Hannah Rogers to mother: Elizabeth Peabody
+  I1408 -> F_Rogers [color=orange style=bold]; // child:  Hannah Rogers to mother: Elizabeth Peabody
+  I1408 -> F_Rogers [color=cyan style=bold]; // child:  Hannah Rogers to father: John Rogers
+
+  I597 -> I1400 [color=darkgreen style=bold]; // child:  John Whiting to mother: Elizabeth Bradford
+  I597 -> I1400 [color=red  style=bold]; // child:  John Whiting to mother: Elizabeth Bradford
+  I597 -> I1400 [color=orange style=bold]; // child:  John Whiting to mother: Elizabeth Bradford
+  I597 -> I1400 [color=cyan style=bold]; // child:  John Whiting to mother: Elizabeth Bradford
+
+  IJR1 -> ITR1 [ color=cyan style=bold ];
+  IJR2 -> IJR1 [ color=cyan style=bold ];
+
+}

@@ -1,0 +1,78 @@
+= Volume 2 Chapter 5 - Ancestors
+This chapter contains the details of all 
+915 unique ancestors.
+
+Because of some ancestors having multiple lineages,
+(many with 2 but some with as many as 9)
+this represents 
+1635 ancestors with
+720 duplicates.
+
+https://github.com/sparrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C2_Ships[Chapter 2] 
+has the ships 59 of the ancestors came in on.
+
+https://github.com/sparrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C3_No_Ships[Chapter 3] 
+has 320 additional ancestors who were immigrants but we do not know the ship.
+
+https://github.com/sparrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C4_Brick_Walls[Chapter 4] 
+has 124 brickwalls.
+
+All 503 of those people are included in this chapter,
+along with the 412 ancestors between the prinipals and the line terminations.
+
+There are 323 surnames across the ancestors. 
+The surnames can be found in the indices.
+{add link later}
+
+The ancestors are organized by generation, with the longest lineage being to generation 14.
+
+* https://github.com/sparrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1[Generation 1] 
+** 2 unique ancestors
+* https://github.com/sparrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2[Generation 2]
+** 4 unique ancestors
+* https://github.com/sparrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3[Generation 3] 
+** 8 unique ancestors
+* https://github.com/sparrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4[Generation 4] 
+** 16 ancestors, 14 unique with 2 duplicates. 
+** one immigrant with unknown ship
+** two brick walls
+* https://github.com/sparrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5[Generation 5]
+** 28 ancestors, x unique with y duplicates.
+** 4 immigrants with unknown ships
+** 4 brick walls
+* https://github.com/sparrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6[Generation 6]
+** 46 ancestors, x unique with y duplicates.
+** 1 immigrant with unknown ships
+** 5 brick walls
+* https://github.com/sparrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7[Generation 7]
+** 80 ancestors, y unique with z duplicates.
+** w immigrant with unknown ships
+** v brick walls
+* https://github.com/sparrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8[Generation 8]
+** 129 ancestors, y unique with z duplicates.
+** w immigrant with unknown ships
+** v brick walls
+* https://github.com/sparrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9[Generation 9]
+** 218 ancestors, y unique with z duplicates.
+** w immigrant with unknown ships
+** v brick walls
+* https://github.com/sparrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10[Generation 10]
+** 356 ancestors, y unique with z duplicates.
+** w immigrant with unknown ships
+** v brick walls
+* https://github.com/sparrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11[Generation 11]
+** 461 ancestors, y unique with z duplicates.
+** w immigrant with unknown ships
+** v brick walls
+* https://github.com/sparrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12[Generation 12]
+** 232 ancestors, y unique with z duplicates.
+** w immigrant with unknown ships
+** v brick walls
+* https://github.com/sparrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G13[Generation 13]
+** 50 ancestors, y unique with z duplicates.
+** w immigrant with unknown ships
+** v brick walls
+* https://github.com/sparrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G14[Generation 14]
+** 4 ancestors, y unique with z duplicates.
+** w immigrant with unknown ships
+** v brick walls

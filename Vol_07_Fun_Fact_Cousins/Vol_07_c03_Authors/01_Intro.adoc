@@ -1,0 +1,33 @@
+# Authors
+
+Below are some of the famous authors that are our cousins. 
+Note they are listed by closest relationship order.
+Clicking on relationship will bring you to relationship graph.
+
+* Noah Webster - Third Cousin six times removed - Bradford descendant - link:images/NoahWebster.gv.png[relationship graph]
+* Henry Wadsworth Longfellow - Fourth Cousin six times removed - Alden descendant -link:images/HenryWadsworthLongfellow[relationship graph]
+* William Cullen Bryant
+** Fifth Cousin eight times removed - Alden descendent
+* Edgar Allan Poe
+** Eighth Cousin three times removed - T
+* Walt Whitman
+** Twelveth Cousin four times removed -T
+* Nathaniel Hawthorne
+** Twelveth Cousin four times removed -T
+* Mark Twain
+** Sixteenth Cousin twice removed -T
+* F. Scott Fitzgerald
+** Seventeenth Cousin - T
+* Robert Louis Stevenson
+** Eighteenth Cousin twice removed - T
+* Jules Verne
+** Nineteenth Cousin four times removed - T
+
+
+No path found to:
+
+* James Paterson
+
+No genealogy data found (and therefore no path, but still potential)
+
+* Nora Roberts

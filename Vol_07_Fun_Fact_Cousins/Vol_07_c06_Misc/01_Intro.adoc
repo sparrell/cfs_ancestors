@@ -1,0 +1,13 @@
+# Miscellaneous
+
+Below are some of the famous miscellaneous people that are our cousins. 
+Note they are listed by closest relationship order.
+Clicking on relationship will bring you to relationship graph.
+Clicking on name will bring you to wikipedia page for that person.
+
+* Quean Anne (Madame) add link to Vol 3
+** link:./QueanAnne.gv.png[Second Cousin seven times removed]
+* Julia Child (Chef)
+** 9th Cousin - Rogers descendant
+* Dan Quayle (US VP)
+** Thirteenth Cousin once removed - Chilton descendant
