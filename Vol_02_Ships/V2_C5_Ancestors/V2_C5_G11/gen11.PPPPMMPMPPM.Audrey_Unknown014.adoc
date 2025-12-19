@@ -19,8 +19,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPPMMPMPPM.Audrey_Unknown014.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0862[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0862http://localhost:4000/person?p=p0862https://cfsjksas.gigalixirapp.com/adoc?p=p0862http://localhost:4000/adoc?p=p0862* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -38,18 +37,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPPMMPM.Leah_Whiton.adoc[Leah Whiton (1693 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPMMPMP.Thomas_Whiton.adoc[Thomas Whiton (1662 - 1708)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPPMMPMPP.James_Whiton.adoc[James Whiton (1624 - 1710)]
-* gen11.PPPPMMPMPPM.Audrey_Unknown014_(?_-_1638)
+* gen11.PPPPMMPMPPM.Audrey_Unknown014_(? - 1638)
 
 
 == Other
-event:  845
-----
-2 TYPE Reference Number
-----
- 860
-----
-2 TYPE Reference Number
-----
-
 
 == Sources
+

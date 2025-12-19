@@ -27,8 +27,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.MMMPMMMMMMPP.William_Denison.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0359[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0359http://localhost:4000/person?p=p0359https://cfsjksas.gigalixirapp.com/adoc?p=p0359http://localhost:4000/adoc?p=p0359* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:William_Denison_%281%29[WeRelate]
 * WikiTree TBD
@@ -47,7 +46,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMMMMM.Bridget_Chesebrough.adoc[Bridget Chesebrough (1683 - 1709)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMMMMMM.Hannah_Dennison.adoc[Hannah Dennison (1643 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPMMMMMMP.George_Denison.adoc[George Denison (1620 - 1694)]
-* gen12.MMMPMMMMMMPP.William_Denison_(1571_-_1653)
+* gen12.MMMPMMMMMMPP.William_Denison_(1571 - 1653)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -62,7 +61,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPPMMP.Daniel_Denison.adoc[Daniel Denison (1680 - 1747)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPPMMPP.John_Denison.adoc[John Denison (1644 - 1718)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPPMMPPP.Edward_Denison.adoc[Edward Denison (1616 - 1668)]
-* gen12.MMMPMMMMMMPP.William_Denison_(1571_-_1653)
+* gen12.MMMPMMMMMMPP.William_Denison_(1571 - 1653)
 
 === Lineage #3
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -77,7 +76,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMMMMM.Bridget_Chesebrough.adoc[Bridget Chesebrough (1683 - 1709)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMMMMMM.Hannah_Dennison.adoc[Hannah Dennison (1643 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPMMMMMMP.George_Denison.adoc[George Denison (1620 - 1694)]
-* gen12.MMMPMMMMMMPP.William_Denison_(1571_-_1653)
+* gen12.MMMPMMMMMMPP.William_Denison_(1571 - 1653)
 
 === Lineage #4
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -92,15 +91,15 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPPMMP.Daniel_Denison.adoc[Daniel Denison (1680 - 1747)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPPMMPP.John_Denison.adoc[John Denison (1644 - 1718)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPPMMPPP.Edward_Denison.adoc[Edward Denison (1616 - 1668)]
-* gen12.MMMPMMMMMMPP.William_Denison_(1571_-_1653)
+* gen12.MMMPMMMMMMPP.William_Denison_(1571 - 1653)
 
 
 == Other
 emigration:  Bishops Stortford, England to Roxbury MA
-----
-2 DATE 1631
-2 AGE About 59-60
-----
 
+* DATE 1631
+
+* AGE About 59-60
 
 == Sources
+

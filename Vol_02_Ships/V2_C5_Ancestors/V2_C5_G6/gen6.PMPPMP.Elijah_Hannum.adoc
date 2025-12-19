@@ -24,8 +24,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PMPPMP.Elijah_Hannum.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0253[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0253http://localhost:4000/person?p=p0253https://cfsjksas.gigalixirapp.com/adoc?p=p0253http://localhost:4000/adoc?p=p0253* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Elijah_Hannum_%281%29[WeRelate]
 * WikiTree TBD
@@ -38,17 +37,18 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.PMP.Albert_Randolph_Strong.adoc[Albert Randolph Strong (1845 - 1920)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PMPP.Elijah_Genubeth_Strong.adoc[Elijah Genubeth Strong (1818 - 1870)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.PMPPM.Lucy_Hannum.adoc[Lucy Hannum (1795 - 1856)]
-* gen6.PMPPMP.Elijah_Hannum_(1759_-_1832)
+* gen6.PMPPMP.Elijah_Hannum_(1759 - 1832)
 
 
 == Other
 event:  Enlisted as Private, Revolutionary War
-----
-2 TYPE Military Service
-2 DATE 8 MAY 1777
-2 AGE 17
-----
 
+* TYPE Military Service
+
+* DATE 8 MAY 1777
+
+* AGE 17
 notes: 1798 Tax Assessment - Belchertown  - 18 acre farm and dwelling
 
 == Sources
+

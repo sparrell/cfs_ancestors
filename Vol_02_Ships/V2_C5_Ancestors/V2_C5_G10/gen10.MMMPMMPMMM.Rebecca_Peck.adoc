@@ -29,8 +29,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMMPMMM.Rebecca_Peck.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0836[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0836http://localhost:4000/person?p=p0836https://cfsjksas.gigalixirapp.com/adoc?p=p0836http://localhost:4000/adoc?p=p0836* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Rebecca_Peck_%283%29[WeRelate]
 * WikiTree TBD
@@ -47,7 +46,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPMMP.Sylvester_Baldwin.adoc[Sylvester Baldwin (1719 - 1795)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPMMPM.Priscilla_Mason.adoc[Priscilla Mason (1691 - 1719)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMMPMM.Rebecca_Hobart.adoc[Rebecca Hobart (1654 - 1727)]
-* gen10.MMMPMMPMMM.Rebecca_Peck_(1620_-_1692)
+* gen10.MMMPMMPMMM.Rebecca_Peck_(1620 - 1692)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -61,7 +60,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPMPMM.Abigail_Chesebrough.adoc[Abigail Chesebrough (1719 - 1769)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMPMMM.Rebecca_Mason.adoc[Rebecca Mason (1682 - 1742)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMMPMM.Rebecca_Hobart.adoc[Rebecca Hobart (1654 - 1727)]
-* gen10.MMMPMMPMMM.Rebecca_Peck_(1620_-_1692)
+* gen10.MMMPMMPMMM.Rebecca_Peck_(1620 - 1692)
 
 === Lineage #3
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -75,7 +74,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPMPPP.Jedidiah_Chesebrough.adoc[Jedidiah Chesebrough (1710 - 1760)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMPMMM.Rebecca_Mason.adoc[Rebecca Mason (1682 - 1742)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMMPMM.Rebecca_Hobart.adoc[Rebecca Hobart (1654 - 1727)]
-* gen10.MMMPMMPMMM.Rebecca_Peck_(1620_-_1692)
+* gen10.MMMPMMPMMM.Rebecca_Peck_(1620 - 1692)
 
 === Lineage #4
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -88,7 +87,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPMMP.Sylvester_Baldwin.adoc[Sylvester Baldwin (1719 - 1795)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPMMPM.Priscilla_Mason.adoc[Priscilla Mason (1691 - 1719)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMMPMM.Rebecca_Hobart.adoc[Rebecca Hobart (1654 - 1727)]
-* gen10.MMMPMMPMMM.Rebecca_Peck_(1620_-_1692)
+* gen10.MMMPMMPMMM.Rebecca_Peck_(1620 - 1692)
 
 === Lineage #5
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -102,7 +101,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPMPMM.Abigail_Chesebrough.adoc[Abigail Chesebrough (1719 - 1769)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMPMMM.Rebecca_Mason.adoc[Rebecca Mason (1682 - 1742)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMMPMM.Rebecca_Hobart.adoc[Rebecca Hobart (1654 - 1727)]
-* gen10.MMMPMMPMMM.Rebecca_Peck_(1620_-_1692)
+* gen10.MMMPMMPMMM.Rebecca_Peck_(1620 - 1692)
 
 === Lineage #6
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -116,18 +115,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPMPPP.Jedidiah_Chesebrough.adoc[Jedidiah Chesebrough (1710 - 1760)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMPMMM.Rebecca_Mason.adoc[Rebecca Mason (1682 - 1742)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMMPMM.Rebecca_Hobart.adoc[Rebecca Hobart (1654 - 1727)]
-* gen10.MMMPMMPMMM.Rebecca_Peck_(1620_-_1692)
+* gen10.MMMPMMPMMM.Rebecca_Peck_(1620 - 1692)
 
 
 == Other
-event:  820
-----
-2 TYPE Reference Number
-----
- 832
-----
-2 TYPE Reference Number
-----
-
 
 == Sources
+

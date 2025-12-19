@@ -15,8 +15,8 @@ Narrative TBD
 
 
 == Ship
-* Unknown
-* Unknown
+* Arabella or Lyons Whelp
+* 1630 or 1629
 
 
 == Family
@@ -27,8 +27,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMMMMPP.Thomas_Miner.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0964[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0964http://localhost:4000/person?p=p0964https://cfsjksas.gigalixirapp.com/adoc?p=p0964http://localhost:4000/adoc?p=p0964* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Thomas_Miner_%282%29[WeRelate]
 * WikiTree TBD
@@ -45,7 +44,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPMMM.Bridget_Chesebrough.adoc[Bridget Chesebrough (1737 - 1818)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPMMMM.Bridget_Miner.adoc[Bridget Miner (1711 - 1766)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMMMMP.Joseph_Miner.adoc[Joseph Miner (1644 - 1712)]
-* gen10.MMMPMMMMPP.Thomas_Miner_(1608_-_1690)
+* gen10.MMMPMMMMPP.Thomas_Miner_(1608 - 1690)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -58,28 +57,29 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPMMM.Bridget_Chesebrough.adoc[Bridget Chesebrough (1737 - 1818)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPMMMM.Bridget_Miner.adoc[Bridget Miner (1711 - 1766)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMMMMP.Joseph_Miner.adoc[Joseph Miner (1644 - 1712)]
-* gen10.MMMPMMMMPP.Thomas_Miner_(1608_-_1690)
+* gen10.MMMPMMMMPP.Thomas_Miner_(1608 - 1690)
 
 
 == Other
 emigration:  To Charlestown MA in Winthrop Flleet
-----
-2 DATE 1630
-2 AGE 21-22
-----
 
+* DATE 1630
+
+* AGE 21-22
 event:  Assistant Magistrate- Connecticut
-----
-2 TYPE Appointed
-2 DATE 17 MAY 1649
-2 AGE 41
-----
- Lieutenant, King Phillips War
-----
-2 TYPE Military Service
-2 DATE 1676
-2 AGE 67-68
-----
 
+* TYPE Appointed
+
+* DATE 17 MAY 1649
+
+* AGE 41 Lieutenant, King Phillips War
+
+* TYPE Military Service
+
+* DATE 1676
+
+* AGE 67-68
+notes: debate as to which ship arrived on: Lyons Whelp in 1629 or Arabella in 1630
 
 == Sources
+

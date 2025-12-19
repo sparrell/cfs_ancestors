@@ -23,8 +23,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.MMMMPPMPPMMM.Margaret_Unknown111.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0707[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0707http://localhost:4000/person?p=p0707https://cfsjksas.gigalixirapp.com/adoc?p=p0707http://localhost:4000/adoc?p=p0707* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -43,7 +42,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPPMPP.William_Satterlee.adoc[William Satterlee (? - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPPMPPM.Mary_Jenner.adoc[Mary Jenner (1648 - 1660)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPPMPPMM.Alice_Pigg.adoc[Alice Pigg (1627 - 1660)]
-* gen12.MMMMPPMPPMMM.Margaret_Unknown111_(?_-_?)
+* gen12.MMMMPPMPPMMM.Margaret_Unknown111_(? - ?)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -58,18 +57,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPPMPP.William_Satterlee.adoc[William Satterlee (? - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPPMPPM.Mary_Jenner.adoc[Mary Jenner (1648 - 1660)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPPMPPMM.Alice_Pigg.adoc[Alice Pigg (1627 - 1660)]
-* gen12.MMMMPPMPPMMM.Margaret_Unknown111_(?_-_?)
+* gen12.MMMMPPMPPMMM.Margaret_Unknown111_(? - ?)
 
 
 == Other
-event:  700
-----
-2 TYPE Reference Number
-----
- 701
-----
-2 TYPE Reference Number
-----
-
 
 == Sources
+

@@ -24,8 +24,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPPPPM.Ruth_Vinal.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0207[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0207http://localhost:4000/person?p=p0207https://cfsjksas.gigalixirapp.com/adoc?p=p0207http://localhost:4000/adoc?p=p0207* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Ruth_Vinal_%281%29[WeRelate]
 * WikiTree TBD
@@ -39,10 +38,11 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PPPP.James_Newton_Sparrell.adoc[James Newton Sparrell (1825 - 1877)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.PPPPP.James_Newton_Sparrell.adoc[James Newton Sparrell (1798 - 1859)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PPPPPP.James_Newton_Sparrell.adoc[James Newton Sparrell (1770 - 1826)]
-* gen7.PPPPPPM.Ruth_Vinal_(1746_-_1810)
+* gen7.PPPPPPM.Ruth_Vinal_(1746 - 1810)
 
 
 == Other
 education:  She was illiterate
 
 == Sources
+

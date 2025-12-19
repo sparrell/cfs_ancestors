@@ -21,8 +21,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPPMMMM.Jemimah_Stetson.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0176[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0176http://localhost:4000/person?p=p0176https://cfsjksas.gigalixirapp.com/adoc?p=p0176http://localhost:4000/adoc?p=p0176* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Jemima_Stetson_%281%29[WeRelate]
 * WikiTree TBD
@@ -37,18 +36,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.PPPPM.Desire_Sparrell.adoc[Desire Sparrell (1798 - 1872)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PPPPMM.Martha_Farrow.adoc[Martha Farrow (1754 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPPMMM.Jemimah_Damon.adoc[Jemimah Damon (1724 - ?)]
-* gen8.PPPPMMMM.Jemimah_Stetson_(1695_-_?)
+* gen8.PPPPMMMM.Jemimah_Stetson_(1695 - ?)
 
 
 == Other
-event:  200
-----
-2 TYPE Reference Number
-----
- 200
-----
-2 TYPE Reference Number
-----
-
 
 == Sources
+

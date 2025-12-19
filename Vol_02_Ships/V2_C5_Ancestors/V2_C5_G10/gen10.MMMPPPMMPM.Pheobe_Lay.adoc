@@ -12,10 +12,8 @@ Narrative TBD
 * Death: 27 SEP 1718
 * Deathplace: Stonington, New London, Connecticut, USA
 * Buried: 
-----
-2 PLAC Denison Cemetery, Mystic, New London, Connecticut, USA
-----
 
+* PLAC Denison Cemetery, Mystic, New London, Connecticut, USA
 * Age at Death: 67
 
 
@@ -29,8 +27,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPPMMPM.Pheobe_Lay.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0880[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0880http://localhost:4000/person?p=p0880https://cfsjksas.gigalixirapp.com/adoc?p=p0880http://localhost:4000/adoc?p=p0880* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -47,7 +44,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPPPM.Dorothy_Smith.adoc[Dorothy Smith (1729 - 1813)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPPMM.Mary_Denison.adoc[Mary Denison (1706 - 1798)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPPMMP.Daniel_Denison.adoc[Daniel Denison (1680 - 1747)]
-* gen10.MMMPPPMMPM.Pheobe_Lay_(1651_-_1718)
+* gen10.MMMPPPMMPM.Pheobe_Lay_(1651 - 1718)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -60,24 +57,19 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPPPM.Dorothy_Smith.adoc[Dorothy Smith (1729 - 1813)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPPMM.Mary_Denison.adoc[Mary Denison (1706 - 1798)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPPMMP.Daniel_Denison.adoc[Daniel Denison (1680 - 1747)]
-* gen10.MMMPPPMMPM.Pheobe_Lay_(1651_-_1718)
+* gen10.MMMPPPMMPM.Pheobe_Lay_(1651 - 1718)
 
 
 == Other
 
 == Sources
 * @S42@
-----
-2 PAGE https://www.myheritage.com/research/record-10095-945886/phebe-lay-in-everton-pedigree-family-group-sheets
-2 QUAY 4
-2 DATA
-3 TEXT Phebe Lay
-4 CONC Document type: Family group sheet
-4 CONC Birth: 1651
-4 CONC Father: Robert Lay
-4 CONC Mother: Sarah Fenner
-4 CONC Spouse: John Denison
-4 CONC Children: Phebe DenisonJohn Denison + Ann MasonGeorge Denison + Mary WetherellRobert Denison + Dorothy Stanton + Joanna StantonWilliam Denison + Mary AveryDaniel Denison + Jane Cogswell + Mary Stanton
-4 CONC Samuel DenisonAnna Denison + Ed Denison + Samuel Minor + Jere Ripley + Ebenezer BillingsSarah Denison + Isaac Williams
-----
+
+* PAGE https://www.myheritage.com/research/record-10095-945886/phebe-lay-in-everton-pedigree-family-group-sheets
+
+* QUAY 4
+
+* DATA
+
+* TEXT Phebe Lay Document type: Family group sheet Birth: 1651 Father: Robert Lay Mother: Sarah Fenner Spouse: John Denison Children: Phebe DenisonJohn Denison + Ann MasonGeorge Denison + Mary WetherellRobert Denison + Dorothy Stanton + Joanna StantonWilliam Denison + Mary AveryDaniel Denison + Jane Cogswell + Mary Stanton Samuel DenisonAnna Denison + Ed Denison + Samuel Minor + Jere Ripley + Ebenezer BillingsSarah Denison + Isaac Williams
 

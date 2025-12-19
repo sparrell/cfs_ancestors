@@ -24,8 +24,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMPMPM.Mahala_Phillips.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0122[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0122http://localhost:4000/person?p=p0122https://cfsjksas.gigalixirapp.com/adoc?p=p0122http://localhost:4000/adoc?p=p0122* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Mahala_Phillips_%281%29[WeRelate]
 * WikiTree TBD
@@ -38,10 +37,11 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.MMP.Charles_Henry_Hurlburt.adoc[Charles Henry Hurlburt (1849 - 1930)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MMPM.Laura_Esther_Bennett.adoc[Laura Esther Bennett (1827 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMPMP.Jacob_Bennett.adoc[Jacob Bennett (1798 - 1830)]
-* gen6.MMPMPM.Mahala_Phillips_(1774_-_1852)
+* gen6.MMPMPM.Mahala_Phillips_(1774 - 1852)
 
 
 == Other
 notes: Her second husband, Dixwell Lathrop was reported living in Preston in 1800 and in Griswold in 1820 (US Census)
 
 == Sources
+

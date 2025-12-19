@@ -24,8 +24,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPMMPP.Sampson_Haughton.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0082[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0082http://localhost:4000/person?p=p0082https://cfsjksas.gigalixirapp.com/adoc?p=p0082http://localhost:4000/adoc?p=p0082* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Sampson_Haughton_%281%29[WeRelate]
 * WikiTree TBD
@@ -39,18 +38,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PMPM.Elizabeth_Shaw_Whaley.adoc[Elizabeth Shaw Whaley (1813 - 1870)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.PMPMM.Philena_Haughton.adoc[Philena Haughton (1776 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PMPMMP.James_Haughton.adoc[James Haughton (1719 - 1804)]
-* gen7.PMPMMPP.Sampson_Haughton_(1692_-_1756)
+* gen7.PMPMMPP.Sampson_Haughton_(1692 - 1756)
 
 
 == Other
-event:  126
-----
-2 TYPE Reference Number
-----
- 126
-----
-2 TYPE Reference Number
-----
-
 
 == Sources
+

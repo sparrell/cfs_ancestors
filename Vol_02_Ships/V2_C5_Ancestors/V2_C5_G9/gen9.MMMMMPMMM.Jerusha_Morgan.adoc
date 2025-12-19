@@ -24,8 +24,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMPMMM.Jerusha_Morgan.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0290[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0290http://localhost:4000/person?p=p0290https://cfsjksas.gigalixirapp.com/adoc?p=p0290http://localhost:4000/adoc?p=p0290* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -41,7 +40,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMMMP.Amos_Lester.adoc[Amos Lester (1776 - 1842)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMMPM.Anna_Lester.adoc[Anna Lester (1736 - 1807)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMPMM.Anna_Street.adoc[Anna Street (1710 - 1790)]
-* gen9.MMMMMPMMM.Jerusha_Morgan_(1682_-_1726)
+* gen9.MMMMMPMMM.Jerusha_Morgan_(1682 - 1726)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -53,18 +52,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMMMP.Amos_Lester.adoc[Amos Lester (1776 - 1842)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMMPM.Anna_Lester.adoc[Anna Lester (1736 - 1807)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMPMM.Anna_Street.adoc[Anna Street (1710 - 1790)]
-* gen9.MMMMMPMMM.Jerusha_Morgan_(1682_-_1726)
+* gen9.MMMMMPMMM.Jerusha_Morgan_(1682 - 1726)
 
 
 == Other
-event:  304
-----
-2 TYPE Reference Number
-----
- 304
-----
-2 TYPE Reference Number
-----
-
 
 == Sources
+

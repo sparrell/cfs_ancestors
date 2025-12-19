@@ -21,8 +21,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMMMP.Ebenezer_Leonard.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0466[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0466http://localhost:4000/person?p=p0466https://cfsjksas.gigalixirapp.com/adoc?p=p0466http://localhost:4000/adoc?p=p0466* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Ebenezer_Leonard_%285%29[WeRelate]
 * WikiTree TBD
@@ -38,7 +37,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMMPM.Lucy_Hall_Brewster.adoc[Lucy Hall Brewster (1773 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMPMM.Lucy_Hall.adoc[Lucy Hall (1750 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPMMM.Esther_Leonard.adoc[Esther Leonard (1731 - ?)]
-* gen9.MMMMPMMMP.Ebenezer_Leonard_(1709_-_?)
+* gen9.MMMMPMMMP.Ebenezer_Leonard_(1709 - ?)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -50,22 +49,23 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMMPM.Lucy_Hall_Brewster.adoc[Lucy Hall Brewster (1773 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMPMM.Lucy_Hall.adoc[Lucy Hall (1750 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPMMM.Esther_Leonard.adoc[Esther Leonard (1731 - ?)]
-* gen9.MMMMPMMMP.Ebenezer_Leonard_(1709_-_?)
+* gen9.MMMMPMMMP.Ebenezer_Leonard_(1709 - ?)
 
 
 == Other
 event:  Captain of Militia - Pequot War
-----
-2 TYPE Military Service
-2 DATE 1741
-2 AGE 31-32
-----
- _ELEC of Leonard, Ebenezer - Connecticut Legislature
-----
-2 TYPE _ELEC
-2 DATE 1744
-2 AGE 34-35
-----
 
+* TYPE Military Service
+
+* DATE 1741
+
+* AGE 31-32 _ELEC of Leonard, Ebenezer - Connecticut Legislature
+
+* TYPE _ELEC
+
+* DATE 1744
+
+* AGE 34-35
 
 == Sources
+

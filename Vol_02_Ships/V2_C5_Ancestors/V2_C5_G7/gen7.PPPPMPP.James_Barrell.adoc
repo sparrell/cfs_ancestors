@@ -10,11 +10,10 @@ Narrative TBD
 * Birth: 29 DEC 1727
 * Birthplace: Scituate, Plymouth, Massachusetts, USA
 * Christening:  Scituate 2nd Parish
-----
-2 DATE 5 MAY 1728
-2 AGE 0
-----
 
+* DATE 5 MAY 1728
+
+* AGE 0
 * Death: 17 APR 1827
 * Deathplace: Scituate, Plymouth, Massachusetts, USA
 * Age at Death: 99
@@ -30,8 +29,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPPMPP.James_Barrell.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0398[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0398http://localhost:4000/person?p=p0398https://cfsjksas.gigalixirapp.com/adoc?p=p0398http://localhost:4000/adoc?p=p0398* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:James_Barrell_%281%29[WeRelate]
 * WikiTree TBD
@@ -45,15 +43,14 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PPPP.James_Newton_Sparrell.adoc[James Newton Sparrell (1825 - 1877)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.PPPPM.Desire_Sparrell.adoc[Desire Sparrell (1798 - 1872)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PPPPMP.James_Barrell.adoc[James Barrell (1751 - 1801)]
-* gen7.PPPPMPP.James_Barrell_(1727_-_1827)
+* gen7.PPPPMPP.James_Barrell_(1727 - 1827)
 
 
 == Other
 event:  Revolution
-----
-2 TYPE Military Service
-----
 
-notes: James Barrell, Scituate, Private, Capt. John Clapp's Company, Col. JohnBailey's Regt. which marched on the alarm of April 19th, 1775 Service of 15 days. <p></p> <p>James Barrell, Scituate, enlisted October 1775 in Continental Army for one year.</p> <p></p> <p>James Barrell, Capt. Wm. Wyman's Company. Col. John Patterson's 26th Regt. Order for bounty coat or its equivalent in money, 16 Dec,1775</p> <p></p> <p>James Barrell, Private, Capt. John Turner's Company, Col. Eleazer Brooks, regiment of Guards, enlisted 6 Nov 1777; rolls made up to 3 Apr 1778, service 4 months, 27 days at Cambridge</p> <p></p> <p>The Obituary Of James Barrell reported that he and his two sons were stationed at West Point, NY in Sept 1780 when the Fort Commander, Benedict Arnold attempted to betray the fort to the British</p> <p></p> <p>Revolutionary War Pension Lists</p>
+* TYPE Military Service
+notes: James Barrell, Scituate, Private, Capt. John Clapp's Company, Col. JohnBailey's Regt. which marched on the alarm of April 19th, 1775 Service of 15 days. James Barrell, Scituate, enlisted October 1775 in Continental Army for one year. James Barrell, Capt. Wm. Wyman's Company. Col. John Patterson's 26th Regt. Order for bounty coat or its equivalent in money, 16 Dec,1775 James Barrell, Private, Capt. John Turner's Company, Col. Eleazer Brooks, regiment of Guards, enlisted 6 Nov 1777; rolls made up to 3 Apr 1778, service 4 months, 27 days at Cambridge. The Obituary Of James Barrell reported that he and his two sons were stationed at West Point, NY in Sept 1780 when the Fort Commander, Benedict Arnold attempted to betray the fort to the British. Revolutionary War Pension Lists
 
 == Sources
+

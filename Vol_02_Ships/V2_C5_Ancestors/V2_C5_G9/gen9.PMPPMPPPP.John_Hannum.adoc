@@ -24,8 +24,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPPMPPPP.John_Hannum.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0611[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0611http://localhost:4000/person?p=p0611https://cfsjksas.gigalixirapp.com/adoc?p=p0611http://localhost:4000/adoc?p=p0611* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:John_Hannum_%286%29[WeRelate]
 * WikiTree TBD
@@ -41,16 +40,17 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PMPPMP.Elijah_Hannum.adoc[Elijah Hannum (1759 - 1832)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPPMPP.Gideon_Hannum.adoc[Gideon Hannum (1727 - 1786)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPPMPPP.William_Hannum.adoc[William Hannum (1690 - 1755)]
-* gen9.PMPPMPPPP.John_Hannum_(1637_-_1712)
+* gen9.PMPPMPPPP.John_Hannum_(1637 - 1712)
 
 
 == Other
 event:  Private in French and Indian War
-----
-2 TYPE Military Service
-2 DATE 1655
-2 AGE About 17-18
-----
 
+* TYPE Military Service
+
+* DATE 1655
+
+* AGE About 17-18
 
 == Sources
+

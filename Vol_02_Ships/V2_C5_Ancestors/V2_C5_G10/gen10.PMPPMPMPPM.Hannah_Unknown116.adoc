@@ -27,8 +27,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PMPPMPMPPM.Hannah_Unknown116.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0623[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0623http://localhost:4000/person?p=p0623https://cfsjksas.gigalixirapp.com/adoc?p=p0623http://localhost:4000/adoc?p=p0623* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -45,9 +44,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPPMPM.Abiah_Cowles.adoc[Abiah Cowles (1722 - 1796)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPPMPMP.Jonathan_Cowles.adoc[Jonathan Cowles (1671 - 1756)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPPMPMPP.John_Cowles.adoc[John Cowles (1642 - 1711)]
-* gen10.PMPPMPMPPM.Hannah_Unknown116_(1613_-_1683)
+* gen10.PMPPMPMPPM.Hannah_Unknown116_(1613 - 1683)
 
 
 == Other
 
 == Sources
+

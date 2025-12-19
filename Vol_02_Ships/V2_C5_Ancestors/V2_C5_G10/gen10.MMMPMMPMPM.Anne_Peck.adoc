@@ -29,8 +29,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMMPMPM.Anne_Peck.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0953[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0953http://localhost:4000/person?p=p0953https://cfsjksas.gigalixirapp.com/adoc?p=p0953http://localhost:4000/adoc?p=p0953* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Anne_Peck_%285%29[WeRelate]
 * WikiTree TBD
@@ -47,7 +46,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPMMP.Sylvester_Baldwin.adoc[Sylvester Baldwin (1719 - 1795)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPMMPM.Priscilla_Mason.adoc[Priscilla Mason (1691 - 1719)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMMPMP.Daniel_Mason.adoc[Daniel Mason (1652 - 1737)]
-* gen10.MMMPMMPMPM.Anne_Peck_(1619_-_1672)
+* gen10.MMMPMMPMPM.Anne_Peck_(1619 - 1672)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -61,7 +60,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPMPMM.Abigail_Chesebrough.adoc[Abigail Chesebrough (1719 - 1769)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMPMMM.Rebecca_Mason.adoc[Rebecca Mason (1682 - 1742)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMMPMP.Daniel_Mason.adoc[Daniel Mason (1652 - 1737)]
-* gen10.MMMPMMPMPM.Anne_Peck_(1619_-_1672)
+* gen10.MMMPMMPMPM.Anne_Peck_(1619 - 1672)
 
 === Lineage #3
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -75,7 +74,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPMPPP.Jedidiah_Chesebrough.adoc[Jedidiah Chesebrough (1710 - 1760)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMPMMM.Rebecca_Mason.adoc[Rebecca Mason (1682 - 1742)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMMPMP.Daniel_Mason.adoc[Daniel Mason (1652 - 1737)]
-* gen10.MMMPMMPMPM.Anne_Peck_(1619_-_1672)
+* gen10.MMMPMMPMPM.Anne_Peck_(1619 - 1672)
 
 === Lineage #4
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -88,7 +87,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPMMP.Sylvester_Baldwin.adoc[Sylvester Baldwin (1719 - 1795)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPMMPM.Priscilla_Mason.adoc[Priscilla Mason (1691 - 1719)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMMPMP.Daniel_Mason.adoc[Daniel Mason (1652 - 1737)]
-* gen10.MMMPMMPMPM.Anne_Peck_(1619_-_1672)
+* gen10.MMMPMMPMPM.Anne_Peck_(1619 - 1672)
 
 === Lineage #5
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -102,7 +101,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPMPMM.Abigail_Chesebrough.adoc[Abigail Chesebrough (1719 - 1769)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMPMMM.Rebecca_Mason.adoc[Rebecca Mason (1682 - 1742)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMMPMP.Daniel_Mason.adoc[Daniel Mason (1652 - 1737)]
-* gen10.MMMPMMPMPM.Anne_Peck_(1619_-_1672)
+* gen10.MMMPMMPMPM.Anne_Peck_(1619 - 1672)
 
 === Lineage #6
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -116,7 +115,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPMPPP.Jedidiah_Chesebrough.adoc[Jedidiah Chesebrough (1710 - 1760)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMPMMM.Rebecca_Mason.adoc[Rebecca Mason (1682 - 1742)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMMPMP.Daniel_Mason.adoc[Daniel Mason (1652 - 1737)]
-* gen10.MMMPMMPMPM.Anne_Peck_(1619_-_1672)
+* gen10.MMMPMMPMPM.Anne_Peck_(1619 - 1672)
 
 
 == Other
@@ -124,3 +123,4 @@ event:
 notes: In 1638, the Rev. Robert Peck left Hingham, Norfolk, England with his wife and daughter, Anne. They sailed to Boston from Ipswich on the ship,Diligent, and immediately went to Hingham MA. where a number of his former parishoners had settled. In 1641 Peck and his wife returned to England. In the meanwhile, Anne had married John Mason and she remained inNew England.
 
 == Sources
+

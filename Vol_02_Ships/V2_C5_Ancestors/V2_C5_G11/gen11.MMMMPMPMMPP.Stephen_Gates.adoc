@@ -25,11 +25,10 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMPMMPP.Stephen_Gates.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0635[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0635http://localhost:4000/person?p=p0635https://cfsjksas.gigalixirapp.com/adoc?p=p0635http://localhost:4000/adoc?p=p0635* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
-* WikiTree TBD
+* https://www.wikitree.com/wiki/Gates-37[WikiTree]
 
 == Relations
 === Lineage #1
@@ -44,7 +43,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPMPM.Anne_Andrews.adoc[Anne Andrews (1725 - 1809)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMPMM.Ruth_Gates.adoc[Ruth Gates (1703 - 1750)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMPMMP.Thomas_Gates.adoc[Thomas Gates (1646 - 1726)]
-* gen11.MMMMPMPMMPP.Stephen_Gates_(?_-_1662)
+* gen11.MMMMPMPMMPP.Stephen_Gates_(? - 1662)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -58,47 +57,42 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPMPM.Anne_Andrews.adoc[Anne Andrews (1725 - 1809)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMPMM.Ruth_Gates.adoc[Ruth Gates (1703 - 1750)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMPMMP.Thomas_Gates.adoc[Thomas Gates (1646 - 1726)]
-* gen11.MMMMPMPMMPP.Stephen_Gates_(?_-_1662)
+* gen11.MMMMPMPMMPP.Stephen_Gates_(? - 1662)
 
 
 == Other
 emigration:  settled in Hingham MA
-----
-2 DATE 1638
-----
 
+* DATE 1638
 event: 
-----
-2 TYPE Fact 2
-2 DATE 1652
-2 PLAC Cambridge, Middlesex, Massachusetts, USA
-----
 
-----
-2 TYPE Fact 4
-2 DATE 1653
-2 PLAC Lancaster, Worcester, Massachusetts, USA
-----
+* TYPE Fact 2
 
-----
-2 TYPE Fact 5
-2 DATE 1656
-2 PLAC Cambridge, Middlesex, Massachusetts, USA
-----
- Constable
-----
-2 TYPE Fact 4
-2 DATE 1657
-----
- Emigrated in ship "Diligent"
-----
-2 TYPE Military Service
-2 DATE 1638
-----
- Returned to Cambridge
-----
-2 TYPE Fact 7
-----
+* DATE 1652
 
+* PLAC Cambridge, Middlesex, Massachusetts, USA
+
+* TYPE Fact 4
+
+* DATE 1653
+
+* PLAC Lancaster, Worcester, Massachusetts, USA
+
+* TYPE Fact 5
+
+* DATE 1656
+
+* PLAC Cambridge, Middlesex, Massachusetts, USA Constable
+
+* TYPE Fact 4
+
+* DATE 1657 Emigrated in ship "Diligent"
+
+* TYPE Military Service
+
+* DATE 1638 Returned to Cambridge
+
+* TYPE Fact 7
 
 == Sources
+

@@ -21,8 +21,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PPPMMP.John_Bixby.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0136[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0136http://localhost:4000/person?p=p0136https://cfsjksas.gigalixirapp.com/adoc?p=p0136http://localhost:4000/adoc?p=p0136* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:John_Bixby_%286%29[WeRelate]
 * WikiTree TBD
@@ -35,14 +34,13 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.PPP.Herbert_Kirkwood_Sparrell.adoc[Herbert Kirkwood Sparrell (1847 - 1923)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PPPM.Emiline_S_Gleason.adoc[Emiline S Gleason (1825 - 1908)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.PPPMM.Sophia_Bixby.adoc[Sophia Bixby (1802 - 1859)]
-* gen6.PPPMMP.John_Bixby_(1767_-_?)
+* gen6.PPPMMP.John_Bixby_(1767 - ?)
 
 
 == Other
 residence: 
-----
-2 WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AJohn_Bixby_%286%29:
-----
 
+* WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AJohn_Bixby_%286%29:
 
 == Sources
+

@@ -9,10 +9,8 @@ Narrative TBD
 * Sex: F
 * Birthplace: Bolton, Tolland, Connecticut, USA
 * Baptism: 
-----
-2 DATE 12 JUN 1792
-----
 
+* DATE 12 JUN 1792
 * Death: 29 OCT 1825
 * Deathplace: Bolton, Tolland, Connecticut, USA
 
@@ -27,8 +25,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PMPPPM.Lucy_Kilbourn.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0175[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0175http://localhost:4000/person?p=p0175https://cfsjksas.gigalixirapp.com/adoc?p=p0175http://localhost:4000/adoc?p=p0175* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Lucy_Kilbourn_%282%29[WeRelate]
 * WikiTree TBD
@@ -41,14 +38,13 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.PMP.Albert_Randolph_Strong.adoc[Albert Randolph Strong (1845 - 1920)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PMPP.Elijah_Genubeth_Strong.adoc[Elijah Genubeth Strong (1818 - 1870)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.PMPPP.Genubeth_Strong.adoc[Genubeth Strong (1791 - 1856)]
-* gen6.PMPPPM.Lucy_Kilbourn_(?_-_1825)
+* gen6.PMPPPM.Lucy_Kilbourn_(? - 1825)
 
 
 == Other
 event:  Widow of David Lawrence when she married John Strong. See Benjamin Kilbourne
-----
-2 TYPE First Marriage
-----
 
+* TYPE First Marriage
 
 == Sources
+

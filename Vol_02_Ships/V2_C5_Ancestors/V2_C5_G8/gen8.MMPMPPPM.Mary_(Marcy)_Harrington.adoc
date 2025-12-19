@@ -24,8 +24,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMPMPPPM.Mary_(Marcy)_Harrington.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0567[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0567http://localhost:4000/person?p=p0567https://cfsjksas.gigalixirapp.com/adoc?p=p0567http://localhost:4000/adoc?p=p0567* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -40,9 +39,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMPMP.Jacob_Bennett.adoc[Jacob Bennett (1798 - 1830)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMPMPP.Jacob_Bennett.adoc[Jacob Bennett (1761 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMPMPPP.Jacob_Bennett.adoc[Jacob Bennett (1735 - ?)]
-* gen8.MMPMPPPM.Mary_(Marcy)_Harrington_(1699_-_1772)
+* gen8.MMPMPPPM.Mary_(Marcy)_Harrington_(1699 - 1772)
 
 
 == Other
 
 == Sources
+

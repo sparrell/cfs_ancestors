@@ -25,8 +25,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PPMP.Franz_Josef_Kerber.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0151[Dev website]
-* https://www.geni.com/people/Frank-J-Kerber/6000000019835055044[Geni]
+https://cfsjksas.gigalixirapp.com/person?p=p0151http://localhost:4000/person?p=p0151https://cfsjksas.gigalixirapp.com/adoc?p=p0151http://localhost:4000/adoc?p=p0151* https://www.geni.com/people/Frank-J-Kerber/6000000019835055044[Geni]
 * https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000385/franz-josef-kerber[MyHeritage]
 * https://www.werelate.org/wiki/Person:Franz_Kerber_%281%29[WeRelate]
 * WikiTree TBD
@@ -37,43 +36,37 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.P.Herbert_Kirkwood_Sparrell.adoc[Herbert Kirkwood Sparrell (1899 - 1978)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.PP.Charles_Herbert_Sparrell.adoc[Charles Herbert Sparrell (1873 - 1961)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.PPM.Louisa_K_Kerber.adoc[Louisa K Kerber (1852 - 1922)]
-* gen4.PPMP.Franz_Josef_Kerber_(1825_-_1873)
+* gen4.PPMP.Franz_Josef_Kerber_(1825 - 1873)
 
 
 == Other
 census: 
-----
-2 DATE 1860
-2 PLAC Ward 4 City Of Worcester, Worcester, Massachusetts, USA
-2 AGE 34-35
-----
 
+* DATE 1860
+
+* PLAC Ward 4 City Of Worcester, Worcester, Massachusetts, USA
+
+* AGE 34-35
 event:  Pleurisy
-----
-2 TYPE _DCAUSE
-----
 
+* TYPE _DCAUSE
 notes: Americanized his name from Franz Josef to Francis J. to Frank Joseph. His wife did the same, from Katerina to Catherine.
 occupation: Saloon Keeper - US Census
-----
-2 DATE 1860
-2 AGE 34-35
-----
-Saloon Keeper-82 Front St. Worcester
-----
-2 DATE 1862
-2 AGE 36-37
-----
-Smoked Meat Shop-Bartlett Place
-----
-2 DATE 1868
-2 AGE 42-43
-----
 
+* DATE 1860
+
+* AGE 34-35Saloon Keeper-82 Front St. Worcester
+
+* DATE 1862
+
+* AGE 36-37Smoked Meat Shop-Bartlett Place
+
+* DATE 1868
+
+* AGE 42-43
 residence: 
-----
-2 WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AFranz_Kerber_%281%29:
-----
 
+* WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AFranz_Kerber_%281%29:
 
 == Sources
+

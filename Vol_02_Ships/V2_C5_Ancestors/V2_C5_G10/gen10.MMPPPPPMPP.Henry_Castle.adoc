@@ -24,8 +24,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMPPPPPMPP.Henry_Castle.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0536[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0536http://localhost:4000/person?p=p0536https://cfsjksas.gigalixirapp.com/adoc?p=p0536http://localhost:4000/adoc?p=p0536* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -42,15 +41,15 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMPPPPP.Moses_Hurlburt.adoc[Moses Hurlburt (1714 - 1763)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMPPPPPM.Mary_Castle.adoc[Mary Castle (1678 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMPPPPPMP.Henry_Castle.adoc[Henry Castle (? - 1698)]
-* gen10.MMPPPPPMPP.Henry_Castle_(?_-_?)
+* gen10.MMPPPPPMPP.Henry_Castle_(? - ?)
 
 
 == Other
 event:  Residing with his son in Woodbury CT
-----
-2 TYPE Military Service
-2 DATE 1682
-----
 
+* TYPE Military Service
+
+* DATE 1682
 
 == Sources
+

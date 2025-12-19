@@ -22,13 +22,12 @@ Narrative TBD
 == Family
 * Mother: immigrant so Mom is NA
 * Father: immigrant so Dad is NA
-* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMMMPPP.Gideon_Comstock.adoc[Gideon Comstock (1628 - 1683)]
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMMMPPP.Daniel_Gideon_Comstock.adoc[Daniel Gideon Comstock (1628 - 1683)]
 
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMMMMPPPM.Elizabeth_Daniel.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0740[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0740http://localhost:4000/person?p=p0740https://cfsjksas.gigalixirapp.com/adoc?p=p0740http://localhost:4000/adoc?p=p0740* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -45,8 +44,8 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMMMM.Mary_Comstock.adoc[Mary Comstock (1743 - 1785)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMMMP.John_Comstock.adoc[John Comstock (1705 - 1743)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMMMPP.Daniel_Comstock.adoc[Daniel Comstock (1671 - 1746)]
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMMMPPP.Gideon_Comstock.adoc[Gideon Comstock (1628 - 1683)]
-* gen11.MMMMMMMPPPM.Elizabeth_Daniel_(1608_-_1665)
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMMMPPP.Daniel_Gideon_Comstock.adoc[Daniel Gideon Comstock (1628 - 1683)]
+* gen11.MMMMMMMPPPM.Elizabeth_Daniel_(1608 - 1665)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -59,10 +58,11 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMMMM.Mary_Comstock.adoc[Mary Comstock (1743 - 1785)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMMMP.John_Comstock.adoc[John Comstock (1705 - 1743)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMMMPP.Daniel_Comstock.adoc[Daniel Comstock (1671 - 1746)]
-* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMMMPPP.Gideon_Comstock.adoc[Gideon Comstock (1628 - 1683)]
-* gen11.MMMMMMMPPPM.Elizabeth_Daniel_(1608_-_1665)
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMMMPPP.Daniel_Gideon_Comstock.adoc[Daniel Gideon Comstock (1628 - 1683)]
+* gen11.MMMMMMMPPPM.Elizabeth_Daniel_(1608 - 1665)
 
 
 == Other
 
 == Sources
+

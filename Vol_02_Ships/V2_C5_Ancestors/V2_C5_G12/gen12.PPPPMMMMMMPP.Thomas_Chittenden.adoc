@@ -27,8 +27,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.PPPPMMMMMMPP.Thomas_Chittenden.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0222[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0222http://localhost:4000/person?p=p0222https://cfsjksas.gigalixirapp.com/adoc?p=p0222http://localhost:4000/adoc?p=p0222* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Thomas_Chittenden_%282%29[WeRelate]
 * WikiTree TBD
@@ -47,7 +46,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPMMMMM.Mary_Collamore.adoc[Mary Collamore (1667 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPPMMMMMM.Sarah_Chittenden.adoc[Sarah Chittenden (1647 - 1703)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPPMMMMMMP.Isaac_Chittenden.adoc[Isaac Chittenden (1625 - 1676)]
-* gen12.PPPPMMMMMMPP.Thomas_Chittenden_(1584_-_1669)
+* gen12.PPPPMMMMMMPP.Thomas_Chittenden_(1584 - 1669)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -63,16 +62,16 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPMMMMM.Mary_Collamore.adoc[Mary Collamore (1667 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPPMMMMMM.Sarah_Chittenden.adoc[Sarah Chittenden (1647 - 1703)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPPMMMMMMP.Isaac_Chittenden.adoc[Isaac Chittenden (1625 - 1676)]
-* gen12.PPPPMMMMMMPP.Thomas_Chittenden_(1584_-_1669)
+* gen12.PPPPMMMMMMPP.Thomas_Chittenden_(1584 - 1669)
 
 
 == Other
 emigration:  Sailed from Wapping in ship Increase
-----
-2 DATE APR 1635
-2 AGE About 50-51
-----
 
+* DATE APR 1635
+
+* AGE About 50-51
 occupation: Linen Weaver (in England)
 
 == Sources
+

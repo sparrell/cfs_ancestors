@@ -21,8 +21,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPMPM.Rebecca_Slack.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0946[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0946http://localhost:4000/person?p=p0946https://cfsjksas.gigalixirapp.com/adoc?p=p0946http://localhost:4000/adoc?p=p0946* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Rebecca_Slack_%282%29[WeRelate]
 * WikiTree TBD
@@ -36,7 +35,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MMMP.George_Washington_Edgecomb.adoc[George Washington Edgecomb (1826 - 1862)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMMPM.Bridget_Chesebrough.adoc[Bridget Chesebrough (1791 - 1857)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMPMP.Edward_Chesebrough.adoc[Edward Chesebrough (1766 - 1826)]
-* gen7.MMMPMPM.Rebecca_Slack_(1739_-_?)
+* gen7.MMMPMPM.Rebecca_Slack_(1739 - ?)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -46,18 +45,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MMMP.George_Washington_Edgecomb.adoc[George Washington Edgecomb (1826 - 1862)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMMPM.Bridget_Chesebrough.adoc[Bridget Chesebrough (1791 - 1857)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMPMP.Edward_Chesebrough.adoc[Edward Chesebrough (1766 - 1826)]
-* gen7.MMMPMPM.Rebecca_Slack_(1739_-_?)
+* gen7.MMMPMPM.Rebecca_Slack_(1739 - ?)
 
 
 == Other
-event:  920
-----
-2 TYPE Reference Number
-----
- 937
-----
-2 TYPE Reference Number
-----
-
 
 == Sources
+

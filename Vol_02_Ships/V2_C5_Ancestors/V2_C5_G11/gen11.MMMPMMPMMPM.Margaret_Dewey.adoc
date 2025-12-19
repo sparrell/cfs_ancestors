@@ -26,8 +26,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPMMPMMPM.Margaret_Dewey.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0601[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0601http://localhost:4000/person?p=p0601https://cfsjksas.gigalixirapp.com/adoc?p=p0601http://localhost:4000/adoc?p=p0601* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Margaret_Dewey_%282%29[WeRelate]
 * WikiTree TBD
@@ -45,7 +44,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPMMPM.Priscilla_Mason.adoc[Priscilla Mason (1691 - 1719)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMMPMM.Rebecca_Hobart.adoc[Rebecca Hobart (1654 - 1727)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMMPMMP.Peter_Hobart.adoc[Peter Hobart (1604 - 1679)]
-* gen11.MMMPMMPMMPM.Margaret_Dewey_(1574_-_1633)
+* gen11.MMMPMMPMMPM.Margaret_Dewey_(1574 - 1633)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -60,7 +59,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMPMMM.Rebecca_Mason.adoc[Rebecca Mason (1682 - 1742)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMMPMM.Rebecca_Hobart.adoc[Rebecca Hobart (1654 - 1727)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMMPMMP.Peter_Hobart.adoc[Peter Hobart (1604 - 1679)]
-* gen11.MMMPMMPMMPM.Margaret_Dewey_(1574_-_1633)
+* gen11.MMMPMMPMMPM.Margaret_Dewey_(1574 - 1633)
 
 === Lineage #3
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -75,7 +74,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMPMMM.Rebecca_Mason.adoc[Rebecca Mason (1682 - 1742)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMMPMM.Rebecca_Hobart.adoc[Rebecca Hobart (1654 - 1727)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMMPMMP.Peter_Hobart.adoc[Peter Hobart (1604 - 1679)]
-* gen11.MMMPMMPMMPM.Margaret_Dewey_(1574_-_1633)
+* gen11.MMMPMMPMMPM.Margaret_Dewey_(1574 - 1633)
 
 === Lineage #4
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -89,7 +88,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPMMPM.Priscilla_Mason.adoc[Priscilla Mason (1691 - 1719)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMMPMM.Rebecca_Hobart.adoc[Rebecca Hobart (1654 - 1727)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMMPMMP.Peter_Hobart.adoc[Peter Hobart (1604 - 1679)]
-* gen11.MMMPMMPMMPM.Margaret_Dewey_(1574_-_1633)
+* gen11.MMMPMMPMMPM.Margaret_Dewey_(1574 - 1633)
 
 === Lineage #5
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -104,7 +103,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMPMMM.Rebecca_Mason.adoc[Rebecca Mason (1682 - 1742)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMMPMM.Rebecca_Hobart.adoc[Rebecca Hobart (1654 - 1727)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMMPMMP.Peter_Hobart.adoc[Peter Hobart (1604 - 1679)]
-* gen11.MMMPMMPMMPM.Margaret_Dewey_(1574_-_1633)
+* gen11.MMMPMMPMMPM.Margaret_Dewey_(1574 - 1633)
 
 === Lineage #6
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -119,9 +118,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMPMMM.Rebecca_Mason.adoc[Rebecca Mason (1682 - 1742)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMMPMM.Rebecca_Hobart.adoc[Rebecca Hobart (1654 - 1727)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMMPMMP.Peter_Hobart.adoc[Peter Hobart (1604 - 1679)]
-* gen11.MMMPMMPMMPM.Margaret_Dewey_(1574_-_1633)
+* gen11.MMMPMMPMMPM.Margaret_Dewey_(1574 - 1633)
 
 
 == Other
 
 == Sources
+

@@ -22,8 +22,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMPPPMPP.Joseph_Booth.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0771[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0771http://localhost:4000/person?p=p0771https://cfsjksas.gigalixirapp.com/adoc?p=p0771http://localhost:4000/adoc?p=p0771* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Joseph_Booth_%282%29[WeRelate]
 * WikiTree TBD
@@ -38,9 +37,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMPPP.Wait_Hurlburt.adoc[Wait Hurlburt (1777 - 1852)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMPPPM.Rebecca_Booth.adoc[Rebecca Booth (1744 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMPPPMP.David_Booth.adoc[David Booth (1720 - 1753)]
-* gen8.MMPPPMPP.Joseph_Booth_(1689_-_1763)
+* gen8.MMPPPMPP.Joseph_Booth_(1689 - 1763)
 
 
 == Other
 
 == Sources
+

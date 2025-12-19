@@ -24,8 +24,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMPPP.Wait_Hurlburt.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0105[Dev website]
-* https://www.geni.com/people/Wait-Hurlburt/6000000219179990274[Geni]
+https://cfsjksas.gigalixirapp.com/person?p=p0105http://localhost:4000/person?p=p0105https://cfsjksas.gigalixirapp.com/adoc?p=p0105http://localhost:4000/adoc?p=p0105* https://www.geni.com/people/Wait-Hurlburt/6000000219179990274[Geni]
 * https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000334/wait-hurlburt[MyHeritage]
 * https://www.werelate.org/wiki/Person:Wait_Hurlburt_%281%29[WeRelate]
 * WikiTree TBD
@@ -37,15 +36,14 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.MM.Ida_A_Hurlburt.adoc[Ida A Hurlburt (1874 - 1965)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.MMP.Charles_Henry_Hurlburt.adoc[Charles Henry Hurlburt (1849 - 1930)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MMPP.Charles_S_Hurlburt.adoc[Charles S Hurlburt (1823 - 1886)]
-* gen5.MMPPP.Wait_Hurlburt_(1777_-_1852)
+* gen5.MMPPP.Wait_Hurlburt_(1777 - 1852)
 
 
 == Other
 event:  War of 1812 - See notes
-----
-2 TYPE Military Service
-----
 
+* TYPE Military Service
 notes: Waite was a sergeant in Captain Birney's Company of Dixon's Vermont Regiment in the War of 1812. He was wounded at the battle of Plattsburg.
 
 == Sources
+

@@ -10,19 +10,17 @@ Narrative TBD
 * Birth: 28 NOV 1737
 * Birthplace: Canterbury, Windham, Connecticutt.
 * Christening: 
-----
-2 DATE 13 JUL 1751
-2 PLAC Amenia, Dutchess, Ny
-2 AGE 13
-----
 
+* DATE 13 JUL 1751
+
+* PLAC Amenia, Dutchess, Ny
+
+* AGE 13
 * Death: 6 JUN 1822
 * Deathplace: Amenia, Dutchess, New York
 * Buried: 
-----
-2 PLAC Amenia, Dutchess, New York
-----
 
+* PLAC Amenia, Dutchess, New York
 * Age at Death: 84
 
 
@@ -36,8 +34,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPPMMP.Barnabas_Paine.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p1256[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p1256http://localhost:4000/person?p=p1256https://cfsjksas.gigalixirapp.com/adoc?p=p1256http://localhost:4000/adoc?p=p1256* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -51,18 +48,21 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PMPP.Elijah_Genubeth_Strong.adoc[Elijah Genubeth Strong (1818 - 1870)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.PMPPM.Lucy_Hannum.adoc[Lucy Hannum (1795 - 1856)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PMPPMM.Phoebe_Paine.adoc[Phoebe Paine (1762 - ?)]
-* gen7.PMPPMMP.Barnabas_Paine_(1737_-_1822)
+* gen7.PMPPMMP.Barnabas_Paine_(1737 - 1822)
 
 
 == Other
 
 == Sources
 * @S51@
-----
-2 PAGE Barnabas Paine
-2 QUAY 3
-2 DATA
-3 DATE 20 JAN 2019
-3 TEXT Added via a Person Discovery
-----
+
+* PAGE Barnabas Paine
+
+* QUAY 3
+
+* DATA
+
+* DATE 20 JAN 2019
+
+* TEXT Added via a Person Discovery
 

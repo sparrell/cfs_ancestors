@@ -21,8 +21,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMPMPPP.Jacob_Bennett.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0125[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0125http://localhost:4000/person?p=p0125https://cfsjksas.gigalixirapp.com/adoc?p=p0125http://localhost:4000/adoc?p=p0125* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Jacob_Bennett_%287%29[WeRelate]
 * WikiTree TBD
@@ -36,9 +35,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MMPM.Laura_Esther_Bennett.adoc[Laura Esther Bennett (1827 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMPMP.Jacob_Bennett.adoc[Jacob Bennett (1798 - 1830)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMPMPP.Jacob_Bennett.adoc[Jacob Bennett (1761 - ?)]
-* gen7.MMPMPPP.Jacob_Bennett_(1735_-_?)
+* gen7.MMPMPPP.Jacob_Bennett_(1735 - ?)
 
 
 == Other
 
 == Sources
+

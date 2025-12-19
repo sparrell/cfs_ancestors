@@ -24,8 +24,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPMMMM.Bridget_Miner.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0957[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0957http://localhost:4000/person?p=p0957https://cfsjksas.gigalixirapp.com/adoc?p=p0957http://localhost:4000/adoc?p=p0957* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Bridget_Miner_%281%29[WeRelate]
 * WikiTree TBD
@@ -40,7 +39,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMMPM.Bridget_Chesebrough.adoc[Bridget Chesebrough (1791 - 1857)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMPMM.Anna_Baldwin.adoc[Anna Baldwin (1768 - 1832)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPMMM.Bridget_Chesebrough.adoc[Bridget Chesebrough (1737 - 1818)]
-* gen8.MMMPMMMM.Bridget_Miner_(1711_-_1766)
+* gen8.MMMPMMMM.Bridget_Miner_(1711 - 1766)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -51,18 +50,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMMPM.Bridget_Chesebrough.adoc[Bridget Chesebrough (1791 - 1857)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMPMM.Anna_Baldwin.adoc[Anna Baldwin (1768 - 1832)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPMMM.Bridget_Chesebrough.adoc[Bridget Chesebrough (1737 - 1818)]
-* gen8.MMMPMMMM.Bridget_Miner_(1711_-_1766)
+* gen8.MMMPMMMM.Bridget_Miner_(1711 - 1766)
 
 
 == Other
-event:  930
-----
-2 TYPE Reference Number
-----
- 947
-----
-2 TYPE Reference Number
-----
-
 
 == Sources
+

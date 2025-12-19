@@ -28,8 +28,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PMPPPPPPPP.John_Strong.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0251[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0251http://localhost:4000/person?p=p0251https://cfsjksas.gigalixirapp.com/adoc?p=p0251http://localhost:4000/adoc?p=p0251* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:John_Strong_%282%29[WeRelate]
 * WikiTree TBD
@@ -46,32 +45,33 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPPPPP.David_Strong.adoc[David Strong (1704 - 1801)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPPPPPP.John_Strong.adoc[John Strong (1665 - 1749)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPPPPPPP.John_Strong.adoc[John Strong (1626 - 1698)]
-* gen10.PMPPPPPPPP.John_Strong_(1613_-_1699)
+* gen10.PMPPPPPPPP.John_Strong_(1613 - 1699)
 
 
 == Other
 emigration:  Ship "Hopewell"
-----
-2 DATE 1635
-2 AGE 21-22
-----
 
+* DATE 1635
+
+* AGE 21-22
 event:  _ELEC of Strong, John - Constable -Taunton MA
-----
-2 TYPE _ELEC
-2 DATE 1638
-2 PLAC Taunton, Bristol, Massachusetts, USA
-2 AGE 24-25
-----
 
-notes: Family Motto:  "Together we are Strong" <p></p>
+* TYPE _ELEC
+
+* DATE 1638
+
+* PLAC Taunton, Bristol, Massachusetts, USA
+
+* AGE 24-25
+notes: Family Motto:  "Together we are Strong" 
 occupation: Farmer, Leather tanner
 ordained: Ruling Elder -
-----
-2 DATE 1663
-2 PLAC Northampton, Hampshire, Massachusetts, USA
-2 AGE 49-50
-----
 
+* DATE 1663
+
+* PLAC Northampton, Hampshire, Massachusetts, USA
+
+* AGE 49-50
 
 == Sources
+

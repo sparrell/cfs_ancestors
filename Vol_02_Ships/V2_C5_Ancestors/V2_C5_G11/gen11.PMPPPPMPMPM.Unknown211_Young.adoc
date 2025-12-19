@@ -24,8 +24,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PMPPPPMPMPM.Unknown211_Young.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0539[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0539http://localhost:4000/person?p=p0539https://cfsjksas.gigalixirapp.com/adoc?p=p0539http://localhost:4000/adoc?p=p0539* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -43,9 +42,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPPPPMP.Moses_Loomis.adoc[Moses Loomis (1671 - 1754)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPPPPMPM.Elizabeth_Moore.adoc[Elizabeth Moore (1638 - 1728)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PMPPPPMPMP.John_Moore.adoc[John Moore (1614 - 1677)]
-* gen11.PMPPPPMPMPM.Unknown211_Young_(1588_-_?)
+* gen11.PMPPPPMPMPM.Unknown211_Young_(1588 - ?)
 
 
 == Other
 
 == Sources
+

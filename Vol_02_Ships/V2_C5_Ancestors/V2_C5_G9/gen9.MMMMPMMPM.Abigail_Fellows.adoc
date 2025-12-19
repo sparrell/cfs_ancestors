@@ -24,8 +24,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMMPM.Abigail_Fellows.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0445[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0445http://localhost:4000/person?p=p0445https://cfsjksas.gigalixirapp.com/adoc?p=p0445http://localhost:4000/adoc?p=p0445* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Abigail_Fellows_%288%29[WeRelate]
 * WikiTree TBD
@@ -41,7 +40,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMMPM.Lucy_Hall_Brewster.adoc[Lucy Hall Brewster (1773 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMPMM.Lucy_Hall.adoc[Lucy Hall (1750 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPMMP.Stephen_Hall.adoc[Stephen Hall (1721 - ?)]
-* gen9.MMMMPMMPM.Abigail_Fellows_(1701_-_1727)
+* gen9.MMMMPMMPM.Abigail_Fellows_(1701 - 1727)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -53,9 +52,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMMPM.Lucy_Hall_Brewster.adoc[Lucy Hall Brewster (1773 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMPMM.Lucy_Hall.adoc[Lucy Hall (1750 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPMMP.Stephen_Hall.adoc[Stephen Hall (1721 - ?)]
-* gen9.MMMMPMMPM.Abigail_Fellows_(1701_-_1727)
+* gen9.MMMMPMMPM.Abigail_Fellows_(1701 - 1727)
 
 
 == Other
 
 == Sources
+

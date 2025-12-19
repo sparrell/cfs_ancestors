@@ -27,8 +27,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPMMPMMMP.Joseph_Peck.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0010[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0010http://localhost:4000/person?p=p0010https://cfsjksas.gigalixirapp.com/adoc?p=p0010http://localhost:4000/adoc?p=p0010* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Joseph_Peck_%285%29[WeRelate]
 * WikiTree TBD
@@ -46,7 +45,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPMMPM.Priscilla_Mason.adoc[Priscilla Mason (1691 - 1719)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMMPMM.Rebecca_Hobart.adoc[Rebecca Hobart (1654 - 1727)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMMPMMM.Rebecca_Peck.adoc[Rebecca Peck (1620 - 1692)]
-* gen11.MMMPMMPMMMP.Joseph_Peck_(1587_-_1663)
+* gen11.MMMPMMPMMMP.Joseph_Peck_(1587 - 1663)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -61,7 +60,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMPMMM.Rebecca_Mason.adoc[Rebecca Mason (1682 - 1742)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMMPMM.Rebecca_Hobart.adoc[Rebecca Hobart (1654 - 1727)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMMPMMM.Rebecca_Peck.adoc[Rebecca Peck (1620 - 1692)]
-* gen11.MMMPMMPMMMP.Joseph_Peck_(1587_-_1663)
+* gen11.MMMPMMPMMMP.Joseph_Peck_(1587 - 1663)
 
 === Lineage #3
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -76,7 +75,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMPMMM.Rebecca_Mason.adoc[Rebecca Mason (1682 - 1742)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMMPMM.Rebecca_Hobart.adoc[Rebecca Hobart (1654 - 1727)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMMPMMM.Rebecca_Peck.adoc[Rebecca Peck (1620 - 1692)]
-* gen11.MMMPMMPMMMP.Joseph_Peck_(1587_-_1663)
+* gen11.MMMPMMPMMMP.Joseph_Peck_(1587 - 1663)
 
 === Lineage #4
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -90,7 +89,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPMMPM.Priscilla_Mason.adoc[Priscilla Mason (1691 - 1719)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMMPMM.Rebecca_Hobart.adoc[Rebecca Hobart (1654 - 1727)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMMPMMM.Rebecca_Peck.adoc[Rebecca Peck (1620 - 1692)]
-* gen11.MMMPMMPMMMP.Joseph_Peck_(1587_-_1663)
+* gen11.MMMPMMPMMMP.Joseph_Peck_(1587 - 1663)
 
 === Lineage #5
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -105,7 +104,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMPMMM.Rebecca_Mason.adoc[Rebecca Mason (1682 - 1742)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMMPMM.Rebecca_Hobart.adoc[Rebecca Hobart (1654 - 1727)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMMPMMM.Rebecca_Peck.adoc[Rebecca Peck (1620 - 1692)]
-* gen11.MMMPMMPMMMP.Joseph_Peck_(1587_-_1663)
+* gen11.MMMPMMPMMMP.Joseph_Peck_(1587 - 1663)
 
 === Lineage #6
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -120,16 +119,17 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMPMMM.Rebecca_Mason.adoc[Rebecca Mason (1682 - 1742)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMMPMM.Rebecca_Hobart.adoc[Rebecca Hobart (1654 - 1727)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMMPMMM.Rebecca_Peck.adoc[Rebecca Peck (1620 - 1692)]
-* gen11.MMMPMMPMMMP.Joseph_Peck_(1587_-_1663)
+* gen11.MMMPMMPMMMP.Joseph_Peck_(1587 - 1663)
 
 
 == Other
 immigration: Ship Diligent, Ipswich to Boston
-----
-2 DATE 1638
-2 PLAC Boston, Suffolk, Massachusetts, USA
-2 AGE 50-51
-----
 
+* DATE 1638
+
+* PLAC Boston, Suffolk, Massachusetts, USA
+
+* AGE 50-51
 
 == Sources
+

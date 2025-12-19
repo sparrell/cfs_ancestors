@@ -22,8 +22,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMPMPMPM.Esther_Ayers.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0541[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0541http://localhost:4000/person?p=p0541https://cfsjksas.gigalixirapp.com/adoc?p=p0541http://localhost:4000/adoc?p=p0541* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -38,9 +37,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMPMP.Jacob_Bennett.adoc[Jacob Bennett (1798 - 1830)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMPMPM.Mahala_Phillips.adoc[Mahala Phillips (1774 - 1852)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMPMPMP.Jonathan_Phillips.adoc[Jonathan Phillips (1723 - 1787)]
-* gen8.MMPMPMPM.Esther_Ayers_(1699_-_?)
+* gen8.MMPMPMPM.Esther_Ayers_(1699 - ?)
 
 
 == Other
 
 == Sources
+

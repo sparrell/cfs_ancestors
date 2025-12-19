@@ -21,8 +21,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPPMM.Esther_Stoddard.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0894[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0894http://localhost:4000/person?p=p0894https://cfsjksas.gigalixirapp.com/adoc?p=p0894http://localhost:4000/adoc?p=p0894* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Esther_Stoddard_%284%29[WeRelate]
 * WikiTree TBD
@@ -36,7 +35,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MMMP.George_Washington_Edgecomb.adoc[George Washington Edgecomb (1826 - 1862)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMMPP.Jabez_M_Edgecomb.adoc[Jabez M. Edgecomb (1791 - 1865)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMPPM.Esther_Morgan.adoc[Esther Morgan (1763 - 1843)]
-* gen7.MMMPPMM.Esther_Stoddard_(1740_-_?)
+* gen7.MMMPPMM.Esther_Stoddard_(1740 - ?)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -46,18 +45,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MMMP.George_Washington_Edgecomb.adoc[George Washington Edgecomb (1826 - 1862)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMMPP.Jabez_M_Edgecomb.adoc[Jabez M. Edgecomb (1791 - 1865)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMPPM.Esther_Morgan.adoc[Esther Morgan (1763 - 1843)]
-* gen7.MMMPPMM.Esther_Stoddard_(1740_-_?)
+* gen7.MMMPPMM.Esther_Stoddard_(1740 - ?)
 
 
 == Other
-event:  874
-----
-2 TYPE Reference Number
-----
- 889
-----
-2 TYPE Reference Number
-----
-
 
 == Sources
+

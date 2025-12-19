@@ -27,8 +27,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PMPMPMPPPP.Samuel_Chester.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0485[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0485http://localhost:4000/person?p=p0485https://cfsjksas.gigalixirapp.com/adoc?p=p0485http://localhost:4000/adoc?p=p0485* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -45,27 +44,25 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPMPMP.Joseph_Chester.adoc[Joseph Chester (1731 - 1804)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPMPMPP.John_Chester.adoc[John Chester (1692 - 1771)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPMPMPPP.Samuel_Chester.adoc[Samuel Chester (1660 - 1689)]
-* gen10.PMPMPMPPPP.Samuel_Chester_(1638_-_1710)
+* gen10.PMPMPMPPPP.Samuel_Chester_(1638 - 1710)
 
 
 == Other
 event:  Arrived New London CT from Boston
-----
-2 TYPE Fact 1
-2 DATE 1663
-2 PLAC New London, New London, Connecticut, USA
-2 AGE 24-25
-----
- See Notes
-----
-2 TYPE Fact 2
-----
- See Notes
-----
-2 TYPE Fact 5
-----
 
+* TYPE Fact 1
+
+* DATE 1663
+
+* PLAC New London, New London, Connecticut, USA
+
+* AGE 24-25 See Notes
+
+* TYPE Fact 2 See Notes
+
+* TYPE Fact 5
 notes: Samuel Chester was in the West Indies trade and in partnership with his nephew,William Condy, received a land grant for a warehouse in New London in 1664. He was much employed in land surveys, and in 1693 was one of the agents appointed by the general court of Connecticut to meet witha committee from Massachusetts to renew and settle the boundaries between the two colonies.
 occupation: Land surveyorMaster Mariner
 
 == Sources
+

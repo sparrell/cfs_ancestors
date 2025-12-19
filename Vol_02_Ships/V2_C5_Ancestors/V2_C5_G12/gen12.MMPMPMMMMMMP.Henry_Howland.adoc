@@ -10,20 +10,19 @@ Narrative TBD
 * Birth: 25 NOV 1604
 * Birthplace: Fenstanton, Huntingdonshire, England, UK
 * Christening: 
-----
-2 DATE 25 NOV 1604
-2 PLAC Fen Stanton, Huntingdonshire, England
-2 AGE 0
-----
 
+* DATE 25 NOV 1604
+
+* PLAC Fen Stanton, Huntingdonshire, England
+
+* AGE 0
 * Death: 17 JAN 1671
 * Deathplace: Duxbury, Plymouth, Massachusetts, USA
 * Buried: 
-----
-2 DATE ABT 20 JAN 1671
-2 PLAC Duxbury, Plymouth, Massachusetts Bay, British Colonial America
-----
 
+* DATE ABT 20 JAN 1671
+
+* PLAC Duxbury, Plymouth, Massachusetts Bay, British Colonial America
 * Age at Death: 66
 
 
@@ -40,8 +39,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.MMPMPMMMMMMP.Henry_Howland.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0033[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0033http://localhost:4000/person?p=p0033https://cfsjksas.gigalixirapp.com/adoc?p=p0033http://localhost:4000/adoc?p=p0033* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Henry_Howland_%2814%29[WeRelate]
 * WikiTree TBD
@@ -60,79 +58,84 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMPMPMMMM.Content_Smith.adoc[Content Smith (1680 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMPMPMMMMM.Mary_Young.adoc[Mary Young (1658 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMPMPMMMMMM.Abigail_Howland.adoc[Abigail Howland (1629 - 1692)]
-* gen12.MMPMPMMMMMMP.Henry_Howland_(1604_-_1671)
+* gen12.MMPMPMMMMMMP.Henry_Howland_(1604 - 1671)
 
 
 == Other
 event: 
-----
-2 TYPE Arrival
-2 DATE 1624
-2 PLAC Massachusetts
-2 AGE 19-20
-----
 
-----
-2 TYPE Civil
-2 PLAC Bristol County
-----
- Age: 29
-----
-2 TYPE Departure
-2 DATE 1632
-2 AGE 27-28
-----
- Quaker
-----
-2 TYPE Church
-----
+* TYPE Arrival
 
+* DATE 1624
+
+* PLAC Massachusetts
+
+* AGE 19-20
+
+* TYPE Civil
+
+* PLAC Bristol County Age: 29
+
+* TYPE Departure
+
+* DATE 1632
+
+* AGE 27-28 Quaker
+
+* TYPE Church
 immigration: to be with his brother John
-----
-2 DATE FEB 1633
-2 PLAC Plymouth, Plymouth, Massachusetts, United States
-2 AGE 28
-----
 
+* DATE FEB 1633
+
+* PLAC Plymouth, Plymouth, Massachusetts, United States
+
+* AGE 28
 notes: Henry was the brother of John Howland who came on the Mayflower
 occupation: Became Constable of Duxbury
-----
-2 DATE 5 JAN 1636
-2 AGE 31
-----
-Occupation: yeoman.constable and surveyor of highwaysdraper, constable, grand juror, road surveyor, farmer
+
+* DATE 5 JAN 1636
+
+* AGE 31Occupation: yeoman.constable and surveyor of highwaysdraper, constable, grand juror, road surveyor, farmer
 religion: Quaker
 residence: 
-----
-2 DATE 1635
-2 AGE 30-31
-2 ADDR
-3 ADR1 Dartmouth, Massachusetts, United States
-3 ADR2 Dartmouth, Massachusetts, United States
-----
 
-----
-2 DATE 1635
-2 AGE 30-31
-2 ADDR
-3 ADR1 Duxbury, Massachusetts, United States
-3 ADR2 Duxbury, Massachusetts, United States
-----
+* DATE 1635
 
-----
-2 DATE 1635
-2 AGE 30-31
-2 ADDR
-3 ADR1 New England
-3 ADR2 Dartmouth, Bristol, Massachusetts Bay, British Colonial America
-----
+* AGE 30-31
 
-----
-2 DATE 1635
-2 AGE 30-31
-2 ADDR
-3 ADR2 Duxbury, Plymouth, Massachusetts Bay, British Colonial America
-----
+* ADDR
 
+* ADR1 Dartmouth, Massachusetts, United States
+
+* ADR2 Dartmouth, Massachusetts, United States
+
+* DATE 1635
+
+* AGE 30-31
+
+* ADDR
+
+* ADR1 Duxbury, Massachusetts, United States
+
+* ADR2 Duxbury, Massachusetts, United States
+
+* DATE 1635
+
+* AGE 30-31
+
+* ADDR
+
+* ADR1 New England
+
+* ADR2 Dartmouth, Bristol, Massachusetts Bay, British Colonial America
+
+* DATE 1635
+
+* AGE 30-31
+
+* ADDR
+
+* ADR2 Duxbury, Plymouth, Massachusetts Bay, British Colonial America
 
 == Sources
+

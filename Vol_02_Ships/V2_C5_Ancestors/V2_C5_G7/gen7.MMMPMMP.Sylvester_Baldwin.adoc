@@ -24,8 +24,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPMMP.Sylvester_Baldwin.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0942[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0942http://localhost:4000/person?p=p0942https://cfsjksas.gigalixirapp.com/adoc?p=p0942http://localhost:4000/adoc?p=p0942* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Sylvester_Baldwin_%2816%29[WeRelate]
 * WikiTree TBD
@@ -39,7 +38,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MMMP.George_Washington_Edgecomb.adoc[George Washington Edgecomb (1826 - 1862)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMMPM.Bridget_Chesebrough.adoc[Bridget Chesebrough (1791 - 1857)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMPMM.Anna_Baldwin.adoc[Anna Baldwin (1768 - 1832)]
-* gen7.MMMPMMP.Sylvester_Baldwin_(1719_-_1795)
+* gen7.MMMPMMP.Sylvester_Baldwin_(1719 - 1795)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -49,9 +48,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MMMP.George_Washington_Edgecomb.adoc[George Washington Edgecomb (1826 - 1862)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMMPM.Bridget_Chesebrough.adoc[Bridget Chesebrough (1791 - 1857)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMPMM.Anna_Baldwin.adoc[Anna Baldwin (1768 - 1832)]
-* gen7.MMMPMMP.Sylvester_Baldwin_(1719_-_1795)
+* gen7.MMMPMMP.Sylvester_Baldwin_(1719 - 1795)
 
 
 == Other
 
 == Sources
+

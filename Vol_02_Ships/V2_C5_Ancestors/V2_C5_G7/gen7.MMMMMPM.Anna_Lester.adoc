@@ -12,10 +12,8 @@ Narrative TBD
 * Death: 7 SEP 1807
 * Deathplace: Groton, New London, Connecticut, USA
 * Buried: 
-----
-2 PLAC Ledyard Center Cemetery, Ledyard Center, New London, Connecticut, USA
-----
 
+* PLAC Ledyard Center Cemetery, Ledyard Center, New London, Connecticut, USA
 * Age at Death: 70
 
 
@@ -29,8 +27,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMMPM.Anna_Lester.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0945[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0945http://localhost:4000/person?p=p0945https://cfsjksas.gigalixirapp.com/adoc?p=p0945http://localhost:4000/adoc?p=p0945* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Anna_Lester_%283%29[WeRelate]
 * WikiTree TBD
@@ -44,7 +41,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MMMM.Sarah_Lavinia_Kimball.adoc[Sarah Lavinia Kimball (1830 - 1909)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMMMM.Lydia_Ann_Lester.adoc[Lydia Ann Lester (1802 - 1888)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMMMP.Amos_Lester.adoc[Amos Lester (1776 - 1842)]
-* gen7.MMMMMPM.Anna_Lester_(1736_-_1807)
+* gen7.MMMMMPM.Anna_Lester_(1736 - 1807)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -54,18 +51,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MMMM.Sarah_Lavinia_Kimball.adoc[Sarah Lavinia Kimball (1830 - 1909)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMMMM.Lydia_Ann_Lester.adoc[Lydia Ann Lester (1802 - 1888)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMMMP.Amos_Lester.adoc[Amos Lester (1776 - 1842)]
-* gen7.MMMMMPM.Anna_Lester_(1736_-_1807)
+* gen7.MMMMMPM.Anna_Lester_(1736 - 1807)
 
 
 == Other
-event:  92
-----
-2 TYPE Reference Number
-----
- 92
-----
-2 TYPE Reference Number
-----
-
 
 == Sources
+

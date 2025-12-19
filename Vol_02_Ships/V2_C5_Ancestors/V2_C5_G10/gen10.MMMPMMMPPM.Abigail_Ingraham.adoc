@@ -24,8 +24,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMMMPPM.Abigail_Ingraham.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0951[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0951http://localhost:4000/person?p=p0951https://cfsjksas.gigalixirapp.com/adoc?p=p0951http://localhost:4000/adoc?p=p0951* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Abigail_Ingraham_%286%29[WeRelate]
 * WikiTree TBD
@@ -43,7 +42,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPPMP.William_Satterlee.adoc[William Satterlee (1712 - 1752)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPPMPM.Anne_Avery.adoc[Anne Avery (1692 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPPMPMM.Abigail_Chesebrough.adoc[Abigail Chesebrough (1656 - ?)]
-* gen10.MMMPMMMPPM.Abigail_Ingraham_(1636_-_1698)
+* gen10.MMMPMMMPPM.Abigail_Ingraham_(1636 - 1698)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -56,7 +55,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPMMM.Bridget_Chesebrough.adoc[Bridget Chesebrough (1737 - 1818)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPMMMP.Jonathan_Chesebrough.adoc[Jonathan Chesebrough (1700 - 1764)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMMMPP.Samuel_Chesebrough.adoc[Samuel Chesebrough (1660 - 1735)]
-* gen10.MMMPMMMPPM.Abigail_Ingraham_(1636_-_1698)
+* gen10.MMMPMMMPPM.Abigail_Ingraham_(1636 - 1698)
 
 === Lineage #3
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -69,7 +68,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPMPM.Rebecca_Slack.adoc[Rebecca Slack (1739 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPMPMM.Abigail_Chesebrough.adoc[Abigail Chesebrough (1719 - 1769)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMPMMP.Elisha_Chesebrough.adoc[Elisha Chesebrough (1667 - 1727)]
-* gen10.MMMPMMMPPM.Abigail_Ingraham_(1636_-_1698)
+* gen10.MMMPMMMPPM.Abigail_Ingraham_(1636 - 1698)
 
 === Lineage #4
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -82,7 +81,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPMPP.Jedidiah_Chesebrough.adoc[Jedidiah Chesebrough (1738 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPMPPP.Jedidiah_Chesebrough.adoc[Jedidiah Chesebrough (1710 - 1760)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMPMMP.Elisha_Chesebrough.adoc[Elisha Chesebrough (1667 - 1727)]
-* gen10.MMMPMMMPPM.Abigail_Ingraham_(1636_-_1698)
+* gen10.MMMPMMMPPM.Abigail_Ingraham_(1636 - 1698)
 
 === Lineage #5
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -96,7 +95,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPPMP.William_Satterlee.adoc[William Satterlee (1712 - 1752)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPPMPM.Anne_Avery.adoc[Anne Avery (1692 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPPMPMM.Abigail_Chesebrough.adoc[Abigail Chesebrough (1656 - ?)]
-* gen10.MMMPMMMPPM.Abigail_Ingraham_(1636_-_1698)
+* gen10.MMMPMMMPPM.Abigail_Ingraham_(1636 - 1698)
 
 === Lineage #6
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -109,7 +108,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPMMM.Bridget_Chesebrough.adoc[Bridget Chesebrough (1737 - 1818)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPMMMP.Jonathan_Chesebrough.adoc[Jonathan Chesebrough (1700 - 1764)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMMMPP.Samuel_Chesebrough.adoc[Samuel Chesebrough (1660 - 1735)]
-* gen10.MMMPMMMPPM.Abigail_Ingraham_(1636_-_1698)
+* gen10.MMMPMMMPPM.Abigail_Ingraham_(1636 - 1698)
 
 === Lineage #7
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -122,7 +121,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPMPM.Rebecca_Slack.adoc[Rebecca Slack (1739 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPMPMM.Abigail_Chesebrough.adoc[Abigail Chesebrough (1719 - 1769)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMPMMP.Elisha_Chesebrough.adoc[Elisha Chesebrough (1667 - 1727)]
-* gen10.MMMPMMMPPM.Abigail_Ingraham_(1636_-_1698)
+* gen10.MMMPMMMPPM.Abigail_Ingraham_(1636 - 1698)
 
 === Lineage #8
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -135,18 +134,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPMPP.Jedidiah_Chesebrough.adoc[Jedidiah Chesebrough (1738 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPMPPP.Jedidiah_Chesebrough.adoc[Jedidiah Chesebrough (1710 - 1760)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMPMMP.Elisha_Chesebrough.adoc[Elisha Chesebrough (1667 - 1727)]
-* gen10.MMMPMMMPPM.Abigail_Ingraham_(1636_-_1698)
+* gen10.MMMPMMMPPM.Abigail_Ingraham_(1636 - 1698)
 
 
 == Other
-event:  925
-----
-2 TYPE Reference Number
-----
- 942
-----
-2 TYPE Reference Number
-----
-
 
 == Sources
+

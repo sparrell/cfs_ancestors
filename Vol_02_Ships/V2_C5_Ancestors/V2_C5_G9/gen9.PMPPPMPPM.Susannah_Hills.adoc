@@ -24,8 +24,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPPPMPPM.Susannah_Hills.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0310[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0310http://localhost:4000/person?p=p0310https://cfsjksas.gigalixirapp.com/adoc?p=p0310http://localhost:4000/adoc?p=p0310* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -41,9 +40,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PMPPPM.Lucy_Kilbourn.adoc[Lucy Kilbourn (? - 1825)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPPPMP.Benjamin_Kilbourn.adoc[Benjamin Kilbourn (1730 - 1817)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPPPMPP.Ebenezer_Kilbourn.adoc[Ebenezer Kilbourn (1679 - 1732)]
-* gen9.PMPPPMPPM.Susannah_Hills_(1651_-_1701)
+* gen9.PMPPPMPPM.Susannah_Hills_(1651 - 1701)
 
 
 == Other
 
 == Sources
+

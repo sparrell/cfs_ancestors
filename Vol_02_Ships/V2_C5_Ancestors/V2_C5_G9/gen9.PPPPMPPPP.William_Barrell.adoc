@@ -12,10 +12,8 @@ Narrative TBD
 * Death: 7 NOV 1689
 * Deathplace: Scituate, Plymouth, Massachusetts, USA
 * Buried:  Old South Parish churchyard, Norwell
-----
-2 PLAC Old South Parish churchyard, Norwell, Old South Parish churchyard, Norwell
-----
 
+* PLAC Old South Parish churchyard, Norwell, Old South Parish churchyard, Norwell
 * Age at Death: 35
 
 
@@ -29,8 +27,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPMPPPP.William_Barrell.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0442[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0442http://localhost:4000/person?p=p0442https://cfsjksas.gigalixirapp.com/adoc?p=p0442http://localhost:4000/adoc?p=p0442* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:William_Barrell_%283%29[WeRelate]
 * WikiTree TBD
@@ -46,33 +43,32 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PPPPMP.James_Barrell.adoc[James Barrell (1751 - 1801)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPPMPP.James_Barrell.adoc[James Barrell (1727 - 1827)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPPMPPP.William_Barrell.adoc[William Barrell (1683 - 1752)]
-* gen9.PPPPMPPPP.William_Barrell_(1654_-_1689)
+* gen9.PPPPMPPPP.William_Barrell_(1654 - 1689)
 
 
 == Other
 event: 
-----
-2 TYPE Freeman
-2 DATE JUN 1689
-2 AGE 34
-----
- Re-elected 1688, 1689
-----
-2 TYPE Selectman
-2 DATE 1687
-2 AGE 32-33
-----
- Sergeant - militia company
-----
-2 TYPE Military Service
-----
- _ELEC of Barrell, William - Constable
-----
-2 TYPE _ELEC
-2 DATE 1682
-2 AGE 27-28
-----
 
+* TYPE Freeman
+
+* DATE JUN 1689
+
+* AGE 34 Re-elected 1688, 1689
+
+* TYPE Selectman
+
+* DATE 1687
+
+* AGE 32-33 Sergeant - militia company
+
+* TYPE Military Service _ELEC of Barrell, William - Constable
+
+* TYPE _ELEC
+
+* DATE 1682
+
+* AGE 27-28
 occupation: Blacksmith
 
 == Sources
+
