@@ -21,8 +21,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.PMPMP.William_Patten_Whaley.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0050[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0050http://localhost:4000/person?p=p0050https://cfsjksas.gigalixirapp.com/adoc?p=p0050http://localhost:4000/adoc?p=p0050* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:William_Whaley_%2817%29[WeRelate]
 * WikiTree TBD
@@ -34,15 +33,15 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.PM.Lavinia_Elizabeth_Strong.adoc[Lavinia Elizabeth Strong (1875 - 1941)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.PMP.Albert_Randolph_Strong.adoc[Albert Randolph Strong (1845 - 1920)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PMPM.Elizabeth_Shaw_Whaley.adoc[Elizabeth Shaw Whaley (1813 - 1870)]
-* gen5.PMPMP.William_Patten_Whaley_(1786_-_?)
+* gen5.PMPMP.William_Patten_Whaley_(1786 - ?)
 
 
 == Other
 occupation: A farmer at Uncasville CT (census)
-----
-2 DATE 1840
-2 AGE 53-54
-----
 
+* DATE 1840
+
+* AGE 53-54
 
 == Sources
+

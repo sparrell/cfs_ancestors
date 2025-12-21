@@ -15,17 +15,16 @@ Narrative TBD
 
 
 == Family
-* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMMPMPM.Mary_Unknown083.adoc[Mary Unknown083 (? - 1671)]
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMMPMPM.Mary_Unknown083.adoc[Mary Unknown083-* (? - 1671)]
 
-* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMMPMPP.Ephraim_Fellows.adoc[Ephraim Fellows (1640 - 1671)]
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMMPMPP.Ephraim_Fellows.adoc[Ephraim Fellows (1640 - 1713)]
 
 * Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMMPM.Abigail_Fellows.adoc[Abigail Fellows (1701 - 1727)]
 
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMMPMP.John_Fellows.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0446[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0446http://localhost:4000/person?p=p0446https://cfsjksas.gigalixirapp.com/adoc?p=p0446http://localhost:4000/adoc?p=p0446* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -42,7 +41,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMPMM.Lucy_Hall.adoc[Lucy Hall (1750 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPMMP.Stephen_Hall.adoc[Stephen Hall (1721 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMMPM.Abigail_Fellows.adoc[Abigail Fellows (1701 - 1727)]
-* gen10.MMMMPMMPMP.John_Fellows_(1668_-_1748)
+* gen10.MMMMPMMPMP.John_Fellows_(1668 - 1748)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -55,28 +54,34 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMPMM.Lucy_Hall.adoc[Lucy Hall (1750 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPMMP.Stephen_Hall.adoc[Stephen Hall (1721 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMMPM.Abigail_Fellows.adoc[Abigail Fellows (1701 - 1727)]
-* gen10.MMMMPMMPMP.John_Fellows_(1668_-_1748)
+* gen10.MMMMPMMPMP.John_Fellows_(1668 - 1748)
 
 
 == Other
 event:  Sergeant of Militia
-----
-2 TYPE Military Service
-----
- _ELEC of Fellows, John - Delegate to General Court for Plainfield
-----
-2 TYPE _ELEC
-2 DATE 1708
-2 AGE About 39-40
-----
 
+* TYPE Military Service _ELEC of Fellows, John - Delegate to General Court for Plainfield
+
+* TYPE _ELEC
+
+* DATE 1708
+
+* AGE About 39-40
 
 == Sources
 * @S30@
-----
-2 PAGE http://www.myheritage.com/research/collection-10013/find-a-grave?s=20674952&itemId=338713505-&action=showRecord&indId=individual-20674952-15000864
-2 QUAY 4
-2 DATA
-3 TEXT <p>John Fellows<br />Birth: Oct 20 1668<br />Death: Oct 20 1748<br />Cemetery: Old Plainfield Cemetery, Connecticut, USA</p>
-----
+
+* PAGE http://www.myheritage.com/research/collection-10013/find-a-grave?s=20674952&itemId=338713505-&action=showRecord&indId=individual-20674952-15000864
+
+* QUAY 4
+
+* DATA
+
+* TEXT John Fellows
+
+Birth: Oct 20 1668
+
+Death: Oct 20 1748
+
+Cemetery: Old Plainfield Cemetery, Connecticut, USA
 

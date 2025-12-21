@@ -27,8 +27,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.MMMPPMPMPMMP.Richard_Treat.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0482[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0482http://localhost:4000/person?p=p0482https://cfsjksas.gigalixirapp.com/adoc?p=p0482http://localhost:4000/adoc?p=p0482* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -48,7 +47,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMMMMM.Sarah_Morgan.adoc[Sarah Morgan (1678 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPMPMPM.Rachel_Deming.adoc[Rachel Deming (1644 - 1689)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPMPMPMM.Honor_Treat.adoc[Honor Treat (1617 - 1705)]
-* gen12.MMMPPMPMPMMP.Richard_Treat_(1584_-_1669)
+* gen12.MMMPPMPMPMMP.Richard_Treat_(1584 - 1669)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -63,7 +62,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPMPMP.John_Morgan.adoc[John Morgan (1667 - 1748)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPMPMPM.Rachel_Deming.adoc[Rachel Deming (1644 - 1689)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPMPMPMM.Honor_Treat.adoc[Honor Treat (1617 - 1705)]
-* gen12.MMMPPMPMPMMP.Richard_Treat_(1584_-_1669)
+* gen12.MMMPPMPMPMMP.Richard_Treat_(1584 - 1669)
 
 === Lineage #3
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -79,7 +78,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMMMMM.Sarah_Morgan.adoc[Sarah Morgan (1678 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPMPMPM.Rachel_Deming.adoc[Rachel Deming (1644 - 1689)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPMPMPMM.Honor_Treat.adoc[Honor Treat (1617 - 1705)]
-* gen12.MMMPPMPMPMMP.Richard_Treat_(1584_-_1669)
+* gen12.MMMPPMPMPMMP.Richard_Treat_(1584 - 1669)
 
 === Lineage #4
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -94,7 +93,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPMPMP.John_Morgan.adoc[John Morgan (1667 - 1748)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPMPMPM.Rachel_Deming.adoc[Rachel Deming (1644 - 1689)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPMPMPMM.Honor_Treat.adoc[Honor Treat (1617 - 1705)]
-* gen12.MMMPPMPMPMMP.Richard_Treat_(1584_-_1669)
+* gen12.MMMPPMPMPMMP.Richard_Treat_(1584 - 1669)
 
 === Lineage #5
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -109,16 +108,17 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPMPMP.John_Morgan.adoc[John Morgan (1667 - 1748)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPMPMPM.Rachel_Deming.adoc[Rachel Deming (1644 - 1689)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPMPMPMM.Honor_Treat.adoc[Honor Treat (1617 - 1705)]
-* gen12.MMMPPMPMPMMP.Richard_Treat_(1584_-_1669)
+* gen12.MMMPPMPMPMMP.Richard_Treat_(1584 - 1669)
 
 
 == Other
 event:  Assistant- Conn. Colony
-----
-2 TYPE _ELEC
-2 DATE 1658
-2 AGE About 73-74
-----
 
+* TYPE _ELEC
+
+* DATE 1658
+
+* AGE About 73-74
 
 == Sources
+

@@ -27,8 +27,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PMPPPPMMPP.Giles_Gibbs.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0243[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0243http://localhost:4000/person?p=p0243https://cfsjksas.gigalixirapp.com/adoc?p=p0243http://localhost:4000/adoc?p=p0243* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Giles_Gibbs_%281%29[WeRelate]
 * WikiTree TBD
@@ -45,38 +44,35 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPPPPM.Thankful_Loomis.adoc[Thankful Loomis (1709 - 1771)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPPPPMM.Joanna_Gibbs.adoc[Joanna Gibbs (1671 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPPPPMMP.Samuel_Gibbs.adoc[Samuel Gibbs (1633 - 1716)]
-* gen10.PMPPPPMMPP.Giles_Gibbs_(1600_-_1641)
+* gen10.PMPPPPMMPP.Giles_Gibbs_(1600 - 1641)
 
 
 == Other
 emigration:  Freeman, Dorchester MA
-----
-2 DATE 4 MAR 1633
-2 AGE About 32-33
-----
- Ship "Mary and John", Plymouth, Devon to Nantasket MA
-----
-2 DATE 1630
-2 AGE About 29-30
-----
 
+* DATE 4 MAR 1633
+
+* AGE About 32-33 Ship "Mary and John", Plymouth, Devon to Nantasket MA
+
+* DATE 1630
+
+* AGE About 29-30
 event:  Moves to Windsor CT
-----
-2 TYPE Fact 4
-2 DATE 1636
-2 AGE About 35-36
-----
- Selectman Dorchester
-----
-2 TYPE Fact 2
-2 DATE 28 OCT 1634
-2 AGE About 33-34
-----
- Selectman Dorchester
-----
-2 TYPE Fact 5
-----
 
+* TYPE Fact 4
+
+* DATE 1636
+
+* AGE About 35-36 Selectman Dorchester
+
+* TYPE Fact 2
+
+* DATE 28 OCT 1634
+
+* AGE About 33-34 Selectman Dorchester
+
+* TYPE Fact 5
 notes: In the years after Giles Gibbs died, his children were often in court for unacceptable behavior. See more about Samuel Gibbs.
 
 == Sources
+

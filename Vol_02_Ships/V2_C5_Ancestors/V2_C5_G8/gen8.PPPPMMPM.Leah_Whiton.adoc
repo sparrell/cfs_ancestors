@@ -22,8 +22,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPPMMPM.Leah_Whiton.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0168[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0168http://localhost:4000/person?p=p0168https://cfsjksas.gigalixirapp.com/adoc?p=p0168http://localhost:4000/adoc?p=p0168* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Leah_Whiton_%281%29[WeRelate]
 * WikiTree TBD
@@ -38,23 +37,13 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.PPPPM.Desire_Sparrell.adoc[Desire Sparrell (1798 - 1872)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PPPPMM.Martha_Farrow.adoc[Martha Farrow (1754 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPPMMP.Thomas_Farrow.adoc[Thomas Farrow (1721 - ?)]
-* gen8.PPPPMMPM.Leah_Whiton_(1693_-_?)
+* gen8.PPPPMMPM.Leah_Whiton_(1693 - ?)
 
 
 == Other
-event:  194
-----
-2 TYPE Reference Number
-----
- 194
-----
-2 TYPE Reference Number
-----
-
 residence: 
-----
-2 WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3ALeah_Whiton_%281%29:
-----
 
+* WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3ALeah_Whiton_%281%29:
 
 == Sources
+

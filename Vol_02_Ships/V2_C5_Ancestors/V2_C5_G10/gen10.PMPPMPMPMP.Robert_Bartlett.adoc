@@ -25,8 +25,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PMPPMPMPMP.Robert_Bartlett.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0665[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0665http://localhost:4000/person?p=p0665https://cfsjksas.gigalixirapp.com/adoc?p=p0665http://localhost:4000/adoc?p=p0665* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -43,9 +42,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPPMPM.Abiah_Cowles.adoc[Abiah Cowles (1722 - 1796)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPPMPMP.Jonathan_Cowles.adoc[Jonathan Cowles (1671 - 1756)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPPMPMPM.Deborah_Bartlett.adoc[Deborah Bartlett (1647 - 1711)]
-* gen10.PMPPMPMPMP.Robert_Bartlett_(?_-_1676)
+* gen10.PMPPMPMPMP.Robert_Bartlett_(? - 1676)
 
 
 == Other
 
 == Sources
+

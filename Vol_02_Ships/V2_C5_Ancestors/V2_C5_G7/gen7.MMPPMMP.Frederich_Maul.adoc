@@ -22,8 +22,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMPPMMP.Frederich_Maul.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p1301[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p1301http://localhost:4000/person?p=p1301https://cfsjksas.gigalixirapp.com/adoc?p=p1301http://localhost:4000/adoc?p=p1301* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -37,9 +36,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MMPP.Charles_S_Hurlburt.adoc[Charles S Hurlburt (1823 - 1886)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMPPM.Charity_Schufeldt.adoc[Charity Schufeldt (1792 - 1851)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMPPMM.Elisabeth_Maul.adoc[Elisabeth Maul (1769 - 1852)]
-* gen7.MMPPMMP.Frederich_Maul_(1740_-_1821)
+* gen7.MMPPMMP.Frederich_Maul_(1740 - 1821)
 
 
 == Other
 
 == Sources
+

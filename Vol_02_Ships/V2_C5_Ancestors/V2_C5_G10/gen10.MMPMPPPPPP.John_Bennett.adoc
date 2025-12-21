@@ -29,8 +29,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMPMPPPPPP.John_Bennett.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0129[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0129http://localhost:4000/person?p=p0129https://cfsjksas.gigalixirapp.com/adoc?p=p0129http://localhost:4000/adoc?p=p0129* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -47,34 +46,35 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMPMPPP.Jacob_Bennett.adoc[Jacob Bennett (1735 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMPMPPPP.Issac_Bennett.adoc[Issac Bennett (1705 - 1783)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMPMPPPPP.John_Bennett.adoc[John Bennett (1666 - 1745)]
-* gen10.MMPMPPPPPP.John_Bennett_(1630_-_1691)
+* gen10.MMPMPPPPPP.John_Bennett_(1630 - 1691)
 
 
 == Other
 event:  Soldier - King Phillip's War
-----
-2 TYPE Military Service
-2 DATE 1676
-2 AGE About 45-46
-----
- Surveyor and Collector of Taxes
-----
-2 TYPE Appointed
-2 DATE 1670
-2 AGE About 39-40
-----
- _ELEC of Bennett, John - Constable until 1667
-----
-2 TYPE _ELEC
-2 DATE 1664
-2 AGE About 33-34
-----
- _ELEC of Bennett, John - Overseer of Highways to 1669
-----
-2 TYPE _ELEC
-2 DATE 1668
-2 AGE About 37-38
-----
 
+* TYPE Military Service
+
+* DATE 1676
+
+* AGE About 45-46 Surveyor and Collector of Taxes
+
+* TYPE Appointed
+
+* DATE 1670
+
+* AGE About 39-40 _ELEC of Bennett, John - Constable until 1667
+
+* TYPE _ELEC
+
+* DATE 1664
+
+* AGE About 33-34 _ELEC of Bennett, John - Overseer of Highways to 1669
+
+* TYPE _ELEC
+
+* DATE 1668
+
+* AGE About 37-38
 
 == Sources
+

@@ -21,8 +21,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PPPPMM.Martha_Farrow.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0387[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0387http://localhost:4000/person?p=p0387https://cfsjksas.gigalixirapp.com/adoc?p=p0387http://localhost:4000/adoc?p=p0387* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Martha_Farrow_%284%29[WeRelate]
 * WikiTree TBD
@@ -35,14 +34,13 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.PPP.Herbert_Kirkwood_Sparrell.adoc[Herbert Kirkwood Sparrell (1847 - 1923)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PPPP.James_Newton_Sparrell.adoc[James Newton Sparrell (1825 - 1877)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.PPPPM.Desire_Sparrell.adoc[Desire Sparrell (1798 - 1872)]
-* gen6.PPPPMM.Martha_Farrow_(1754_-_?)
+* gen6.PPPPMM.Martha_Farrow_(1754 - ?)
 
 
 == Other
 residence: 
-----
-2 WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AMartha_Farrow_%284%29:
-----
 
+* WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AMartha_Farrow_%284%29:
 
 == Sources
+

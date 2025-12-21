@@ -24,8 +24,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PMPPMPPMMP.John_Bridgman.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0619[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0619http://localhost:4000/person?p=p0619https://cfsjksas.gigalixirapp.com/adoc?p=p0619http://localhost:4000/adoc?p=p0619* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:John_Bridgman_%281%29[WeRelate]
 * WikiTree TBD
@@ -42,9 +41,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPPMPP.Gideon_Hannum.adoc[Gideon Hannum (1727 - 1786)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPPMPPM.Mary_Hutchinson.adoc[Mary Hutchinson (1699 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPPMPPMM.Mary_Bridgman.adoc[Mary Bridgman (1672 - 1741)]
-* gen10.PMPPMPPMMP.John_Bridgman_(1645_-_1712)
+* gen10.PMPPMPPMMP.John_Bridgman_(1645 - 1712)
 
 
 == Other
 
 == Sources
+

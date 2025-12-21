@@ -27,8 +27,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPMMPPMM.Rebecca_Short.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0323[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0323http://localhost:4000/person?p=p0323https://cfsjksas.gigalixirapp.com/adoc?p=p0323http://localhost:4000/adoc?p=p0323* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Rebecca_Short_%281%29[WeRelate]
 * WikiTree TBD
@@ -46,7 +45,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMMPM.Elizabeth_Billings.adoc[Elizabeth Billings (1713 - 1791)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMMPMM.Hannah_Sterry.adoc[Hannah Sterry (1672 - 1738)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMMPMMM.Hannah_Palmer.adoc[Hannah Palmer (1635 - ?)]
-* gen10.MMMPMMPPMM.Rebecca_Short_(1610_-_1671)
+* gen10.MMMPMMPPMM.Rebecca_Short_(1610 - 1671)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -59,7 +58,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPMMP.Sylvester_Baldwin.adoc[Sylvester Baldwin (1719 - 1795)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPMMPP.Theophilus_Baldwin.adoc[Theophilus Baldwin (1683 - 1727)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMMPPM.Rebecca_Palmer.adoc[Rebecca Palmer (1646 - 1713)]
-* gen10.MMMPMMPPMM.Rebecca_Short_(1610_-_1671)
+* gen10.MMMPMMPPMM.Rebecca_Short_(1610 - 1671)
 
 === Lineage #3
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -73,7 +72,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMMPM.Elizabeth_Billings.adoc[Elizabeth Billings (1713 - 1791)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMMPMM.Hannah_Sterry.adoc[Hannah Sterry (1672 - 1738)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMMPMMM.Hannah_Palmer.adoc[Hannah Palmer (1635 - ?)]
-* gen10.MMMPMMPPMM.Rebecca_Short_(1610_-_1671)
+* gen10.MMMPMMPPMM.Rebecca_Short_(1610 - 1671)
 
 === Lineage #4
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -86,27 +85,26 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPMMP.Sylvester_Baldwin.adoc[Sylvester Baldwin (1719 - 1795)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPMMPP.Theophilus_Baldwin.adoc[Theophilus Baldwin (1683 - 1727)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPMMPPM.Rebecca_Palmer.adoc[Rebecca Palmer (1646 - 1713)]
-* gen10.MMMPMMPPMM.Rebecca_Short_(1610_-_1671)
+* gen10.MMMPMMPPMM.Rebecca_Short_(1610 - 1671)
 
 
 == Other
 emigration:  Arr. Dorchester MA as servant
-----
-2 DATE 1632
-2 PLAC Dorchester, Boston, Suffolk, Massachusetts, USA
-2 AGE About 21-22
-----
 
+* DATE 1632
+
+* PLAC Dorchester, Boston, Suffolk, Massachusetts, USA
+
+* AGE About 21-22
 event:  2nd wife of Walter Palmer
-----
-2 TYPE Fact 2
-----
- Member of Roxbury Church
-----
-2 TYPE Church
-2 DATE 1632
-2 AGE About 21-22
-----
 
+* TYPE Fact 2 Member of Roxbury Church
+
+* TYPE Church
+
+* DATE 1632
+
+* AGE About 21-22
 
 == Sources
+

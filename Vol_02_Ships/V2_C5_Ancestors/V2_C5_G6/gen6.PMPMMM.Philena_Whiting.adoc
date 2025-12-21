@@ -10,12 +10,12 @@ Narrative TBD
 * Birth: BEF 22 MAY 1743
 * Birthplace: Newport, Newport, Rhode Island, USA
 * Baptism: 
-----
-2 DATE 22 MAY 1743
-2 PLAC Newport, Newport, Rhode Island, USA
-2 AGE About 0
-----
 
+* DATE 22 MAY 1743
+
+* PLAC Newport, Newport, Rhode Island, USA
+
+* AGE About 0
 * Death: 12 APR 1781
 * Deathplace: New London, New London, Connecticut, USA
 * Age at Death: About 37
@@ -31,8 +31,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PMPMMM.Philena_Whiting.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0081[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0081http://localhost:4000/person?p=p0081https://cfsjksas.gigalixirapp.com/adoc?p=p0081http://localhost:4000/adoc?p=p0081* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Philena_Whiting_%281%29[WeRelate]
 * WikiTree TBD
@@ -45,9 +44,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.PMP.Albert_Randolph_Strong.adoc[Albert Randolph Strong (1845 - 1920)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PMPM.Elizabeth_Shaw_Whaley.adoc[Elizabeth Shaw Whaley (1813 - 1870)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.PMPMM.Philena_Haughton.adoc[Philena Haughton (1776 - ?)]
-* gen6.PMPMMM.Philena_Whiting_(1743_-_1781)
+* gen6.PMPMMM.Philena_Whiting_(1743 - 1781)
 
 
 == Other
 
 == Sources
+

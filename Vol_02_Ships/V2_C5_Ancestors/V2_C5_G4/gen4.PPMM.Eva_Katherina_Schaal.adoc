@@ -29,8 +29,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PPMM.Eva_Katherina_Schaal.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0153[Dev website]
-* https://www.geni.com/people/Catharine-Kerber/6000000019834512933[Geni]
+https://cfsjksas.gigalixirapp.com/person?p=p0153http://localhost:4000/person?p=p0153https://cfsjksas.gigalixirapp.com/adoc?p=p0153http://localhost:4000/adoc?p=p0153* https://www.geni.com/people/Catharine-Kerber/6000000019834512933[Geni]
 * https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000387/eva-katherina-schaal-kerber[MyHeritage]
 * https://www.werelate.org/wiki/Person:Eva_Schaal_%281%29[WeRelate]
 * WikiTree TBD
@@ -41,41 +40,40 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.P.Herbert_Kirkwood_Sparrell.adoc[Herbert Kirkwood Sparrell (1899 - 1978)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.PP.Charles_Herbert_Sparrell.adoc[Charles Herbert Sparrell (1873 - 1961)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.PPM.Louisa_K_Kerber.adoc[Louisa K Kerber (1852 - 1922)]
-* gen4.PPMM.Eva_Katherina_Schaal_(1828_-_1902)
+* gen4.PPMM.Eva_Katherina_Schaal_(1828 - 1902)
 
 
 == Other
 census: 
-----
-2 DATE 1860
-2 PLAC Ward 4 City Of Worcester, Worcester, Massachusetts, USA
-2 AGE 31-32
-----
 
+* DATE 1860
+
+* PLAC Ward 4 City Of Worcester, Worcester, Massachusetts, USA
+
+* AGE 31-32
 emigration: 
-----
-2 DATE 1848
-2 AGE 19-20
-----
 
+* DATE 1848
+
+* AGE 19-20
 naturalized: 
-----
-2 DATE 1851
-2 AGE 22-23
-----
 
-notes: <p><p>Americanized her name from Eva Katherina to Catherine. 1880 US census listed as Catherine, widow, occupation - "dining rooms", resident of Worcester.</p></p><p><p>&nbsp;</p></p><p>Wertheim is located on the south bank of the River Main in what is now the German state of Baden-Wertumberg.</p>
+* DATE 1851
+
+* AGE 22-23
+notes: Americanized her name from Eva Katherina to Catherine. 1880 US census listed as Catherine, widow, occupation - "dining rooms", resident of Worcester.
+
+Wertheim is located on the south bank of the River Main in what is now the German state of Baden-Wertumberg.
 occupation: Landlady in Worcester (US Census)
-----
-2 DATE 1900
-2 PLAC Worcester, Worcester, Massachusetts, USA
-2 AGE 71-72
-----
 
+* DATE 1900
+
+* PLAC Worcester, Worcester, Massachusetts, USA
+
+* AGE 71-72
 residence: 
-----
-2 WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AEva_Schaal_%281%29:
-----
 
+* WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AEva_Schaal_%281%29:
 
 == Sources
+

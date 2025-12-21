@@ -15,7 +15,7 @@ Narrative TBD
 
 
 == Family
-* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPPMM.Mary_Powers.adoc[Mary Powers (? - ?)]
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPPMM.Mary_Powers.adoc[Mary Powers (? - 1785)]
 
 * Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMPPMP.William_Satterlee.adoc[William Satterlee (1712 - 1752)]
 
@@ -24,8 +24,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMPPM.Mary_Satterlee.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0813[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0813http://localhost:4000/person?p=p0813https://cfsjksas.gigalixirapp.com/adoc?p=p0813http://localhost:4000/adoc?p=p0813* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Mary_Satterlee_%284%29[WeRelate]
 * WikiTree TBD
@@ -39,7 +38,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MMMM.Sarah_Lavinia_Kimball.adoc[Sarah Lavinia Kimball (1830 - 1909)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMMMP.Erastus_Brewster_Kimball.adoc[Erastus Brewster Kimball (1798 - 1879)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMMPP.Nathaniel_Kimball.adoc[Nathaniel Kimball (1768 - 1822)]
-* gen7.MMMMPPM.Mary_Satterlee_(1746_-_1809)
+* gen7.MMMMPPM.Mary_Satterlee_(1746 - 1809)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -49,9 +48,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MMMM.Sarah_Lavinia_Kimball.adoc[Sarah Lavinia Kimball (1830 - 1909)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMMMP.Erastus_Brewster_Kimball.adoc[Erastus Brewster Kimball (1798 - 1879)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMMPP.Nathaniel_Kimball.adoc[Nathaniel Kimball (1768 - 1822)]
-* gen7.MMMMPPM.Mary_Satterlee_(1746_-_1809)
+* gen7.MMMMPPM.Mary_Satterlee_(1746 - 1809)
 
 
 == Other
 
 == Sources
+

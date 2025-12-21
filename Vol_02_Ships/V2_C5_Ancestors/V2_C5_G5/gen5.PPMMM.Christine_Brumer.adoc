@@ -24,8 +24,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.PPMMM.Christine_Brumer.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0155[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0155http://localhost:4000/person?p=p0155https://cfsjksas.gigalixirapp.com/adoc?p=p0155http://localhost:4000/adoc?p=p0155* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Christine_Brumer_%281%29[WeRelate]
 * WikiTree TBD
@@ -37,9 +36,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.PP.Charles_Herbert_Sparrell.adoc[Charles Herbert Sparrell (1873 - 1961)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.PPM.Louisa_K_Kerber.adoc[Louisa K Kerber (1852 - 1922)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PPMM.Eva_Katherina_Schaal.adoc[Eva Katherina Schaal (1828 - 1902)]
-* gen5.PPMMM.Christine_Brumer_(?_-_?)
+* gen5.PPMMM.Christine_Brumer_(? - ?)
 
 
 == Other
 
 == Sources
+

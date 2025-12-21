@@ -16,7 +16,8 @@ Narrative TBD
 
 
 == Family
-* Mother: brickwall
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPMMPM.Mary_Ames.adoc[Mary Ames (1661 - 1727/8)]
+
 * Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPMMPP.Ralph_Stoddard.adoc[Ralph Stoddard (1666 - 1749)]
 
 * Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPPMM.Esther_Stoddard.adoc[Esther Stoddard (1740 - ?)]
@@ -24,9 +25,8 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPMMP.Ralph_Stoddard.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0896[Dev website]
-* Geni TBD
-* MyHeritage TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0896http://localhost:4000/person?p=p0896https://cfsjksas.gigalixirapp.com/adoc?p=p0896http://localhost:4000/adoc?p=p0896* https://www.geni.com/people/Ralph-Stoddard-Sr/6000000008868838094[Geni]
+* https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23001159/ralph-stoddard[MyHeritage]
 * https://www.werelate.org/wiki/Person:Ralph_Stoddard_%281%29[WeRelate]
 * WikiTree TBD
 
@@ -40,7 +40,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMMPP.Jabez_M_Edgecomb.adoc[Jabez M. Edgecomb (1791 - 1865)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMPPM.Esther_Morgan.adoc[Esther Morgan (1763 - 1843)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPPMM.Esther_Stoddard.adoc[Esther Stoddard (1740 - ?)]
-* gen8.MMMPPMMP.Ralph_Stoddard_(1697_-_1744)
+* gen8.MMMPPMMP.Ralph_Stoddard_(1697 - 1744)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -51,14 +51,13 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMMPP.Jabez_M_Edgecomb.adoc[Jabez M. Edgecomb (1791 - 1865)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMPPM.Esther_Morgan.adoc[Esther Morgan (1763 - 1843)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPPMM.Esther_Stoddard.adoc[Esther Stoddard (1740 - ?)]
-* gen8.MMMPPMMP.Ralph_Stoddard_(1697_-_1744)
+* gen8.MMMPPMMP.Ralph_Stoddard_(1697 - 1744)
 
 
 == Other
 event:  Sunstroke
-----
-2 TYPE _DCAUSE
-----
 
+* TYPE _DCAUSE
 
 == Sources
+

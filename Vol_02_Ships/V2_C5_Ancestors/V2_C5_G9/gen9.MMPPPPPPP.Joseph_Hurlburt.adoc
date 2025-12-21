@@ -24,8 +24,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMPPPPPPP.Joseph_Hurlburt.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0116[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0116http://localhost:4000/person?p=p0116https://cfsjksas.gigalixirapp.com/adoc?p=p0116http://localhost:4000/adoc?p=p0116* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Joseph_Hurlbut_%284%29[WeRelate]
 * WikiTree TBD
@@ -41,9 +40,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMPPPP.Adam_Hurlburt.adoc[Adam Hurlburt (1736 - 1828)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMPPPPP.Moses_Hurlburt.adoc[Moses Hurlburt (1714 - 1763)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMPPPPPP.Joseph_Hurlburt.adoc[Joseph Hurlburt (1677 - 1729)]
-* gen9.MMPPPPPPP.Joseph_Hurlburt_(1644_-_1732)
+* gen9.MMPPPPPPP.Joseph_Hurlburt_(1644 - 1732)
 
 
 == Other
 
 == Sources
+

@@ -1,0 +1,120 @@
+= Herbert Kirkwood Sparrell (1847 - 1923)
+
+Narrative TBD
+
+
+== Vital Stats
+
+
+* Sex: M
+* Birth: 16 MAY 1847
+* Birthplace: Worcester, Worcester, Massachusetts, USA
+* Death: 20 OCT 1923
+* Deathplace: Worcester, Worcester, Massachusetts, USA
+* Buried: 
+
+* PLAC Hope Cemetery, Worcester, Worcester, Massachusetts, USA
+* Age at Death: 76
+* Death Cause: Cardio-renal failure
+
+
+== Family
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PPPM.Emiline_S_Gleason.adoc[Emiline S Gleason (1825 - 1908)]
+
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PPPP.James_Newton_Sparrell.adoc[James Newton Sparrell (1825 - 1877)]
+
+* Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.PP.Charles_Herbert_Sparrell.adoc[Charles Herbert Sparrell (1873 - 1961)]
+
+
+== Reference Links
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.PPP.Herbert_Kirkwood_Sparrell.adoc[Book Link]
+https://cfsjksas.gigalixirapp.com/person?p=p0273http://localhost:4000/person?p=p0273https://cfsjksas.gigalixirapp.com/adoc?p=p0273http://localhost:4000/adoc?p=p0273* https://www.geni.com/people/Herbert-K-Sparrell/6000000007500143808[Geni]
+* https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000508/herbert-kirkwood-sparrell[MyHeritage]
+* https://www.werelate.org/wiki/Person:Herbert_Sparrell_%281%29[WeRelate]
+* WikiTree TBD
+
+== Relations
+=== Lineage #1
+* https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.P.Herbert_Kirkwood_Sparrell.adoc[Herbert Kirkwood Sparrell (1899 - 1978)]
+* https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.PP.Charles_Herbert_Sparrell.adoc[Charles Herbert Sparrell (1873 - 1961)]
+* gen3.PPP.Herbert_Kirkwood_Sparrell_(1847 - 1923)
+
+
+== Other
+census: 
+
+* DATE 1860
+
+* PLAC Scituate, Plymouth, Massachusetts, USA
+
+* AGE 13
+event:  18th MVM- Orderly to Colonel Hayes
+
+* TYPE Military Service
+
+* DATE MAY 1861
+
+* AGE 13-14 Cause of death: Cardio-renal failure Retired (Volstead Act - Breweries closed)
+
+* TYPE Retired
+
+* DATE 1920
+
+* AGE 72-73 _MEDICAL of Sparrell, Herbert Kirkwood
+
+* TYPE _MEDICAL
+notes: When Herbert K. Sparrell returned to Worcester from the Civil War in 1864, he was still in his teens. He went to work for a local butcher/sausage maker and learned the trade. Through his work he became acquainted with a German beer & sausage saloonkeeper named Franz Josef Kerber. In 1871 they established a "smoked meat shop" under the name of Kerber & Sparrell catering to the local German immigrant community. In 1872 Herbert married Louisa Katherine, one of the identical twin daughters of Franz. In August 1873, Franz died leaving Herbert and Louisa to run the shop. Louisa and Herbert extended credit to their customers, entering the sums due in a large ledger. In 1874 a financial panic occurred. Many customers lost their jobs and were unable to pay their bills. The shop went under and the penniless couple was helped out by her extended family of German relatives.
+
+Herbert found a job as a clerk in 1875, but by 1883 he had established a beer and sausage saloon catering to the German community. While runningthe saloon, Herbert met two brothers from Yorkshire who knew how to make good English ale but didn't know how to market it to Americans.  (Inthose days, beer and ale were locally brewed and distributed in barrels to saloons. If you wanted beer, you drank in a saloon or took a tin container called a "growler" down to the saloon to be filled and brought home.) Herbert offered to help the Bowler brothers sell their beer to the local saloons. Herbert turned out to be a fabulous salesman. Bowler Brothers became the largest brewery in Massachusetts. In 1891, Herbert's title was "salesman", by 1897 he was "General Agent" and by 1899, "Vice President". The Bowler brothers and H.K. Sparrell made fortunes and lived in grand style. When the Volstead Act outlawed beer in 1918, they were old and rich so they just shut up shop and retired. Herbert K. left quite a bit of money to his children and grandchildren when he died in 1923. Bowler Brothers Brewery, Ltd. operated from 1883 - 1918 at the corner of Quinsigamond and Ellsworth Streets in Worcester. According to article in Worcester Daily Spy, the reception for Emily Sparrell's (their daughter) wedding was held at their house at 6 Richards St, Worcester, MA
+occupation: Butcher,
+
+* DATE 1864
+
+* PLAC Worcester, Worcester, Massachusetts, USA
+
+* AGE 16-17Clerk
+
+* DATE 1875
+
+* AGE 27-28General Agent, Bowler Brothers Brewery
+
+* DATE 1897
+
+* AGE 49-50Partner with F. J. Kerber in Butcher shop
+
+* DATE 1872
+
+* AGE 24-25Salesman, Bowler Bros.
+
+* DATE 1891
+
+* AGE 43-44Saloon Keeper
+
+* DATE 1880
+
+* AGE 32-33Saloon Keeper
+
+* DATE 1883
+
+* AGE 35-36Shop failed in financial panic
+
+* DATE 1874
+
+* AGE 26-27Vice Pres., Bowler Bros.
+
+* DATE 1899
+
+* AGE 51-52
+residence: 
+
+* DATE 1902
+
+* AGE 54-55
+
+* ADDR
+
+* ADR1 6 RIchards St, Worcester, Massachusetts
+
+== Sources
+

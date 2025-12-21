@@ -21,8 +21,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPPPMM.Elizabeth_Goodrich.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0070[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0070http://localhost:4000/person?p=p0070https://cfsjksas.gigalixirapp.com/adoc?p=p0070http://localhost:4000/adoc?p=p0070* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Elizabeth_Goodrich_%2823%29[WeRelate]
 * WikiTree TBD
@@ -36,9 +35,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PMPP.Elijah_Genubeth_Strong.adoc[Elijah Genubeth Strong (1818 - 1870)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.PMPPP.Genubeth_Strong.adoc[Genubeth Strong (1791 - 1856)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PMPPPM.Lucy_Kilbourn.adoc[Lucy Kilbourn (? - 1825)]
-* gen7.PMPPPMM.Elizabeth_Goodrich_(1733_-_?)
+* gen7.PMPPPMM.Elizabeth_Goodrich_(1733 - ?)
 
 
 == Other
 
 == Sources
+

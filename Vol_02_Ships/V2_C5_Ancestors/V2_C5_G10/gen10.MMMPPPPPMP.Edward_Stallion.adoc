@@ -28,8 +28,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPPPPMP.Edward_Stallion.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0269[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0269http://localhost:4000/person?p=p0269https://cfsjksas.gigalixirapp.com/adoc?p=p0269http://localhost:4000/adoc?p=p0269* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Edward_Stallyon_%281%29[WeRelate]
 * WikiTree TBD
@@ -47,7 +46,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMMPP.Theophilus_Avery.adoc[Theophilus Avery (1708 - 1799)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMMPPP.Edward_Avery.adoc[Edward Avery (1676 - 1709)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMMPPPM.Deborah_Stallion.adoc[Deborah Stallion (1648 - 1729)]
-* gen10.MMMPPPPPMP.Edward_Stallion_(1623_-_1703)
+* gen10.MMMPPPPPMP.Edward_Stallion_(1623 - 1703)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -61,7 +60,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMPPM.Deborah_Allyn.adoc[Deborah Allyn (1698 - 1770)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMPPMM.Deborah_Avery.adoc[Deborah Avery (1670 - 1739)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMMPPPM.Deborah_Stallion.adoc[Deborah Stallion (1648 - 1729)]
-* gen10.MMMPPPPPMP.Edward_Stallion_(1623_-_1703)
+* gen10.MMMPPPPPMP.Edward_Stallion_(1623 - 1703)
 
 === Lineage #3
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -74,7 +73,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPPPP.Samuel_Edgecomb.adoc[Samuel Edgecomb (1730 - 1795)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPPPP.Thomas_Edgecomb.adoc[Thomas Edgecomb (1694 - 1745)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPPPPM.Sarah_Stallion.adoc[Sarah Stallion (1654 - 1703)]
-* gen10.MMMPPPPPMP.Edward_Stallion_(1623_-_1703)
+* gen10.MMMPPPPPMP.Edward_Stallion_(1623 - 1703)
 
 === Lineage #4
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -88,7 +87,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMMPP.Theophilus_Avery.adoc[Theophilus Avery (1708 - 1799)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMMPPP.Edward_Avery.adoc[Edward Avery (1676 - 1709)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMMPPPM.Deborah_Stallion.adoc[Deborah Stallion (1648 - 1729)]
-* gen10.MMMPPPPPMP.Edward_Stallion_(1623_-_1703)
+* gen10.MMMPPPPPMP.Edward_Stallion_(1623 - 1703)
 
 === Lineage #5
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -102,7 +101,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMPPM.Deborah_Allyn.adoc[Deborah Allyn (1698 - 1770)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMPPMM.Deborah_Avery.adoc[Deborah Avery (1670 - 1739)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMMPPPM.Deborah_Stallion.adoc[Deborah Stallion (1648 - 1729)]
-* gen10.MMMPPPPPMP.Edward_Stallion_(1623_-_1703)
+* gen10.MMMPPPPPMP.Edward_Stallion_(1623 - 1703)
 
 === Lineage #6
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -115,10 +114,11 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPPPP.Samuel_Edgecomb.adoc[Samuel Edgecomb (1730 - 1795)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPPPP.Thomas_Edgecomb.adoc[Thomas Edgecomb (1694 - 1745)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPPPPM.Sarah_Stallion.adoc[Sarah Stallion (1654 - 1703)]
-* gen10.MMMPPPPPMP.Edward_Stallion_(1623_-_1703)
+* gen10.MMMPPPPPMP.Edward_Stallion_(1623 - 1703)
 
 
 == Other
 notes: Coroner's jury determined that he accidently fell from a canoe and drowned.
 
 == Sources
+

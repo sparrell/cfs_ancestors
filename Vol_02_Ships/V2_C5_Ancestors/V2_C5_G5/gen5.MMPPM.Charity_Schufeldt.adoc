@@ -25,8 +25,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMPPM.Charity_Schufeldt.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0107[Dev website]
-* https://www.geni.com/people/Charity-Schufeldt/6000000219179990285[Geni]
+https://cfsjksas.gigalixirapp.com/person?p=p0107http://localhost:4000/person?p=p0107https://cfsjksas.gigalixirapp.com/adoc?p=p0107http://localhost:4000/adoc?p=p0107* https://www.geni.com/people/Charity-Schufeldt/6000000219179990285[Geni]
 * https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000336/charity-schufeldt-hurlburt[MyHeritage]
 * https://www.werelate.org/wiki/Person:Charity_Schufeldt_%281%29[WeRelate]
 * WikiTree TBD
@@ -38,10 +37,11 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.MM.Ida_A_Hurlburt.adoc[Ida A Hurlburt (1874 - 1965)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.MMP.Charles_Henry_Hurlburt.adoc[Charles Henry Hurlburt (1849 - 1930)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MMPP.Charles_S_Hurlburt.adoc[Charles S Hurlburt (1823 - 1886)]
-* gen5.MMPPM.Charity_Schufeldt_(1792_-_1851)
+* gen5.MMPPM.Charity_Schufeldt_(1792 - 1851)
 
 
 == Other
 notes: Charity Schufeldt is presumably a descendant of Johann George Zufelt and his wife, Anna Catherine Zaam who emigrated with their children to New york about 1710. They came in a group of Evangelical Protestants fleeing religious persecution in the German pricipality of Pfalz (now the State of Rhineland- Palatinate or Rhine-Pfalz).They founded the town of Rhinebeck on the Hudson River.
 
 == Sources
+

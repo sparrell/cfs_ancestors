@@ -15,17 +15,16 @@ Narrative TBD
 
 
 == Family
-* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMMMMPMMM.Esther_Unknown112.adoc[Esther Unknown112 (? - ?)]
+* Mother: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMMMMPMMM.Esther_Unknown112.adoc[Esther Unknown112-* (? - ?)]
 
-* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMMMMPMMP.John_Nichols.adoc[John Nichols (? - ?)]
+* Father: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMMMMPMMP.John_Nichols.adoc[John Nichols (1601 - 1651)]
 
 * Child*: https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMMMPM.Elizabeth_Prentice.adoc[Elizabeth Prentice (1676 - 1770)]
 
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMMMPMM.Hester_Nichols.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0742[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0742http://localhost:4000/person?p=p0742https://cfsjksas.gigalixirapp.com/adoc?p=p0742http://localhost:4000/adoc?p=p0742* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -42,7 +41,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMMMM.Mary_Comstock.adoc[Mary Comstock (1743 - 1785)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMMMP.John_Comstock.adoc[John Comstock (1705 - 1743)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMMMPM.Elizabeth_Prentice.adoc[Elizabeth Prentice (1676 - 1770)]
-* gen10.MMMMMMMPMM.Hester_Nichols_(1635_-_1679)
+* gen10.MMMMMMMPMM.Hester_Nichols_(1635 - 1679)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -55,9 +54,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMMMM.Mary_Comstock.adoc[Mary Comstock (1743 - 1785)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMMMP.John_Comstock.adoc[John Comstock (1705 - 1743)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMMMPM.Elizabeth_Prentice.adoc[Elizabeth Prentice (1676 - 1770)]
-* gen10.MMMMMMMPMM.Hester_Nichols_(1635_-_1679)
+* gen10.MMMMMMMPMM.Hester_Nichols_(1635 - 1679)
 
 
 == Other
 
 == Sources
+

@@ -27,8 +27,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.PMPPMPPMPMMP.Richard_Ingersoll.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0044[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0044http://localhost:4000/person?p=p0044https://cfsjksas.gigalixirapp.com/adoc?p=p0044http://localhost:4000/adoc?p=p0044* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -47,24 +46,38 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPPMPPMP.Judah_Hutchinson.adoc[Judah Hutchinson (1664 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PMPPMPPMPM.Alice_Wallcott.adoc[Alice Wallcott (1635 - 1714)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PMPPMPPMPMM.Alice_Ingersoll.adoc[Alice Ingersoll (1612 - ?)]
-* gen12.PMPPMPPMPMMP.Richard_Ingersoll_(1587_-_1644)
+* gen12.PMPPMPPMPMMP.Richard_Ingersoll_(1587 - 1644)
 
 
 == Other
 immigration: England to Salem
-----
-2 DATE 1629
-2 AGE 41-42
-----
 
+* DATE 1629
+
+* AGE 41-42
 
 == Sources
 * @S28@
-----
-2 PAGE http://www.myheritage.com/research/collection-30042/england-births-christenings-1538-1975?s=20674952&itemId=52766949-F&action=showRecord&indId=individual-20674952-15000234
-2 QUAY 4
-2 DATA
-3 TEXT <p>Richard Inkersall<br />Gender: Female<br />Christening: Dec 21 1612 - Sandy, Bedford, England<br />Father: Richard Inkersall<br />Child: Alice Inkersall<br />Indexing Project (Batch) Number: P00339
-4 CONC -1<br />System Origin: England-ODM<br />GS Film number: 599349</p>
-----
+
+* PAGE http://www.myheritage.com/research/collection-30042/england-births-christenings-1538-1975?s=20674952&itemId=52766949-F&action=showRecord&indId=individual-20674952-15000234
+
+* QUAY 4
+
+* DATA
+
+* TEXT Richard Inkersall
+
+Gender: Female
+
+Christening: Dec 21 1612 - Sandy, Bedford, England
+
+Father: Richard Inkersall
+
+Child: Alice Inkersall
+
+Indexing Project (Batch) Number: -1
+
+System Origin: England-ODM
+
+GS Film number: 599349
 

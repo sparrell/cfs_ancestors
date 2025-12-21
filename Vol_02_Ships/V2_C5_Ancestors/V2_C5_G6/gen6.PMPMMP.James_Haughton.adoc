@@ -24,8 +24,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PMPMMP.James_Haughton.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0080[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0080http://localhost:4000/person?p=p0080https://cfsjksas.gigalixirapp.com/adoc?p=p0080http://localhost:4000/adoc?p=p0080* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:James_Haughton_%281%29[WeRelate]
 * WikiTree TBD
@@ -38,18 +37,19 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.PMP.Albert_Randolph_Strong.adoc[Albert Randolph Strong (1845 - 1920)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PMPM.Elizabeth_Shaw_Whaley.adoc[Elizabeth Shaw Whaley (1813 - 1870)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.PMPMM.Philena_Haughton.adoc[Philena Haughton (1776 - ?)]
-* gen6.PMPMMP.James_Haughton_(1719_-_1804)
+* gen6.PMPMMP.James_Haughton_(1719 - 1804)
 
 
 == Other
 census: 
-----
-2 DATE 4 AUG 1800
-2 PLAC Montville, New London, Connecticut, USA
-2 AGE 81
-----
 
-notes: <p>In March 1784,James Haughton was on of five overseers ot the Mohican Tribe of Indians who advertised in the New London newspaper to lease outIndian lands.</p> <p>&nbsp;</p> <p>James kept a tavern on the Mohican Turnpike in Montville. There were numerous newspaper ads for meetings of the New London Medical Society and public sales at the tavern.</p>
+* DATE 4 AUG 1800
+
+* PLAC Montville, New London, Connecticut, USA
+
+* AGE 81
+notes: In March 1784,James Haughton was on of five overseers ot the Mohican Tribe of Indians who advertised in the New London newspaper to lease outIndian lands. James kept a tavern on the Mohican Turnpike in Montville. There were numerous newspaper ads for meetings of the New London Medical Society and public sales at the tavern.
 occupation: Tavern Keeper, Montville CT
 
 == Sources
+

@@ -21,8 +21,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPPPMMPP.Jonathan_Goodrich.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0793[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0793http://localhost:4000/person?p=p0793https://cfsjksas.gigalixirapp.com/adoc?p=p0793http://localhost:4000/adoc?p=p0793* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -38,10 +37,11 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PMPPPM.Lucy_Kilbourn.adoc[Lucy Kilbourn (? - 1825)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPPPMM.Elizabeth_Goodrich.adoc[Elizabeth Goodrich (1733 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPPPMMP.Moses_Goodrich.adoc[Moses Goodrich (1697 - ?)]
-* gen9.PMPPPMMPP.Jonathan_Goodrich_(1657_-_?)
+* gen9.PMPPPMMPP.Jonathan_Goodrich_(1657 - ?)
 
 
 == Other
 occupation: Tailor
 
 == Sources
+

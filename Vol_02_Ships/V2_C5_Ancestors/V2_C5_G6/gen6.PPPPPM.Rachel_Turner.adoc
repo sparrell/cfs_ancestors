@@ -12,10 +12,8 @@ Narrative TBD
 * Death: 25 MAY 1866
 * Deathplace: Scituate, Plymouth, Massachusetts, USA
 * Buried: 
-----
-2 PLAC Norwell Center Cemetery, Norwell, Plymouth, Massachusetts, USA
-----
 
+* PLAC Norwell Center Cemetery, Norwell, Plymouth, Massachusetts, USA
 * Age at Death: 90
 
 
@@ -29,8 +27,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PPPPPM.Rachel_Turner.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0551[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0551http://localhost:4000/person?p=p0551https://cfsjksas.gigalixirapp.com/adoc?p=p0551http://localhost:4000/adoc?p=p0551* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Rachel_Turner_%2810%29[WeRelate]
 * WikiTree TBD
@@ -43,15 +40,14 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.PPP.Herbert_Kirkwood_Sparrell.adoc[Herbert Kirkwood Sparrell (1847 - 1923)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PPPP.James_Newton_Sparrell.adoc[James Newton Sparrell (1825 - 1877)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.PPPPP.James_Newton_Sparrell.adoc[James Newton Sparrell (1798 - 1859)]
-* gen6.PPPPPM.Rachel_Turner_(1776_-_1866)
+* gen6.PPPPPM.Rachel_Turner_(1776 - 1866)
 
 
 == Other
 event:  Buried Norwell Center Cemetery
-----
-2 TYPE Fact 7
-----
 
+* TYPE Fact 7
 notes: Preferred to be called "Betsy"
 
 == Sources
+

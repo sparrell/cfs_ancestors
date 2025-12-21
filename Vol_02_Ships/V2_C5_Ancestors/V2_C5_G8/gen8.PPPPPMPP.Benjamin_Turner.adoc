@@ -24,8 +24,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPPPMPP.Benjamin_Turner.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0617[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0617http://localhost:4000/person?p=p0617https://cfsjksas.gigalixirapp.com/adoc?p=p0617http://localhost:4000/adoc?p=p0617* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Benjamin_Turner_%2811%29[WeRelate]
 * WikiTree TBD
@@ -40,23 +39,11 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.PPPPP.James_Newton_Sparrell.adoc[James Newton Sparrell (1798 - 1859)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PPPPPM.Rachel_Turner.adoc[Rachel Turner (1776 - 1866)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPPPMP.John_Turner.adoc[John Turner (1693 - 1778)]
-* gen8.PPPPPMPP.Benjamin_Turner_(1660_-_1731)
+* gen8.PPPPPMPP.Benjamin_Turner_(1660 - 1731)
 
 
 == Other
-event:  62
-----
-2 TYPE Reference Number
-----
- 62
-----
-2 TYPE Reference Number
-----
-
-notes: John Turner divided his property among his sons, leaving his house and one quarter of the 80 acre North River Grant to Benjamin with the provision that his wife Mary should have the use of the house d
-----
-2 CONC uring her lifetime.
-----
-
+notes: John Turner divided his property among his sons, leaving his house and one quarter of the 80 acre North River Grant to Benjamin with the provision that his wife Mary should have the use of the house during her lifetime.
 
 == Sources
+

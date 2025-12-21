@@ -12,10 +12,8 @@ Narrative TBD
 * Death: BEF 20 JUL 1870
 * Deathplace: Montville, New London, Connecticut, USA
 * Buried: 
-----
-2 PLAC Comstock Cemetery, Uncasville, New London, Connecticut, USA
-----
 
+* PLAC Comstock Cemetery, Uncasville, New London, Connecticut, USA
 * Age at Death: About 52
 
 
@@ -29,8 +27,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PMPP.Elijah_Genubeth_Strong.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0106[Dev website]
-* https://www.geni.com/people/Elijah-Strong/6000000007728206519[Geni]
+https://cfsjksas.gigalixirapp.com/person?p=p0106http://localhost:4000/person?p=p0106https://cfsjksas.gigalixirapp.com/adoc?p=p0106http://localhost:4000/adoc?p=p0106* https://www.geni.com/people/Elijah-Strong/6000000007728206519[Geni]
 * https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000335/elijah-genubeth-strong[MyHeritage]
 * https://www.werelate.org/wiki/Person:Elijah_Strong_%284%29[WeRelate]
 * WikiTree TBD
@@ -41,28 +38,28 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.P.Herbert_Kirkwood_Sparrell.adoc[Herbert Kirkwood Sparrell (1899 - 1978)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.PM.Lavinia_Elizabeth_Strong.adoc[Lavinia Elizabeth Strong (1875 - 1941)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.PMP.Albert_Randolph_Strong.adoc[Albert Randolph Strong (1845 - 1920)]
-* gen4.PMPP.Elijah_Genubeth_Strong_(1818_-_1870)
+* gen4.PMPP.Elijah_Genubeth_Strong_(1818 - 1870)
 
 
 == Other
 census: 
-----
-2 DATE 1850
-2 PLAC Montville, New London, Connecticut, USA
-2 AGE 31-32
-----
 
-----
-2 DATE 1860
-2 PLAC The Town Of Montville, New London, Connecticut, USA
-2 AGE 41-42
-----
+* DATE 1850
 
+* PLAC Montville, New London, Connecticut, USA
+
+* AGE 31-32
+
+* DATE 1860
+
+* PLAC The Town Of Montville, New London, Connecticut, USA
+
+* AGE 41-42
 occupation: Factory Worker (Census)
-----
-2 DATE 1860
-2 AGE 41-42
-----
-Farmer and Joiner
+
+* DATE 1860
+
+* AGE 41-42Farmer and Joiner
 
 == Sources
+

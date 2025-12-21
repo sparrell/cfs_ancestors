@@ -24,8 +24,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPPPP.Thomas_Edgecomb.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0828[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0828http://localhost:4000/person?p=p0828https://cfsjksas.gigalixirapp.com/adoc?p=p0828http://localhost:4000/adoc?p=p0828* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -40,7 +39,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMMPP.Jabez_M_Edgecomb.adoc[Jabez M. Edgecomb (1791 - 1865)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMPPP.Jabez_Edgecomb.adoc[Jabez Edgecomb (1763 - 1843)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPPPP.Samuel_Edgecomb.adoc[Samuel Edgecomb (1730 - 1795)]
-* gen8.MMMPPPPP.Thomas_Edgecomb_(1694_-_1745)
+* gen8.MMMPPPPP.Thomas_Edgecomb_(1694 - 1745)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -51,9 +50,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMMPP.Jabez_M_Edgecomb.adoc[Jabez M. Edgecomb (1791 - 1865)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMPPP.Jabez_Edgecomb.adoc[Jabez Edgecomb (1763 - 1843)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPPPP.Samuel_Edgecomb.adoc[Samuel Edgecomb (1730 - 1795)]
-* gen8.MMMPPPPP.Thomas_Edgecomb_(1694_-_1745)
+* gen8.MMMPPPPP.Thomas_Edgecomb_(1694 - 1745)
 
 
 == Other
 
 == Sources
+

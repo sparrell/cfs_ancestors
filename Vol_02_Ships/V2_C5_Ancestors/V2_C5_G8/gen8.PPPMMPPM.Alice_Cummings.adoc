@@ -24,8 +24,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPMMPPM.Alice_Cummings.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0144[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0144http://localhost:4000/person?p=p0144https://cfsjksas.gigalixirapp.com/adoc?p=p0144http://localhost:4000/adoc?p=p0144* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Alice_Cummings_%284%29[WeRelate]
 * WikiTree TBD
@@ -40,14 +39,13 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.PPPMM.Sophia_Bixby.adoc[Sophia Bixby (1802 - 1859)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PPPMMP.John_Bixby.adoc[John Bixby (1767 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPMMPP.Pelitiah_Bixby.adoc[Pelitiah Bixby (1731 - 1822)]
-* gen8.PPPMMPPM.Alice_Cummings_(1695_-_1734)
+* gen8.PPPMMPPM.Alice_Cummings_(1695 - 1734)
 
 
 == Other
 residence: 
-----
-2 WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AAlice_Cummings_%284%29:
-----
 
+* WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AAlice_Cummings_%284%29:
 
 == Sources
+

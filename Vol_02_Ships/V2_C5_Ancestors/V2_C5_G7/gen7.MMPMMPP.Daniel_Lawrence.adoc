@@ -23,8 +23,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMPMMPP.Daniel_Lawrence.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p1030[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p1030http://localhost:4000/person?p=p1030https://cfsjksas.gigalixirapp.com/adoc?p=p1030http://localhost:4000/adoc?p=p1030* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Daniel_Lawrence_%2818%29[WeRelate]
 * WikiTree TBD
@@ -38,18 +37,21 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MMPM.Laura_Esther_Bennett.adoc[Laura Esther Bennett (1827 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMPMM.Esther_Lawrence.adoc[Esther Lawrence (1798 - 1870)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMPMMP.David_Lawrence.adoc[David Lawrence (1761 - 1837)]
-* gen7.MMPMMPP.Daniel_Lawrence_(1720_-_1775)
+* gen7.MMPMMPP.Daniel_Lawrence_(1720 - 1775)
 
 
 == Other
 
 == Sources
 * @S39@
-----
-2 PAGE Daniel Lawrence
-2 QUAY 3
-2 DATA
-3 DATE 7 APR 2016
-3 TEXT Added by confirming a Smart Match
-----
+
+* PAGE Daniel Lawrence
+
+* QUAY 3
+
+* DATA
+
+* DATE 7 APR 2016
+
+* TEXT Added by confirming a Smart Match
 

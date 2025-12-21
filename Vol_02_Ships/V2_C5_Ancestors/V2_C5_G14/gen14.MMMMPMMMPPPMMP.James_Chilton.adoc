@@ -28,8 +28,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G14/gen14.MMMMPMMMPPPMMP.James_Chilton.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0848[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0848http://localhost:4000/person?p=p0848https://cfsjksas.gigalixirapp.com/adoc?p=p0848http://localhost:4000/adoc?p=p0848* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:James_Chilton_%281%29[WeRelate]
 * WikiTree TBD
@@ -50,7 +49,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMMMPPP.Samuel_Leonard.adoc[Samuel Leonard (1643 - 1720)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.MMMMPMMMPPPM.Sarah_Chandler.adoc[Sarah Chandler (1622 - 1675)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G13/gen13.MMMMPMMMPPPMM.Isabella_Chilton.adoc[Isabella Chilton (1587 - ?)]
-* gen14.MMMMPMMMPPPMMP.James_Chilton_(1563_-_1620)
+* gen14.MMMMPMMMPPPMMP.James_Chilton_(1563 - 1620)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -67,18 +66,33 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMMMPPP.Samuel_Leonard.adoc[Samuel Leonard (1643 - 1720)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.MMMMPMMMPPPM.Sarah_Chandler.adoc[Sarah Chandler (1622 - 1675)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G13/gen13.MMMMPMMMPPPMM.Isabella_Chilton.adoc[Isabella Chilton (1587 - ?)]
-* gen14.MMMMPMMMPPPMMP.James_Chilton_(1563_-_1620)
+* gen14.MMMMPMMMPPPMMP.James_Chilton_(1563 - 1620)
 
 
 == Other
 
 == Sources
 * @S28@
-----
-2 PAGE http://www.myheritage.com/research/collection-30042/england-births-christenings-1538-1975?s=20674952&itemId=60979671-F&action=showRecord&indId=individual-20674952-15001272
-2 QUAY 4
-2 DATA
-3 TEXT <p>James Chilton<br />Gender: Female<br />Christening: Jan 15 1587 - Saint Paul, Canterbury, Kent, England<br />Father: James Chilton<br />Child: Isabell Chilton<br />Indexing Project (Batch) Number: 
-4 CONC P01654-1<br />System Origin: England-ODM<br />GS Film number: 942.23 C1 V26CT</p>
-----
+
+* PAGE http://www.myheritage.com/research/collection-30042/england-births-christenings-1538-1975?s=20674952&itemId=60979671-F&action=showRecord&indId=individual-20674952-15001272
+
+* QUAY 4
+
+* DATA
+
+* TEXT James Chilton
+
+Gender: Female
+
+Christening: Jan 15 1587 - Saint Paul, Canterbury, Kent, England
+
+Father: James Chilton
+
+Child: Isabell Chilton
+
+Indexing Project (Batch) Number: P01654-1
+
+System Origin: England-ODM
+
+GS Film number: 942.23 C1 V26CT
 

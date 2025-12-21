@@ -27,8 +27,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPPMPMPM.Sarah_Anne_Turney.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0887[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0887http://localhost:4000/person?p=p0887https://cfsjksas.gigalixirapp.com/adoc?p=p0887http://localhost:4000/adoc?p=p0887* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -46,7 +45,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPPMP.Nathan_Smith.adoc[Nathan Smith (1702 - 1784)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPPMPM.Dorothy_Wheeler.adoc[Dorothy Wheeler (1679 - 1736)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPPMPMP.Isaac_Wheeler.adoc[Isaac Wheeler (1642 - 1712)]
-* gen11.MMMPPPMPMPM.Sarah_Anne_Turney_(1620_-_1708)
+* gen11.MMMPPPMPMPM.Sarah_Anne_Turney_(1620 - 1708)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -60,18 +59,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMPPPMP.Nathan_Smith.adoc[Nathan Smith (1702 - 1784)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPPMPM.Dorothy_Wheeler.adoc[Dorothy Wheeler (1679 - 1736)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPPMPMP.Isaac_Wheeler.adoc[Isaac Wheeler (1642 - 1712)]
-* gen11.MMMPPPMPMPM.Sarah_Anne_Turney_(1620_-_1708)
+* gen11.MMMPPPMPMPM.Sarah_Anne_Turney_(1620 - 1708)
 
 
 == Other
-event:  868
-----
-2 TYPE Reference Number
-----
- 883
-----
-2 TYPE Reference Number
-----
-
 
 == Sources
+

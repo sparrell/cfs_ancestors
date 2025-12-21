@@ -23,8 +23,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMPPPPM.Rebecca_Warner.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0113[Dev website]
-* https://www.geni.com/people/Rebecca-Warner-Hurlburt-Bronson/6000000008260580002[Geni]
+https://cfsjksas.gigalixirapp.com/person?p=p0113http://localhost:4000/person?p=p0113https://cfsjksas.gigalixirapp.com/adoc?p=p0113http://localhost:4000/adoc?p=p0113* https://www.geni.com/people/Rebecca-Warner-Hurlburt-Bronson/6000000008260580002[Geni]
 * https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000345/rebecca-booth-hurlburt[MyHeritage]
 * https://www.werelate.org/wiki/Person:Rebecca_Warner_%284%29[WeRelate]
 * WikiTree TBD
@@ -38,9 +37,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MMPP.Charles_S_Hurlburt.adoc[Charles S Hurlburt (1823 - 1886)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMPPP.Wait_Hurlburt.adoc[Wait Hurlburt (1777 - 1852)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMPPPP.Adam_Hurlburt.adoc[Adam Hurlburt (1736 - 1828)]
-* gen7.MMPPPPM.Rebecca_Warner_(1715_-_1767)
+* gen7.MMPPPPM.Rebecca_Warner_(1715 - 1767)
 
 
 == Other
 
 == Sources
+

@@ -22,8 +22,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMMPMMP.Nicholas_Street.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0289[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0289http://localhost:4000/person?p=p0289https://cfsjksas.gigalixirapp.com/adoc?p=p0289http://localhost:4000/adoc?p=p0289* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -39,7 +38,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMMMP.Amos_Lester.adoc[Amos Lester (1776 - 1842)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMMPM.Anna_Lester.adoc[Anna Lester (1736 - 1807)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMPMM.Anna_Street.adoc[Anna Street (1710 - 1790)]
-* gen9.MMMMMPMMP.Nicholas_Street_(1677_-_?)
+* gen9.MMMMMPMMP.Nicholas_Street_(1677 - ?)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -51,21 +50,20 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMMMP.Amos_Lester.adoc[Amos Lester (1776 - 1842)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMMMPM.Anna_Lester.adoc[Anna Lester (1736 - 1807)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMMMMPMM.Anna_Street.adoc[Anna Street (1710 - 1790)]
-* gen9.MMMMMPMMP.Nicholas_Street_(1677_-_?)
+* gen9.MMMMMPMMP.Nicholas_Street_(1677 - ?)
 
 
 == Other
 event:  _ELEC of Street, Nicholas - Representative in Assembly for Groton
-----
-2 TYPE _ELEC
-2 DATE 1715
-2 AGE 37-38
-----
 
+* TYPE _ELEC
+
+* DATE 1715
+
+* AGE 37-38
 occupation: Tailor
-----
-2 PLAC Groton, New London, Connecticut, USA
-----
 
+* PLAC Groton, New London, Connecticut, USA
 
 == Sources
+

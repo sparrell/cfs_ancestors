@@ -10,12 +10,12 @@ Narrative TBD
 * Birth: 1738
 * Birthplace: Stonington, New London, Connecticut, USA
 * Christening: 
-----
-2 DATE 3 APR 1738
-2 PLAC Stonington, New London, Connecticut, USA
-2 AGE 0
-----
 
+* DATE 3 APR 1738
+
+* PLAC Stonington, New London, Connecticut, USA
+
+* AGE 0
 
 
 == Family
@@ -28,8 +28,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMMPMPP.Jedidiah_Chesebrough.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0944[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0944http://localhost:4000/person?p=p0944https://cfsjksas.gigalixirapp.com/adoc?p=p0944http://localhost:4000/adoc?p=p0944* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Jedidiah_Chesebrough_%281%29[WeRelate]
 * WikiTree TBD
@@ -43,7 +42,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MMMP.George_Washington_Edgecomb.adoc[George Washington Edgecomb (1826 - 1862)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMMPM.Bridget_Chesebrough.adoc[Bridget Chesebrough (1791 - 1857)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMPMP.Edward_Chesebrough.adoc[Edward Chesebrough (1766 - 1826)]
-* gen7.MMMPMPP.Jedidiah_Chesebrough_(1738_-_?)
+* gen7.MMMPMPP.Jedidiah_Chesebrough_(1738 - ?)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -53,9 +52,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MMMP.George_Washington_Edgecomb.adoc[George Washington Edgecomb (1826 - 1862)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMMPM.Bridget_Chesebrough.adoc[Bridget Chesebrough (1791 - 1857)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.MMMPMP.Edward_Chesebrough.adoc[Edward Chesebrough (1766 - 1826)]
-* gen7.MMMPMPP.Jedidiah_Chesebrough_(1738_-_?)
+* gen7.MMMPMPP.Jedidiah_Chesebrough_(1738 - ?)
 
 
 == Other
 
 == Sources
+

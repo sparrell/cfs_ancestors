@@ -27,12 +27,11 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PPPPPMPPMPP.William_Brewster.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0509[Dev website]
-* https://www.geni.com/people/Elder-William-Brewster-Mayflower-Passenger/358782031710004109[Geni]
+https://cfsjksas.gigalixirapp.com/person?p=p0509http://localhost:4000/person?p=p0509https://cfsjksas.gigalixirapp.com/adoc?p=p0509http://localhost:4000/adoc?p=p0509* https://www.geni.com/people/Elder-William-Brewster-Mayflower-Passenger/358782031710004109[Geni]
 * https://www.myheritage.com/profile-20674952-23000764/william-brewster[MyHeritage]
 * https://www.werelate.org/wiki/Person:William_Brewster_%283%29[WeRelate]
-* https://en.wikipedia.org/wiki/William_Brewster_(Mayflower_passenger)[Wikipedia]
 * https://www.wikitree.com/wiki/Brewster-4[WikiTree]
+* https://en.wikipedia.org/wiki/William_Brewster_(Mayflower_passenger)[wikipedia:]
 
 == Relations
 === Lineage #1
@@ -49,7 +48,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMPMPPM.Hannah_Bradley.adoc[Hannah Bradley (1656 - 1725)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMMPMPPMM.Elizabeth_Brewster.adoc[Elizabeth Brewster (1637 - 1708)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPPPMPPMP.Jonathan_Brewster.adoc[Jonathan Brewster (1593 - 1659)]
-* gen11.PPPPPMPPMPP.William_Brewster_(1566_-_1644)
+* gen11.PPPPPMPPMPP.William_Brewster_(1566 - 1644)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -65,7 +64,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMPMPPM.Hannah_Bradley.adoc[Hannah Bradley (1656 - 1725)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMMPMPPMM.Elizabeth_Brewster.adoc[Elizabeth Brewster (1637 - 1708)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPPPMPPMP.Jonathan_Brewster.adoc[Jonathan Brewster (1593 - 1659)]
-* gen11.PPPPPMPPMPP.William_Brewster_(1566_-_1644)
+* gen11.PPPPPMPPMPP.William_Brewster_(1566 - 1644)
 
 === Lineage #3
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -80,7 +79,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMPPP.Benjamin_Brewster.adoc[Benjamin Brewster (1688 - 1752)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMPPPP.William_Brewster.adoc[William Brewster (1645 - 1723)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMPPPPP.Love_Brewster.adoc[Love Brewster (1611 - 1651)]
-* gen11.PPPPPMPPMPP.William_Brewster_(1566_-_1644)
+* gen11.PPPPPMPPMPP.William_Brewster_(1566 - 1644)
 
 === Lineage #4
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -96,7 +95,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPMPMMM.Mary_Pickett.adoc[Mary Pickett (1652 - 1735)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPMPMMMM.Ruth_Brewster.adoc[Ruth Brewster (1631 - 1677)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPPPMPPMP.Jonathan_Brewster.adoc[Jonathan Brewster (1593 - 1659)]
-* gen11.PPPPPMPPMPP.William_Brewster_(1566_-_1644)
+* gen11.PPPPPMPPMPP.William_Brewster_(1566 - 1644)
 
 === Lineage #5
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -112,7 +111,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMPMPPM.Hannah_Bradley.adoc[Hannah Bradley (1656 - 1725)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMMPMPPMM.Elizabeth_Brewster.adoc[Elizabeth Brewster (1637 - 1708)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPPPMPPMP.Jonathan_Brewster.adoc[Jonathan Brewster (1593 - 1659)]
-* gen11.PPPPPMPPMPP.William_Brewster_(1566_-_1644)
+* gen11.PPPPPMPPMPP.William_Brewster_(1566 - 1644)
 
 === Lineage #6
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -128,7 +127,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMMPMPPM.Hannah_Bradley.adoc[Hannah Bradley (1656 - 1725)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMMPMPPMM.Elizabeth_Brewster.adoc[Elizabeth Brewster (1637 - 1708)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPPPMPPMP.Jonathan_Brewster.adoc[Jonathan Brewster (1593 - 1659)]
-* gen11.PPPPPMPPMPP.William_Brewster_(1566_-_1644)
+* gen11.PPPPPMPPMPP.William_Brewster_(1566 - 1644)
 
 === Lineage #7
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -143,7 +142,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMPPP.Benjamin_Brewster.adoc[Benjamin Brewster (1688 - 1752)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMPPPP.William_Brewster.adoc[William Brewster (1645 - 1723)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMPPPPP.Love_Brewster.adoc[Love Brewster (1611 - 1651)]
-* gen11.PPPPPMPPMPP.William_Brewster_(1566_-_1644)
+* gen11.PPPPPMPPMPP.William_Brewster_(1566 - 1644)
 
 === Lineage #8
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -159,7 +158,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPMPMMM.Mary_Pickett.adoc[Mary Pickett (1652 - 1735)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPMPMMMM.Ruth_Brewster.adoc[Ruth Brewster (1631 - 1677)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPPPMPPMP.Jonathan_Brewster.adoc[Jonathan Brewster (1593 - 1659)]
-* gen11.PPPPPMPPMPP.William_Brewster_(1566_-_1644)
+* gen11.PPPPPMPPMPP.William_Brewster_(1566 - 1644)
 
 === Lineage #9
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -175,7 +174,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPMPMMM.Mary_Pickett.adoc[Mary Pickett (1652 - 1735)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPMPMMMM.Ruth_Brewster.adoc[Ruth Brewster (1631 - 1677)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPPPMPPMP.Jonathan_Brewster.adoc[Jonathan Brewster (1593 - 1659)]
-* gen11.PPPPPMPPMPP.William_Brewster_(1566_-_1644)
+* gen11.PPPPPMPPMPP.William_Brewster_(1566 - 1644)
 
 === Lineage #10
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -190,7 +189,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPMPMPMP.Thomas_Starr.adoc[Thomas Starr (1668 - 1712)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PMPMPMPMPM.Hannah_Brewster.adoc[Hannah Brewster (1641 - 1711)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPPPMPPMP.Jonathan_Brewster.adoc[Jonathan Brewster (1593 - 1659)]
-* gen11.PPPPPMPPMPP.William_Brewster_(1566_-_1644)
+* gen11.PPPPPMPPMPP.William_Brewster_(1566 - 1644)
 
 === Lineage #11
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -205,7 +204,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPMPPPM.Lydia_Turner.adoc[Lydia Turner (1653 - 1714)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPPMPPM.Mary_Brewster.adoc[Mary Brewster (1627 - 1697)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPPPMPPMP.Jonathan_Brewster.adoc[Jonathan Brewster (1593 - 1659)]
-* gen11.PPPPPMPPMPP.William_Brewster_(1566_-_1644)
+* gen11.PPPPPMPPMPP.William_Brewster_(1566 - 1644)
 
 === Lineage #12
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -219,50 +218,43 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPPPMPP.Benjamin_Turner.adoc[Benjamin Turner (1660 - 1731)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPPMPPM.Mary_Brewster.adoc[Mary Brewster (1627 - 1697)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPPPMPPMP.Jonathan_Brewster.adoc[Jonathan Brewster (1593 - 1659)]
-* gen11.PPPPPMPPMPP.William_Brewster_(1566_-_1644)
+* gen11.PPPPPMPPMPP.William_Brewster_(1566 - 1644)
 
 
 == Other
 education:  Enrolled Peterhouse, Cambridge University
-----
-2 DATE 3 DEC 1580
-2 AGE About 13-14
-----
 
+* DATE 3 DEC 1580
+
+* AGE About 13-14
 emigration:  aboard Mayflower to Plymouth
-----
-2 DATE 1620
-2 PLAC Plymouth, Plymouth, Massachusetts, USA
-2 AGE About 53-54
-----
- to Leyden, Hollamd
-----
-2 DATE 1608
-2 AGE About 41-42
-----
 
+* DATE 1620
+
+* PLAC Plymouth, Plymouth, Massachusetts, USA
+
+* AGE About 53-54 to Leyden, Hollamd
+
+* DATE 1608
+
+* AGE About 41-42
 event:  Freeman of Plymouth
-----
-2 TYPE Freeman
-----
- Gentleman
-----
-2 TYPE Title (Facts Pg)
-----
 
+* TYPE Freeman Gentleman
+
+* TYPE Title (Facts Pg)
 notes: Ancestor of President Zachary Taylor.
 occupation: Postmaster
-----
-2 DATE BEF 1608
-2 PLAC Scrooby, Nottinghamshire, UK
-2 AGE About 41-42
-----
-Printer in Leyden
-----
-2 PLAC Leiden, South Holland, Netherlands
-----
 
+* DATE BEF 1608
+
+* PLAC Scrooby, Nottinghamshire, UK
+
+* AGE About 41-42Printer in Leyden
+
+* PLAC Leiden, South Holland, Netherlands
 ordained: Church Elder preached at Plymouth
 title: Elder
 
 == Sources
+

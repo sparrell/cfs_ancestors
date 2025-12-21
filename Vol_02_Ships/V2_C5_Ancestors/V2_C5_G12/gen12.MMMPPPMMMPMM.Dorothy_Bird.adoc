@@ -27,8 +27,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.MMMPPPMMMPMM.Dorothy_Bird.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0907[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0907http://localhost:4000/person?p=p0907https://cfsjksas.gigalixirapp.com/adoc?p=p0907http://localhost:4000/adoc?p=p0907* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -47,7 +46,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPPMMM.Mary_Stanton.adoc[Mary Stanton (1687 - 1724)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPPMMMP.Robert_Stanton.adoc[Robert Stanton (1653 - 1724)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPPMMMPM.Ann_Lord.adoc[Ann Lord (1614 - 1688)]
-* gen12.MMMPPPMMMPMM.Dorothy_Bird_(1589_-_1676)
+* gen12.MMMPPPMMMPMM.Dorothy_Bird_(1589 - 1676)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -62,9 +61,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMPPPMMM.Mary_Stanton.adoc[Mary Stanton (1687 - 1724)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMPPPMMMP.Robert_Stanton.adoc[Robert Stanton (1653 - 1724)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMPPPMMMPM.Ann_Lord.adoc[Ann Lord (1614 - 1688)]
-* gen12.MMMPPPMMMPMM.Dorothy_Bird_(1589_-_1676)
+* gen12.MMMPPPMMMPMM.Dorothy_Bird_(1589 - 1676)
 
 
 == Other
 
 == Sources
+

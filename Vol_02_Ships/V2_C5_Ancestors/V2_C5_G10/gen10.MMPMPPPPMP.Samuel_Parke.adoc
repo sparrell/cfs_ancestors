@@ -29,8 +29,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMPMPPPPMP.Samuel_Parke.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0506[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0506http://localhost:4000/person?p=p0506https://cfsjksas.gigalixirapp.com/adoc?p=p0506http://localhost:4000/adoc?p=p0506* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -47,15 +46,15 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.MMPMPPP.Jacob_Bennett.adoc[Jacob Bennett (1735 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.MMPMPPPP.Issac_Bennett.adoc[Issac Bennett (1705 - 1783)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMPMPPPPM.Elizabeth_Parke.adoc[Elizabeth Parke (1672 - 1750)]
-* gen10.MMPMPPPPMP.Samuel_Parke_(1621_-_1684)
+* gen10.MMPMPPPPMP.Samuel_Parke_(1621 - 1684)
 
 
 == Other
 emigration:  emigrated at request of his father
-----
-2 DATE ABT 1665
-2 AGE About 43-44
-----
 
+* DATE ABT 1665
+
+* AGE About 43-44
 
 == Sources
+

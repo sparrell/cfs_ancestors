@@ -27,8 +27,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PMPPPMPPPPP.Thomas_Kilbourn.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0552[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0552http://localhost:4000/person?p=p0552https://cfsjksas.gigalixirapp.com/adoc?p=p0552http://localhost:4000/adoc?p=p0552* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -46,22 +45,22 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPPPMPP.Ebenezer_Kilbourn.adoc[Ebenezer Kilbourn (1679 - 1732)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPPPMPPP.John_Kilbourn.adoc[John Kilbourn (1651 - 1711)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PMPPPMPPPP.John_Kilbourn.adoc[John Kilbourn (1624 - 1703)]
-* gen11.PMPPPMPPPPP.Thomas_Kilbourn_(1578_-_1637)
+* gen11.PMPPPMPPPPP.Thomas_Kilbourn_(1578 - 1637)
 
 
 == Other
 emigration:  Killed in Indian attack on Wethersfield
-----
-2 DATE 1637
-2 AGE 58-59
-----
 
+* DATE 1637
+
+* AGE 58-59
 event:  Sailed on "Increase"
-----
-2 TYPE Military Service
-2 DATE 1635
-2 AGE 56-57
-----
 
+* TYPE Military Service
+
+* DATE 1635
+
+* AGE 56-57
 
 == Sources
+

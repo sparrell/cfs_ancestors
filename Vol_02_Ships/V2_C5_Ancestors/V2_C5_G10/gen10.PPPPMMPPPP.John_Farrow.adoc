@@ -10,12 +10,12 @@ Narrative TBD
 * Birth: BEF 9 MAY 1602
 * Birthplace: Hingham, Norfolk, England, UK
 * Baptism: 
-----
-2 DATE 9 MAY 1602
-2 PLAC Hingham, Norfolk, England, UK
-2 AGE About 0
-----
 
+* DATE 9 MAY 1602
+
+* PLAC Hingham, Norfolk, England, UK
+
+* AGE About 0
 * Death: 7 JUL 1687
 * Deathplace: Hingham, Plymouth, Massachusetts, USA
 * Age at Death: About 85
@@ -34,8 +34,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PPPPMMPPPP.John_Farrow.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0171[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0171http://localhost:4000/person?p=p0171https://cfsjksas.gigalixirapp.com/adoc?p=p0171http://localhost:4000/adoc?p=p0171* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:John_Farrow_%281%29[WeRelate]
 * WikiTree TBD
@@ -52,22 +51,20 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPPMMP.Thomas_Farrow.adoc[Thomas Farrow (1721 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPPMMPP.Benjamin_Farrow.adoc[Benjamin Farrow (1692 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PPPPMMPPP.Nathan_Farrow.adoc[Nathan Farrow (1654 - 1715)]
-* gen10.PPPPMMPPPP.John_Farrow_(1602_-_1687)
+* gen10.PPPPMMPPPP.John_Farrow_(1602 - 1687)
 
 
 == Other
 emigration:  Hingham England to Hingham MA
-----
-2 DATE 1635
-2 AGE About 32-33
-----
 
+* DATE 1635
+
+* AGE About 32-33
 notes: Illegitimate son of Katherine Farrow, father unknown
 occupation: Carpenter
 residence: 
-----
-2 WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AJohn_Farrow_%281%29:
-----
 
+* WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AJohn_Farrow_%281%29:
 
 == Sources
+

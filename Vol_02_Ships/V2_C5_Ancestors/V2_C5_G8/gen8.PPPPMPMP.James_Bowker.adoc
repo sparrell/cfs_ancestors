@@ -24,8 +24,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PPPPMPMP.James_Bowker.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0227[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0227http://localhost:4000/person?p=p0227https://cfsjksas.gigalixirapp.com/adoc?p=p0227http://localhost:4000/adoc?p=p0227* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:James_Bowker_%2814%29[WeRelate]
 * WikiTree TBD
@@ -40,14 +39,13 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.PPPPM.Desire_Sparrell.adoc[Desire Sparrell (1798 - 1872)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G6/gen6.PPPPMP.James_Barrell.adoc[James Barrell (1751 - 1801)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PPPPMPM.Deborah_Bowker.adoc[Deborah Bowker (1730 - 1813)]
-* gen8.PPPPMPMP.James_Bowker_(1695_-_1763)
+* gen8.PPPPMPMP.James_Bowker_(1695 - 1763)
 
 
 == Other
 residence: 
-----
-2 WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AJames_Bowker_%2814%29:
-----
 
+* WWW %3A+http%3A%2F%2Fwww.werelate.org%2Fwiki%2FPerson%3AJames_Bowker_%2814%29:
 
 == Sources
+

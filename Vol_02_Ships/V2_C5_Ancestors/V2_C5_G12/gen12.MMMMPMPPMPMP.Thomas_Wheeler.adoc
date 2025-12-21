@@ -27,8 +27,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G12/gen12.MMMMPMPPMPMP.Thomas_Wheeler.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0415[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0415http://localhost:4000/person?p=p0415https://cfsjksas.gigalixirapp.com/adoc?p=p0415http://localhost:4000/adoc?p=p0415* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Thomas_Wheeler_%2861%29[WeRelate]
 * WikiTree TBD
@@ -47,7 +46,7 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMPPM.Elizabeth_Witter.adoc[Elizabeth Witter (1694 - 1765)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMPPMP.Ebenezer_Witter.adoc[Ebenezer Witter (1668 - 1712)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMPPMPM.Elizabeth_Wheeler.adoc[Elizabeth Wheeler (1648 - 1672)]
-* gen12.MMMMPMPPMPMP.Thomas_Wheeler_(1602_-_1686)
+* gen12.MMMMPMPPMPMP.Thomas_Wheeler_(1602 - 1686)
 
 === Lineage #2
 * https://github.com/spoarrell/cfs_ancestors/tree/main/Vol_02_Ships/V2_C1_Principals/0_intro_principals.adoc[Charles, James, Ann Sparrell]
@@ -62,15 +61,15 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.MMMMPMPPM.Elizabeth_Witter.adoc[Elizabeth Witter (1694 - 1765)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.MMMMPMPPMP.Ebenezer_Witter.adoc[Ebenezer Witter (1668 - 1712)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.MMMMPMPPMPM.Elizabeth_Wheeler.adoc[Elizabeth Wheeler (1648 - 1672)]
-* gen12.MMMMPMPPMPMP.Thomas_Wheeler_(1602_-_1686)
+* gen12.MMMMPMPPMPMP.Thomas_Wheeler_(1602 - 1686)
 
 
 == Other
 occupation: Miller, yeomanWorked on bridge at Salem MA
-----
-2 DATE 1646
-2 AGE 43-44
-----
 
+* DATE 1646
+
+* AGE 43-44
 
 == Sources
+

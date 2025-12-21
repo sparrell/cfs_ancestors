@@ -24,8 +24,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G5/gen5.MMPMP.Jacob_Bennett.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0426[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0426http://localhost:4000/person?p=p0426https://cfsjksas.gigalixirapp.com/adoc?p=p0426http://localhost:4000/adoc?p=p0426* Geni TBD
 * MyHeritage TBD
 * https://www.werelate.org/wiki/Person:Jacob_Bennett_%285%29[WeRelate]
 * WikiTree TBD
@@ -37,9 +36,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.MM.Ida_A_Hurlburt.adoc[Ida A Hurlburt (1874 - 1965)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.MMP.Charles_Henry_Hurlburt.adoc[Charles Henry Hurlburt (1849 - 1930)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.MMPM.Laura_Esther_Bennett.adoc[Laura Esther Bennett (1827 - ?)]
-* gen5.MMPMP.Jacob_Bennett_(1798_-_1830)
+* gen5.MMPMP.Jacob_Bennett_(1798 - 1830)
 
 
 == Other
 
 == Sources
+

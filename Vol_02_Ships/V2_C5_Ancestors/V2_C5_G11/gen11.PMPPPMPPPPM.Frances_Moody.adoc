@@ -27,8 +27,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PMPPPMPPPPM.Frances_Moody.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0553[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0553http://localhost:4000/person?p=p0553https://cfsjksas.gigalixirapp.com/adoc?p=p0553http://localhost:4000/adoc?p=p0553* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -46,18 +45,10 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPPPMPP.Ebenezer_Kilbourn.adoc[Ebenezer Kilbourn (1679 - 1732)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPPPMPPP.John_Kilbourn.adoc[John Kilbourn (1651 - 1711)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PMPPPMPPPP.John_Kilbourn.adoc[John Kilbourn (1624 - 1703)]
-* gen11.PMPPPMPPPPM.Frances_Moody_(1584_-_1650)
+* gen11.PMPPPMPPPPM.Frances_Moody_(1584 - 1650)
 
 
 == Other
-event:  561
-----
-2 TYPE Reference Number
-----
- 561
-----
-2 TYPE Reference Number
-----
-
 
 == Sources
+

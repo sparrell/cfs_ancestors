@@ -12,10 +12,8 @@ Narrative TBD
 * Death: AFT 20 JUL 1870
 * Deathplace: Montville, New London, Connecticut, USA
 * Buried: 
-----
-2 PLAC Comstock Cemetery, Uncasville, New London, Connecticut, USA
-----
 
+* PLAC Comstock Cemetery, Uncasville, New London, Connecticut, USA
 * Age at Death: About 57
 
 
@@ -29,8 +27,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G4/gen4.PMPM.Elizabeth_Shaw_Whaley.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0119[Dev website]
-* https://www.geni.com/people/Elizabeth-Strong/6000000007727874196[Geni]
+https://cfsjksas.gigalixirapp.com/person?p=p0119http://localhost:4000/person?p=p0119https://cfsjksas.gigalixirapp.com/adoc?p=p0119http://localhost:4000/adoc?p=p0119* https://www.geni.com/people/Elizabeth-Strong/6000000007727874196[Geni]
 * https://www.myheritage.com/profile-OYYV6NML2DHJUFEXHD45V4W32Y6KPTI-23000353/elizabeth-shaw-whaley-strong[MyHeritage]
 * https://www.werelate.org/wiki/Person:Elizabeth_Whaley_%287%29[WeRelate]
 * WikiTree TBD
@@ -41,33 +38,29 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G1/gen1.P.Herbert_Kirkwood_Sparrell.adoc[Herbert Kirkwood Sparrell (1899 - 1978)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G2/gen2.PM.Lavinia_Elizabeth_Strong.adoc[Lavinia Elizabeth Strong (1875 - 1941)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G3/gen3.PMP.Albert_Randolph_Strong.adoc[Albert Randolph Strong (1845 - 1920)]
-* gen4.PMPM.Elizabeth_Shaw_Whaley_(1813_-_1870)
+* gen4.PMPM.Elizabeth_Shaw_Whaley_(1813 - 1870)
 
 
 == Other
 census: 
-----
-2 DATE 1850
-2 PLAC Montville, New London, Connecticut, USA
-2 AGE 36-37
-----
 
-----
-2 DATE 1860
-2 PLAC The Town Of Montville, New London, Connecticut, USA
-2 AGE 46-47
-----
+* DATE 1850
 
-notes: <p>The birth dates for Elizabeth and her husband suggest that she was fiveyears older than Elijah. The 1860 Federal Census confirms this. He is listed as a factory worker.</p> <p>&nbsp;</p> <p>The 187
-----
-2 CONC 0 census lists her as a widow and homemaker. Her son Albert and her daughter Mary were living with her and working in a cotton mill.</p>
-----
+* PLAC Montville, New London, Connecticut, USA
 
+* AGE 36-37
+
+* DATE 1860
+
+* PLAC The Town Of Montville, New London, Connecticut, USA
+
+* AGE 46-47
+notes: The birth dates for Elizabeth and her husband suggest that she was fiveyears older than Elijah. The 1860 Federal Census confirms this. He is listed as a factory worker. <The 1870 census lists her as a widow and homemaker. Her son Albert and her daughter Mary were living with her and working in a cotton mill.
 occupation: Factory Worker
-----
-2 DATE 1860
-2 AGE 46-47
-----
 
+* DATE 1860
+
+* AGE 46-47
 
 == Sources
+

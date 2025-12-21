@@ -27,8 +27,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PMPPPMMPPP.John_Goodrich.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p0795[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p0795http://localhost:4000/person?p=p0795https://cfsjksas.gigalixirapp.com/adoc?p=p0795http://localhost:4000/adoc?p=p0795* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -45,16 +44,16 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G7/gen7.PMPPPMM.Elizabeth_Goodrich.adoc[Elizabeth Goodrich (1733 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPPPMMP.Moses_Goodrich.adoc[Moses Goodrich (1697 - ?)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPPPMMPP.Jonathan_Goodrich.adoc[Jonathan Goodrich (1657 - ?)]
-* gen10.PMPPPMMPPP.John_Goodrich_(1635_-_1680)
+* gen10.PMPPPMMPPP.John_Goodrich_(1635 - 1680)
 
 
 == Other
 emigration:  Bury St. Edmunds, England to Hartford CT
-----
-2 DATE ABT 1643
-2 AGE About 7-8
-----
 
+* DATE ABT 1643
+
+* AGE About 7-8
 occupation: husbandman
 
 == Sources
+

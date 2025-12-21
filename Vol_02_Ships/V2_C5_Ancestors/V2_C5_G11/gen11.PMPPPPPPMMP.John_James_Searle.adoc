@@ -10,12 +10,12 @@ Narrative TBD
 * Birth: ABT 1539
 * Birthplace: Awiscombe Devonshire England
 * Christening: 
-----
-2 DATE 25 OCT 1539
-2 PLAC Kenn Devonshire England
-2 AGE ABOUT 0
-----
 
+* DATE 25 OCT 1539
+
+* PLAC Kenn Devonshire England
+
+* AGE ABOUT 0
 * Deathplace: Massachusetts
 
 
@@ -32,8 +32,7 @@ Narrative TBD
 
 == Reference Links
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G11/gen11.PMPPPPPPMMP.John_James_Searle.adoc[Book Link]
-* https://cfsjksas.gigalixirapp.com/person?p=p1246[Dev website]
-* Geni TBD
+https://cfsjksas.gigalixirapp.com/person?p=p1246http://localhost:4000/person?p=p1246https://cfsjksas.gigalixirapp.com/adoc?p=p1246http://localhost:4000/adoc?p=p1246* Geni TBD
 * MyHeritage TBD
 * WeRelate TBD
 * WikiTree TBD
@@ -51,18 +50,21 @@ Narrative TBD
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G8/gen8.PMPPPPPP.John_Strong.adoc[John Strong (1665 - 1749)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G9/gen9.PMPPPPPPM.Elizabeth_Warriner.adoc[Elizabeth Warriner (? - 1684)]
 * https://github.com/sparrell/cfs_ancestors/blob/main/Vol_02_Ships/V2_C5_Ancestors/V2_C5_G10/gen10.PMPPPPPPMM.Joanna_Searle.adoc[Joanna Searle (1602 - 1661)]
-* gen11.PMPPPPPPMMP.John_James_Searle_(1539_-_?)
+* gen11.PMPPPPPPMMP.John_James_Searle_(1539 - ?)
 
 
 == Other
 
 == Sources
 * @S48@
-----
-2 PAGE John James Searle
-2 QUAY 3
-2 DATA
-3 DATE 13 JAN 2019
-3 TEXT Added via a Person Discovery
-----
+
+* PAGE John James Searle
+
+* QUAY 3
+
+* DATA
+
+* DATE 13 JAN 2019
+
+* TEXT Added via a Person Discovery
 
